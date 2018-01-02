@@ -1,8 +1,7 @@
 baseurl = "http://sigir.jp/"
 
-DefaultContentLanguage = "en"
-#DefaultContentLanguage = "ja"
-title = "Tokyo ACM SIGIR Chapter"
+DefaultContentLanguage = "ja"
+title = "ACM SIGIR 東京支部"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -34,7 +33,7 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "Tokyo ACM SIGIR Chapter Officers"
+  name = "ACM SIGIR 東京支部 運営委員会"
   website = ""
   email = "sigir-tokyo@googlegroups.com"
   facebook = "acmsigirtokyo"
@@ -64,12 +63,12 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
-    name = "Tokyo Chapter"
+    name = "東京支部について"
     url = "page/about/"
     weight = 1
 
 [[menu.main]]
     parent = "about"
-    name = "Organization"
+    name = "運営組織"
     url = "page/organization/"
     weight = 2

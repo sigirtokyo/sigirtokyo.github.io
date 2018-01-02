@@ -1,27 +1,27 @@
 ---
-title: Organization
+title: 運営組織
 subtitle: ""
 comments: false
 ---
 
-## Chair
+## 幹事
 
-Hideo Joho (University of Tsukuba)
+上保 秀夫 （筑波大学）
 
-## Vice Chair
+## 副幹事
 
-Tetsuya Sakai (Waseda University)
+酒井 哲也 （早稲田大学）
 
-## Treasurer
+## 会計
 
-Masaharu Yoshioka (Hokkaido University)
+吉岡真治 （北海道大学）
 
-## Members
+## 委員
 
-- Atsushi Keyaki (Tokyo Institute of Technology)
-- Makoto P. Kato (Kyoto University)
-- Takehiro Yamamoto (Kyoto University)
-- Hiroaki Ohshima (University of Hyogo)
-- Kazunari Sugiyama (National University of Singapore)
-- Harumi Murakami (Osaka City University)
-- Haitao Yu (University of Tsukuba)
+- 欅 惇志 （東京工業大学）
+- 加藤 誠 （京都大学）
+- 山本 岳洋 （京都大学）
+- 大島 裕明 （兵庫県立大学）
+- 杉山 一成 （シンガポール国立大学）
+- 村上 晴美 （大阪市立大学）
+- 于 海涛 （筑波大学）

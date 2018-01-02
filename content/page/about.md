@@ -1,5 +1,5 @@
 ---
-title: About Tokyo Chapter
+title: ACM SIGIR 東京支部について
 subtitle: ""
 comments: false
 ---
