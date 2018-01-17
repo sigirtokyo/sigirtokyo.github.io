@@ -69,6 +69,18 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
+    name = "規約"
+    url = "page/bylaw/"
+    weight = 2
+
+[[menu.main]]
+    parent = "about"
     name = "運営組織"
     url = "page/organization/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "members"
+    name = "会員登録"
+    url = "page/registration/"
     weight = 2
