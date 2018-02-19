@@ -69,7 +69,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
-    name = "規約"
+    name = "支部規約"
     url = "page/bylaw/"
     weight = 2
 

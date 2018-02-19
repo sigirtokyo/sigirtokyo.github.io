@@ -1,10 +1,8 @@
 ---
-title: "規約"
+title: "ACM SIGIR 東京支部規約"
 date: 2018-01-17T18:59:40+09:00
 draft: false
 ---
-
-# ACM SIGIR 東京支部規約
 
 ## [第 I 条]　名称および対象分野
 
