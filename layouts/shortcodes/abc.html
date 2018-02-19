@@ -1,0 +1,10 @@
+{{$items := split .Inner "\n" }}
+<ol class="abc">
+{{ range $items }}
+{{$prefix := findRE "^[a-z][.][ ]+" .}}
+{{ if ne (len $prefix) 0 }}
+  {{$content := replaceRE "^[a-z][.][ ]+" "" .}}
+  <li>{{$content}}</li>
+{{ end }}
+{{ end }}
+</ol>

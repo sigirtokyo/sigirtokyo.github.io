@@ -12,3 +12,12 @@ body {
     font-size: 35px;
   }
 }
+
+/* abc list */
+ol.abc {
+    margin: 0;
+}
+.abc li {
+    margin: 0;
+    list-style-type: lower-latin;
+}
