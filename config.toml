@@ -34,7 +34,7 @@ pygmentCodeFences = true
 #  desc = "Hexagon"
 
 [Author]
-  name = "ACM SIGIR 東京支部 運営委員会"
+  name = "ACM SIGIR 東京支部"
   website = ""
   email = "sigir-tokyo@googlegroups.com"
   facebook = "acmsigirtokyo"
