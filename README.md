@@ -82,4 +82,10 @@ git push origin dev
 
 ## 本番環境の更新
 
-（更新予定）
+このレポジトリの`master`ブランチがそのままWebに公開されています．
+そのため，本番環境の更新は`master`ブランチの内容を`push`することで行えます．
+
+1. `hugo`コマンドを実行し，`public`フォルダに作成済みのHTML等を書き出す
+2. `git checkout master`で`master`ブランチをチェックアウト
+3. `public`フォルダの内容で`master`ブランチを更新
+4. `git add .`，`git commit`および`git push`で`master`ブランチを`push`
