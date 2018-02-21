@@ -1,0 +1,23 @@
+/* JP fonts */
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+/* Smaller h1 */
+@media only screen and (min-width: 768px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1 {
+    font-size: 50px;
+  }
+  .intro-header .post-heading h1 {
+    font-size: 35px;
+  }
+}
+
+/* abc list */
+ol.abc {
+    margin: 0;
+}
+.abc li {
+    margin: 0;
+    list-style-type: lower-latin;
+}

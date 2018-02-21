@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ACM SIGIR 東京支部</title>
+    <link>http://sigir.jp/post/</link>
+    <description>Recent content in Posts on ACM SIGIR 東京支部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
+    <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
+    <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://sigir.jp/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACM SIGIR 東京支部がACMに承認されました</title>
+      <link>http://sigir.jp/post/2017-12-27-first-post/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2017-12-27-first-post/</guid>
+      <description>2017年12月27にACM SIGIR 東京支部がACMに承認されました。 これをもって、ACM SIGIR 東京支部の公式な活動が開始されました。</description>
+    </item>
+    
+  </channel>
+</rss>
