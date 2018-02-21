@@ -62,7 +62,7 @@ d. Perform other duties as assigned by the Chair
 
 1. All proposed changes to these Chapter Bylaws shall be approved by ACM Headquarters - Chapters Department before being presented to the chapter membership for a vote.
 2. No official business of the Chapter shall be conducted unless a quorum is present. A quorum of the Chapter shall be defined as a majority of the voting membership of the Chapter.
-3. Officers will be elected by a plurality of votes cast. 
+3. Officers will be elected by a plurality of votes cast.
 
 ## Article IX: Code of Conduct
 
@@ -112,6 +112,9 @@ e. Organizing committee members (運営委員)
 ### [第 V 条]　会計
 1. 支部の事業年度は、毎年4月1日から翌年3月末日までとする。
 
-### [第 VI 条]　個人情報
+### [第 VI 条]　投票
+1. 投票に際して、支部の会員はChairに委任することができる．
+
+### [第 VII 条]　個人情報
 1. 支部の目的を達成するため必要となる会員の個人情報を、Officersで保持し利用することができる。
 会員情報の利用範囲は、支部活動の範囲に限定される。

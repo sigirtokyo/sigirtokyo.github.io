@@ -1,5 +1,5 @@
 ---
-title: 運営組織
+title: ACM SIGIR 東京支部役員
 subtitle: ""
 comments: false
 ---

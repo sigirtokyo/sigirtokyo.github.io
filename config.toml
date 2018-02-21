@@ -10,6 +10,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
+  etitle = "Tokyo ACM SIGIR Chapter"
   subtitle = ""
   logo = "img/sigir-icon.png"
   favicon = "img/favicon.ico"
@@ -75,7 +76,7 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
-    name = "運営組織"
+    name = "役員"
     url = "page/organization/"
     weight = 3
 
