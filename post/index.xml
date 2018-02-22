@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 16:15:35 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ACM SIGIR 東京支部のWebサイトが公開されました</title>
+      <link>http://sigir.jp/post/2018-02-21-website-launch/</link>
+      <pubDate>Wed, 21 Feb 2018 16:15:35 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-02-21-website-launch/</guid>
+      <description>2018年2月21日にACM SIGIR 東京支部のWebサイトが公開されました。 これと同時に会員登録が行えるようになっておりますので、 情報検索に関心の</description>
+    </item>
     
     <item>
       <title>ACM SIGIR 東京支部がACMに承認されました</title>
