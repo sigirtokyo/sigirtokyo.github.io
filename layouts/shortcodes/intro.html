@@ -1,0 +1,6 @@
+{{ with .Site.GetPage "page" "about.md" }}
+    <div class="post-preview">
+    {{ .Content | truncate 167 | replaceRE "<sup>.*</sup>" "" | safeHTML }}
+    <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
+    </div>
+{{ end }}
