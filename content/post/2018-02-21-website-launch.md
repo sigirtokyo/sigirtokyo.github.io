@@ -2,6 +2,7 @@
 title: ACM SIGIR 東京支部のWebサイトが公開されました
 date: 2018-02-21T16:15:35+09:00
 draft: false
+image: "/img/sigir-icon.png"
 ---
 
 2018年2月21日にACM SIGIR 東京支部のWebサイトが公開されました。

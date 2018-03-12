@@ -46,6 +46,9 @@ pygmentCodeFences = true
   #paypal = "username"
   #telegram = "username"
 
+[taxonomies]
+    tag = "tags"
+
 [[menu.main]]
     identifier = "about"
     name = "About"
