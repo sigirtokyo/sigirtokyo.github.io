@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Wed, 21 Feb 2018 16:15:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Mar 2018 09:26:47 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SIGIR 東京支部 2017年度 セミナー 1</title>
+      <link>http://sigir.jp/post/2018-03-12-2017-seminar-1/</link>
+      <pubDate>Mon, 12 Mar 2018 09:26:47 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-03-12-2017-seminar-1/</guid>
+      <description>日時 2018年3月30日 15:10 - 16:10 場所 早稲田大学 西早稲田キャンパス 63-05-06 Getting rid of the ten blue links 講演者 Professor Mark Sanderson (RMIT University) 概要 In this talk, I will first give a brief overview of the IR group at RMIT. Then I will describe the</description>
+    </item>
     
     <item>
       <title>ACM SIGIR 東京支部のWebサイトが公開されました</title>
