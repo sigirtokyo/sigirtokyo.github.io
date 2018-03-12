@@ -17,3 +17,5 @@ cp -rf public/* ./
 git add .
 git commit
 git push
+
+git checkout dev
