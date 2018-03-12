@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sigir.jp/post/2018-03-12-2017-seminar-1/</loc>
+    <lastmod>2018-03-12T09:26:47+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sigir.jp/post/2018-02-21-website-launch/</loc>
     <lastmod>2018-02-21T16:15:35+09:00</lastmod>
   </url>
@@ -24,7 +29,7 @@
   
   <url>
     <loc>http://sigir.jp/</loc>
-    <lastmod>2018-02-21T16:15:35+09:00</lastmod>
+    <lastmod>2018-03-12T09:26:47+09:00</lastmod>
   </url>
   
   <url>
@@ -36,7 +41,8 @@
   </url>
   
   <url>
-    <loc>http://sigir.jp/categories/</loc>
+    <loc>http://sigir.jp/tags/news/</loc>
+    <lastmod>2018-02-21T16:15:35+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,12 +54,25 @@
   
   <url>
     <loc>http://sigir.jp/post/</loc>
-    <lastmod>2018-02-21T16:15:35+09:00</lastmod>
+    <lastmod>2018-03-12T09:26:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://sigir.jp/tags/</loc>
+    <lastmod>2018-02-21T16:15:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2018-03-12T09:26:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</loc>
+    <lastmod>2018-03-12T09:26:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>セミナー on ACM SIGIR 東京支部</title>
+    <link>http://sigir.jp/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</link>
+    <description>Recent content in セミナー on ACM SIGIR 東京支部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
+    <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
+    <lastBuildDate>Mon, 12 Mar 2018 09:26:47 +0900</lastBuildDate>
+    
+	<atom:link href="http://sigir.jp/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIGIR 東京支部 2017年度 セミナー 1</title>
+      <link>http://sigir.jp/post/2018-03-12-2017-seminar-1/</link>
+      <pubDate>Mon, 12 Mar 2018 09:26:47 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-03-12-2017-seminar-1/</guid>
+      <description>日時 2018年3月30日 15:10 - 16:10 場所 早稲田大学 西早稲田キャンパス 63-05-06 Getting rid of the ten blue links 講演者 Professor Mark Sanderson (RMIT University) 概要 In this talk, I will first give a brief overview of the IR group at RMIT. Then I will describe the</description>
+    </item>
+    
+  </channel>
+</rss>
