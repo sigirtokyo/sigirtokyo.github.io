@@ -60,6 +60,14 @@ hugo new post/YYYY-MM-DD-page_name.md
 ```
 というコマンドが利用可能です．
 
+## 更新方針
+
+- 基本的に`post`を使用する
+- 最新情報： `post`に`tags = ["news"]`を設定．
+- イベント： `post`に`tags = ["news", "イベント"]`を設定．`subtitle`に日時と場所を書く．
+- セミナー： `post`に`tags = ["news", "イベント", "セミナー"]`を設定．`subtitle`に日時と場所を書く．
+
+
 ## プレビュー
 
 以下のコマンドを実行しておくことで，`http://localhost:1313/`にて変更内容をリアルタイムに確認できます：
