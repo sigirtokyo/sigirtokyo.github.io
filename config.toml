@@ -56,12 +56,6 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
-    name = "About Tokyo ACM SIGIR Chapter"
-    url = "page/en/about/"
-    weight = 1
-
-[[menu.main]]
-    parent = "about"
     name = "東京支部について"
     url = "page/about/"
     weight = 2
@@ -95,3 +89,16 @@ pygmentCodeFences = true
     name = "会員登録"
     url = "page/registration/"
     weight = 4
+
+[languages]
+
+[languages.ja]
+
+[languages.en]
+title = "Tokyo ACM SIGIR Chapter"
+
+[[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "page/about/"
+    weight = 1
