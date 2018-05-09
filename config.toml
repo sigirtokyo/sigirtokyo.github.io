@@ -1,7 +1,7 @@
 baseurl = "http://sigir.jp/"
 
 DefaultContentLanguage = "ja"
-hasCJKLanguage = true 
+hasCJKLanguage = true
 title = "ACM SIGIR 東京支部"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
@@ -56,21 +56,27 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
+    name = "About Tokyo ACM SIGIR Chapter"
+    url = "page/en/about/"
+    weight = 1
+
+[[menu.main]]
+    parent = "about"
     name = "東京支部について"
     url = "page/about/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     parent = "about"
     name = "支部規約"
     url = "page/bylaw/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     parent = "about"
     name = "役員"
     url = "page/organization/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     identifier = "news"
