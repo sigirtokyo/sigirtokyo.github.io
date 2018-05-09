@@ -18,8 +18,8 @@ January, 2018
 
 Tokyo ACM SIGIR Chapter
 
-Hideo Joho (Chair, University of Tsukuba)
-Tetsuya Sakai (Waseda University, Vice-Chair)
+Hideo Joho (Chair, University of Tsukuba)<br>
+Tetsuya Sakai (Waseda University, Vice-Chair)<br>
 Masaharu Yoshioka (Hokkaido University, Treasurer)
 
 *ACM: Association for Computing Machinery<br>
