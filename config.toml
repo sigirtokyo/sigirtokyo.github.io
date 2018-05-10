@@ -96,6 +96,7 @@ pygmentCodeFences = true
 
 [languages.en]
 title = "Tokyo ACM SIGIR Chapter"
+dateFormat = "January 2, 2006"
 
 [[languages.en.menu.main]]
     identifier = "about"

@@ -1,9 +1,0 @@
-{{ with .Site.GetPage "page" (.Get 0) }}
-  {{$content := .Content }}
-  {{$content := replace $content "<dt>日時</dt>" "<dt>Date</dt>" }}
-  {{$content := replace $content "<dt>場所</dt>" "<dt>Venue</dt>" }}
-  {{$content := replace $content "<dt>講演者</dt>" "<dt>Speaker</dt>" }}
-  {{$content := replace $content "<dt>概要</dt>" "<dt>Abstract</dt>" }}
-  {{$content := replace $content "<dt>略歴</dt>" "<dt>Biography</dt>" }}
-  {{$content | safeHTML}}
-{{ end }}
