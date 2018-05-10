@@ -45,11 +45,7 @@
             <li>
               {{ range .Site.Languages }}
                 {{ if not (eq .Lang $.Site.Language.Lang) }}
-                  {{ if eq .Lang "ja" }}
-                    <a href="/" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
-                  {{ else }}
-                    <a href="/{{ .Lang }}/" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
-                  {{ end }}
+                  <a href="{{ .Lang | absURL }}" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
                 {{ end }}
               {{ end }}
             </li>
