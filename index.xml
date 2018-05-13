@@ -18,7 +18,7 @@
       <pubDate>Mon, 12 Mar 2018 09:26:47 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/post/2018-03-12-2017-seminar-1/</guid>
-      <description>日時 2018年3月30日 15:10 - 16:10 場所 早稲田大学 西早稲田キャンパス 63-05-06 Getting rid of the ten blue links 講演者 Professor Mark Sanderson (RMIT University) 概要 In this talk, I will first give a brief overview of the IR group at RMIT. Then I will describe the</description>
+      <description>日時 / Date 2018年3月30日 15:10 - 16:10 / March 30, 2018 15:10 - 16:10 場所 / Venue 早稲田大学 西早稲田キャンパス 63-05-06 / Nishiwaseda Campus 63-05-06, Waseda University Getting rid of the ten blue links 講演者 / Speaker Professor Mark Sanderson (RMIT University) 概要 / Abstract</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/page/about/</guid>
-      <description>ACM SIGIR*は、情報検索分野最大の国際研究コミュニティであり、SIGIR・WSDM・CIKM・CHIIRなどの査読付き国際会議を主催してい</description>
+      <description>English version ACM SIGIR*は、情報検索分野最大の国際研究コミュニティであり、SIGIR・WSDM・CIKM・CHIIRなどの査読付き国際会議を主催し</description>
     </item>
     
     <item>
@@ -73,6 +73,16 @@
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/page/organization/</guid>
       <description>委員長 上保 秀夫 （筑波大学） 副委員長 酒井 哲也 （早稲田大学） 会計 吉岡真治 （北海道大学） 運営委員 欅 惇志 （東京工業大学） 加藤 誠 （京都大学） 山本 岳洋 （</description>
+    </item>
+    
+    <item>
+      <title>About Tokyo ACM SIGIR Chapter</title>
+      <link>http://sigir.jp/page/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/page/en/about/</guid>
+      <description>ACM SIGIR* is the largest international research community in the field of information retrieval (IR) and organizes peer-reviewed international conferences such as SIGIR, WSDM, CIKM, CHIIR, and so on. ACM has approved “Tokyo ACM SIGIR Chapter” as the first SIGIR local chapter in Japan since 27th December, 2017.
+In Japan, IR is one of computer science fields where researchers have been energetically working from diverse perspectives such as information access, databases, natural language processing, artificial intelligence, human computer interaction, digital libraries, knowledge management, and so on.</description>
     </item>
     
   </channel>

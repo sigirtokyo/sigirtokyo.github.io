@@ -36,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/page/about/</guid>
-      <description>ACM SIGIR*は、情報検索分野最大の国際研究コミュニティであり、SIGIR・WSDM・CIKM・CHIIRなどの査読付き国際会議を主催してい</description>
+      <description>English version ACM SIGIR*は、情報検索分野最大の国際研究コミュニティであり、SIGIR・WSDM・CIKM・CHIIRなどの査読付き国際会議を主催し</description>
     </item>
     
     <item>
@@ -46,6 +46,16 @@
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/page/organization/</guid>
       <description>委員長 上保 秀夫 （筑波大学） 副委員長 酒井 哲也 （早稲田大学） 会計 吉岡真治 （北海道大学） 運営委員 欅 惇志 （東京工業大学） 加藤 誠 （京都大学） 山本 岳洋 （</description>
+    </item>
+    
+    <item>
+      <title>About Tokyo ACM SIGIR Chapter</title>
+      <link>http://sigir.jp/page/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/page/en/about/</guid>
+      <description>ACM SIGIR* is the largest international research community in the field of information retrieval (IR) and organizes peer-reviewed international conferences such as SIGIR, WSDM, CIKM, CHIIR, and so on. ACM has approved “Tokyo ACM SIGIR Chapter” as the first SIGIR local chapter in Japan since 27th December, 2017.
+In Japan, IR is one of computer science fields where researchers have been energetically working from diverse perspectives such as information access, databases, natural language processing, artificial intelligence, human computer interaction, digital libraries, knowledge management, and so on.</description>
     </item>
     
   </channel>
