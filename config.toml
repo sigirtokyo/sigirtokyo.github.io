@@ -62,15 +62,21 @@ pygmentCodeFences = true
 
 [[menu.main]]
     parent = "about"
+    name = "About Tokyo Chapter"
+    url = "page/en/about/"
+    weight = 3
+
+[[menu.main]]
+    parent = "about"
     name = "支部規約"
     url = "page/bylaw/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     parent = "about"
     name = "役員"
     url = "page/organization/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     identifier = "news"
@@ -89,17 +95,3 @@ pygmentCodeFences = true
     name = "会員登録"
     url = "page/registration/"
     weight = 4
-
-[languages]
-
-[languages.ja]
-
-[languages.en]
-title = "Tokyo ACM SIGIR Chapter"
-dateFormat = "January 2, 2006"
-
-[[languages.en.menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "page/about/"
-    weight = 1

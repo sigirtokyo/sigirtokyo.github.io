@@ -28,7 +28,11 @@
             <article class="post-preview">
               <a href="{{ .Permalink }}">
                 <h2 class="post-title">{{ .Title }}</h2>
-
+                {{ if .Params.etitle }}
+                  <h3 class="post-etitle">
+                  {{ .Params.etitle }}
+                  </h3>
+                {{ end }}
                 {{ if .Params.subtitle }}
                   <h3 class="post-subtitle">
                     {{ .Params.subtitle }}

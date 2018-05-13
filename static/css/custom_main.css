@@ -5,19 +5,15 @@ body {
 
 /* Smaller h1 */
 .intro-header .page-heading h1,
-.intro-header .tags-heading h1 {
-font-size: 32px;
-}
+.intro-header .tags-heading h1,
 .intro-header .post-heading h1 {
-font-size: 24px;
+  font-size: 32px;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .page-heading h1,
-  .intro-header .tags-heading h1 {
-    font-size: 48px;
-  }
+  .intro-header .tags-heading h1,
   .intro-header .post-heading h1 {
-    font-size: 32px;
+    font-size: 48px;
   }
 }
 
@@ -72,3 +68,44 @@ ol.abc {
     background-color: rgb(64, 64, 64);
 }
 
+/* Subtitle */
+.post-preview .post-subtitle,
+.post-preview .post-etitle {
+  font-size: 16px;
+}
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading,
+.intro-header .page-heading .page-eheading,
+.intro-header .post-heading .post-eheading {
+  font-size: 20px;
+}
+@media only screen and (min-width: 768px) {
+  .post-preview .post-subtitle,
+  .post-preview .post-etitle {
+    font-size: 20px;
+  }
+  .intro-header .page-heading .page-subheading,
+  .intro-header .post-heading .post-subheading,
+  .intro-header .page-heading .page-eheading,
+  .intro-header .post-heading .post-eheading {
+    font-size: 24px;
+  }
+}
+
+/* English Title */
+.post-preview .post-etitle {
+  margin: 0;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+.intro-header .page-heading .page-eheading,
+.intro-header .post-heading .post-eheading {
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+.intro-header .post-heading .post-eheading {
+  margin-bottom: 10px;
+}

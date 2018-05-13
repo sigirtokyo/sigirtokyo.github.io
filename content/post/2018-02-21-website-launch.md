@@ -1,5 +1,6 @@
 ---
 title: ACM SIGIR 東京支部のWebサイトが公開されました
+etitle: Tokyo ACM SIGIR Chapter Web Site Launched
 date: 2018-02-21T16:15:35+09:00
 tags: ["news"]
 ---
