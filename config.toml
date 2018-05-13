@@ -79,15 +79,26 @@ pygmentCodeFences = true
     weight = 5
 
 [[menu.main]]
-    identifier = "news"
-    name = "News"
-    url = "tags/news/"
+    identifier = "announcement"
+    name = "お知らせ"
     weight = 2
 
 [[menu.main]]
-    identifier = "events"
+    parent = "announcement"
+    name = "News"
+    url = "tags/news/"
+    weight = 1
+
+[[menu.main]]
+    parent = "announcement"
     name = "イベント"
     url = "tags/イベント/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "calendar"
+    name = "カレンダー"
+    url = "page/calendar/"
     weight = 3
 
 [[menu.main]]
