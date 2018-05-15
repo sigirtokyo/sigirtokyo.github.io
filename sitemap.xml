@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sigir.jp/page/calendar/</loc>
+    <lastmod>2018-05-13T14:26:20+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sigir.jp/post/2018-03-12-2017-seminar-1/</loc>
     <lastmod>2018-03-12T09:26:47+09:00</lastmod>
   </url>
@@ -29,7 +34,7 @@
   
   <url>
     <loc>http://sigir.jp/</loc>
-    <lastmod>2018-03-12T09:26:47+09:00</lastmod>
+    <lastmod>2018-05-13T14:26:20+09:00</lastmod>
   </url>
   
   <url>
@@ -52,7 +57,7 @@
   
   <url>
     <loc>http://sigir.jp/page/</loc>
-    <lastmod>2018-01-17T18:59:40+09:00</lastmod>
+    <lastmod>2018-05-13T14:26:20+09:00</lastmod>
     <priority>0</priority>
   </url>
   
