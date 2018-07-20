@@ -16,6 +16,13 @@ git clone https://github.com/sigirtokyo/sigirtokyo.github.io.git
 git checkout dev
 ```
 
+チェックアウト後にthemeをインストールしてください。
+https://github.com/halogenica/beautifulhugo の中身をthemesディレクトリ以下に追加します。
+
+```
+git clone https://github.com/halogenica/beautifulhugo themes/beautifulhugo
+```
+
 ## メニューの更新
 
 `config.toml`ファイルの以下の箇所を更新してください：
