@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Fri, 20 Jul 2018 12:19:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 13:57:51 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ACM SIGIR 東京支部 総会開催案内</title>
+      <link>http://sigir.jp/post/2018-07-26-annual_meeting/</link>
+      <pubDate>Thu, 26 Jul 2018 13:57:51 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-07-26-annual_meeting/</guid>
+      <description>ACM SIGIR 東京支部 会員の皆様 時下ますますご清祥のこととお慶び申し上げます。 本年のACM SIGIR 東京支部 総会を7月31日(火)に 下記の通り開催致しますので</description>
+    </item>
     
     <item>
       <title>IR Reading 2018秋</title>
