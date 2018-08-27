@@ -139,7 +139,7 @@ Maharjan Rabin（兵庫県大）
 (CHIIR 2018) Style and alignment in information-seeking conversation<br>
 (WSDM 2018) Identifying Informational vs. Conversational Questions on Community Question Answering Archives</td><td>上保 秀夫（筑波大）</td></tr>
 		<tr><td>15:15 - 15:30</td><td>
- 		(WSDM 2018) "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction<br>
+ 		(TheWeb 2018) "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction<br>
         (WSDM 2018) User Intent, Behaviour, and Perceived Satisfaction in Product Search<br>
 (SIGIR 2018) Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading
 </td><td>佃 洸摂（産総研）</td></tr>
