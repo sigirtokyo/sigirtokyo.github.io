@@ -14,7 +14,7 @@ IR ReadingはACM SIGIR 東京支部が主催し，秋と春の年2回程度開�
 
 
 ## 日時
-- 2018年9月1日（土） 13:00 - 16:45
+- 2018年9月1日（土） 13:00 - 16:30
 
 
 ## 会場
@@ -126,7 +126,7 @@ Maharjan Rabin（兵庫県大）
 
 &nbsp;
 
-### セッション2（関東会場） 14:45 - 16:45
+### セッション2（関東会場） 14:45 - 16:30
 <table class="table table-hover table-striped text-left">
 	<thead class="thead-light">
 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
@@ -143,10 +143,9 @@ Maharjan Rabin（兵庫県大）
         (WSDM 2018) User Intent, Behaviour, and Perceived Satisfaction in Product Search<br>
 (SIGIR 2018) Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading
 </td><td>佃 洸摂（産総研）</td></tr>
-		<tr><td>15:30 - 15:45</td><td>TBA</td><td>欅 惇志（東工大）</td></tr>
-		<tr><td>15:45 - 16:00</td><td>(SIGIR 2018) An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric</td><td>酒井 哲也（早稲田大）</td></tr>
-		<tr><td>16:00 - 16:15</td><td>(SIGIR 2018) The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes</td><td>神門 典子（NII）</td></tr>
-		<tr><td>16:15 - 16:45</td><td>クロージング・今後についての議論</td><td> &nbsp;</td></tr>
+		<tr><td>15:30 - 15:45</td><td>(SIGIR 2018) An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric</td><td>酒井 哲也（早稲田大）</td></tr>
+		<tr><td>15:45 - 16:00</td><td>(SIGIR 2018) The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes</td><td>神門 典子（NII）</td></tr>
+		<tr><td>16:00 - 16:30</td><td>クロージング・今後についての議論</td><td> &nbsp;</td></tr>
 	</tbody>	
 </table>
 
