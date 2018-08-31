@@ -1,0 +1,111 @@
+/* JP fonts */
+body {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Smaller h1 */
+.intro-header .page-heading h1,
+.intro-header .tags-heading h1,
+.intro-header .post-heading h1 {
+  font-size: 32px;
+}
+@media only screen and (min-width: 768px) {
+  .intro-header .page-heading h1,
+  .intro-header .tags-heading h1,
+  .intro-header .post-heading h1 {
+    font-size: 48px;
+  }
+}
+
+/* Smaller post-title */
+.post-preview .post-title {
+  font-size: 24px;
+  margin-top: 0;
+}
+@media only screen and (min-width: 768px) {
+  .post-preview .post-title {
+    font-size: 30px;
+  }
+}
+
+/* Smaller brand */
+.navbar-custom .navbar-brand {
+    font-size: 8pt;
+}
+@media only screen and (min-width: 768px) {
+    .navbar-custom .navbar-brand {
+        font-size: 12pt;
+    }
+}
+
+/* abc list */
+ol.abc {
+    margin: 0;
+}
+.abc li {
+    margin: 0;
+    list-style-type: lower-latin;
+}
+
+/* intro */
+.well .post-preview {
+    padding-top: 0;
+}
+
+/* registration form button */
+.registration_link {
+    color: #fff;
+    background-color: rgb(131, 33, 35);
+    border: none;
+    font-size: 12pt;
+    padding: 10px 20px;
+    margin: 20px;
+}
+.registration_link:visited {
+    background-color: rgb(131, 33, 35);
+}
+.registration_link:hover {
+    background-color: rgb(64, 64, 64);
+}
+
+/* Subtitle */
+.post-preview .post-subtitle,
+.post-preview .post-etitle {
+  font-size: 16px;
+}
+.intro-header .page-heading .page-subheading,
+.intro-header .post-heading .post-subheading,
+.intro-header .page-heading .page-eheading,
+.intro-header .post-heading .post-eheading {
+  font-size: 20px;
+}
+@media only screen and (min-width: 768px) {
+  .post-preview .post-subtitle,
+  .post-preview .post-etitle {
+    font-size: 20px;
+  }
+  .intro-header .page-heading .page-subheading,
+  .intro-header .post-heading .post-subheading,
+  .intro-header .page-heading .page-eheading,
+  .intro-header .post-heading .post-eheading {
+    font-size: 24px;
+  }
+}
+
+/* English Title */
+.post-preview .post-etitle {
+  margin: 0;
+  font-weight: 300;
+  margin-bottom: 10px;
+}
+.intro-header .page-heading .page-eheading,
+.intro-header .post-heading .post-eheading {
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
+.intro-header .post-heading .post-eheading {
+  margin-bottom: 10px;
+}
