@@ -1,11 +1,6 @@
-{{ if ne .Site.Language.Lang "en" }}
-    {{ .Scratch.Set "lang" "" }}
-{{ else }}
-    {{ .Scratch.Set "lang" (printf ".%s" .Site.Language.Lang) }}
-{{ end }}
-{{ with .Site.GetPage "page" (printf "page/about%s.md" (.Scratch.Get "lang")) }}
-    <div class="post-preview">
+{{ with .Site.GetPage "page" "page/about.md" }}
+  <div class="post-preview">
     {{ .Content | truncate 167 | replaceRE "<sup>.*</sup>" "" | safeHTML }}
     <a href="{{ .Permalink }}" class="post-read-more">[{{ i18n "readMore" }}]</a>
-    </div>
-{{ end }}
+  </div>
+{{ end  }}
