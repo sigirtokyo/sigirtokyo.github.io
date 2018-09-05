@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on ACM SIGIR 東京支部</title>
+    <link>http://sigir.jp/tags/news/</link>
+    <description>Recent content in News on ACM SIGIR 東京支部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
+    <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
+    <lastBuildDate>Wed, 22 Aug 2018 09:26:47 +0900</lastBuildDate>
+    
+	<atom:link href="http://sigir.jp/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIGIR 東京支部 2018年度 セミナー 2</title>
+      <link>http://sigir.jp/post/2018-08-20-seminar-2/</link>
+      <pubDate>Wed, 22 Aug 2018 09:26:47 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-08-20-seminar-2/</guid>
+      <description>日時 / Date 2018年10月5日 13:30 - 14:30 / October 5, 2018 13:30 - 14:30 場所 / Venue 早稲田大学 西早稲田キャンパス 63-05-06 / Nishiwaseda Campus 63-05-06, Waseda University 講演者 / Speaker Assistant Professor Max L. Wilson (University of Nottingam) 概要 / Abstract TBA 略歴 /</description>
+    </item>
+    
+    <item>
+      <title>IR Reading 2018秋</title>
+      <link>http://sigir.jp/post/irreading_2018fall/</link>
+      <pubDate>Fri, 20 Jul 2018 12:19:39 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/irreading_2018fall/</guid>
+      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
+    </item>
+    
+    <item>
+      <title>SIGIR 東京支部 2017年度 セミナー 1</title>
+      <link>http://sigir.jp/post/2018-03-12-2017-seminar-1/</link>
+      <pubDate>Mon, 12 Mar 2018 09:26:47 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-03-12-2017-seminar-1/</guid>
+      <description>日時 / Date 2018年3月30日 15:10 - 16:10 / March 30, 2018 15:10 - 16:10 場所 / Venue 早稲田大学 西早稲田キャンパス 63-05-06 / Nishiwaseda Campus 63-05-06, Waseda University Getting rid of the ten blue links 講演者 / Speaker Professor Mark Sanderson (RMIT University) 概要 / Abstract</description>
+    </item>
+    
+    <item>
+      <title>ACM SIGIR 東京支部のWebサイトが公開されました</title>
+      <link>http://sigir.jp/post/2018-02-21-website-launch/</link>
+      <pubDate>Wed, 21 Feb 2018 16:15:35 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2018-02-21-website-launch/</guid>
+      <description>2018年2月21日にACM SIGIR 東京支部のWebサイトが公開されました。 これと同時に会員登録が行えるようになっておりますので、 情報検索に関心の</description>
+    </item>
+    
+    <item>
+      <title>ACM SIGIR 東京支部がACMに承認されました</title>
+      <link>http://sigir.jp/post/2017-12-27-first-post/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2017-12-27-first-post/</guid>
+      <description>2017年12月27にACM SIGIR 東京支部がACMに承認されました。 これをもって、ACM SIGIR 東京支部の公式な活動が開始されました。</description>
+    </item>
+    
+  </channel>
+</rss>

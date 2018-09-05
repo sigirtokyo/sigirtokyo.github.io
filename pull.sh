@@ -8,14 +8,7 @@ if [ ! $SCRIPT_DIR = $PWD ]; then
     exit
 fi
 
-hugo
-
 git checkout master
-
-cp -rf public/* ./
-
-git add .
-git commit
-git push
-
+git pull
 git checkout dev
+git pull

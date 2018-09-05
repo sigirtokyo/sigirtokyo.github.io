@@ -14,8 +14,7 @@ IR ReadingはACM SIGIR 東京支部が主催し，秋と春の年2回程度開�
 
 
 ## 日時
-- 2018年9月1日（土） 13:00 - 18:00
-  - **開始時刻，終了時刻については参加者数により変更する可能性がございます．**
+- 2018年9月1日（土） 13:00 - 16:30
 
 
 ## 会場
@@ -92,10 +91,68 @@ IR Reading Slack参加リンク
  - 9月1日（土） 13:00 - 18:00
 
 
+## プログラム
+
+### セッション1（関西会場） 13:00 - 14:30
+<table class="table table-hover table-striped text-left">
+	<thead class="thead-light">
+		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>13:00 - 13:15</td><td>オープニング・主旨説明</td><td>&nbsp;</td></tr>
+		<tr><td>13:15 - 13:30</td><td>(SIGIR 2018) Session 3A: Social Good</td><td>山本 岳洋（京大）</td></tr>
+		<tr><td>13:30 - 13:45</td><td>(SIGIR 2018) Session 5B: Entities</td><td>加藤 誠（京大）</td></tr>
+		<tr><td>13:45 - 14:00</td><td>(CHI 2018) Bento Browser: Complex Mobile Search Without Tabs <br>
+(CHIIR 2018) Searching as Learning: Exploring Search Behavior and Learning Outcomes in Learning-related Tasks<br>
+(SIGIR 2018) Predicting User Knowledge Gain in Informational Search Sessions</td><td>齊藤 史明（静大）<br>
+梅田 浩郎（静大）<br>
+山本 祐輔（静大）</td></tr>
+		<tr><td>14:00 - 14:15</td><td> 
+(SIGIR 2018) Ranking Documents by Answer-Passage Quality <br>
+(SIGIR 2018) Understanding and Evaluating User Satisfaction with Music Discovery<br>
+(CHIIR 2018) Personification of the Amazon Alexa: BFF or a Mindless Companion?
+</td> 
+<td> 
+	大島 裕明（兵庫県大）<br>
+Maharjan Rabin（兵庫県大）
+</td></tr>
+		<tr><td>14:15 - 14:30</td><td>(WSDM 2018) Why People Search for Images using Web Search Engines</td><td>Suppanut Pothirattanachaikul（京大）</td></tr>
+	</tbody>
+</table>
+
+&nbsp;
+
+### 休憩 14:30 - 14:45
+
+&nbsp;
+
+### セッション2（関東会場） 14:45 - 16:30
+<table class="table table-hover table-striped text-left">
+	<thead class="thead-light">
+		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+	</thead>
+	<tbody>
+		<tr><td>14:45 - 15:00</td><td>(JCDL 2018) Entity-Aspect Linking: Providing Fine-Grained Semantics of Entities in Context</td><td>澄川 靖信（首都大）</td></tr>
+		<tr><td>15:00 - 15:15</td><td>
+			(SIGIR 2018) Session 2D: Conversational Systems<br>
+			(TheWeb 2018) Conversational Query Understanding Using Sequence to Sequence Modeling<br>
+(CHIIR 2018) Style and alignment in information-seeking conversation<br>
+(WSDM 2018) Identifying Informational vs. Conversational Questions on Community Question Answering Archives</td><td>上保 秀夫（筑波大）</td></tr>
+		<tr><td>15:15 - 15:30</td><td>
+ 		(TheWeb 2018) "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction<br>
+        (WSDM 2018) User Intent, Behaviour, and Perceived Satisfaction in Product Search<br>
+(SIGIR 2018) Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading
+</td><td>佃 洸摂（産総研）</td></tr>
+		<tr><td>15:30 - 15:45</td><td>(SIGIR 2018) An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric</td><td>酒井 哲也（早稲田大）</td></tr>
+		<tr><td>15:45 - 16:00</td><td>(SIGIR 2018) The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes</td><td>神門 典子（NII）</td></tr>
+		<tr><td>16:00 - 16:30</td><td>クロージング・今後についての議論</td><td> &nbsp;</td></tr>
+	</tbody>	
+</table>
+
 
 ## FAQ
 
-1. ***Q. 関東会場にも関西会場にも参加できませんが，IR Readingに参加できますか？***
+1. ***Q. 関東会場にも関西会場にも参加できせんが，IR Readingに参加できますか？***
   - A. はい，当日はSkypeで各会場および遠方参加者を繋ぎますので，Skype環境さえご用意いただければ参加可能です．また，複数の方が同じ場所から参加される場合は，正式な会場として本ページでアナウンスしますので，その旨Slackでご連絡ください．
 
 2. ***Q. 聴講だけの参加は可能でしょうか？***  
