@@ -719,3 +719,26 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus, .gs
   box-sizing: content-box;
   line-height: normal;
 }
+
+/* IPython split style */
+div.splitbox {width:100%; overflow:auto;}
+
+div.splitbox div.left {
+               width:48%;
+               display:inline-block;
+               float:left;}
+div.splitbox div.right {
+               width:48%;
+               display:inline-block;
+               float:right;}
+
+@media only screen and (max-width: 600px) {
+div.splitbox div.left {
+               width:100%;
+               display:inline-block;
+               float:left;}
+div.splitbox div.right {
+               width:100%;
+               display:inline-block;
+               float:left;}
+}
