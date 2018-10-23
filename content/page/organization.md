@@ -32,6 +32,9 @@ comments: false
 
 ## Advisory Board
 
+- Joemon M. Jose （グラスゴー大学・イギリス）
+- Maarten de Rijke （アムステルダム大学・オランダ）
+- Mark Sanderson（RMIT大学・オーストラリア）
 - 加藤 恒昭（東京大学）
 - 神門 典子（国立情報学研究所）
 - 岸田 和明（慶應義塾大学）
