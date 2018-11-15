@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sigir.jp/post/2018-11-15-powir2018winter/</loc>
+    <lastmod>2018-11-15T11:15:06+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sigir.jp/post/2018-08-20-seminar-2/</loc>
     <lastmod>2018-08-22T09:26:47+09:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>http://sigir.jp/</loc>
-    <lastmod>2018-08-22T09:26:47+09:00</lastmod>
+    <lastmod>2018-11-15T11:15:06+09:00</lastmod>
   </url>
   
   <url>
@@ -66,7 +71,7 @@
   
   <url>
     <loc>http://sigir.jp/tags/news/</loc>
-    <lastmod>2018-08-22T09:26:47+09:00</lastmod>
+    <lastmod>2018-11-15T11:15:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,19 +83,19 @@
   
   <url>
     <loc>http://sigir.jp/post/</loc>
-    <lastmod>2018-08-22T09:26:47+09:00</lastmod>
+    <lastmod>2018-11-15T11:15:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://sigir.jp/tags/</loc>
-    <lastmod>2018-08-22T09:26:47+09:00</lastmod>
+    <lastmod>2018-11-15T11:15:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2018-08-22T09:26:47+09:00</lastmod>
+    <lastmod>2018-11-15T11:15:06+09:00</lastmod>
     <priority>0</priority>
   </url>
   
