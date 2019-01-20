@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>IR Reading 2018秋| ACM SIGIR 東京支部</title>
+  <meta property="og:title" content="IR Reading 2018秋" />
+  <meta name="twitter:title" content="IR Reading 2018秋" />
+  <meta name="description" content="2018年9月1日">
+  <meta property="og:description" content="2018年9月1日">
+  <meta name="twitter:description" content="2018年9月1日">
+  <meta name="author" content="ACM SIGIR 東京支部"/>
+  <link href='http://sigir.jp/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="http://sigir.jp/img/sigir-icon.png" />
+  <meta name="twitter:image" content="http://sigir.jp/img/sigir-icon.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@acmsigirtokyo" />
+  <meta name="twitter:creator" content="@acmsigirtokyo" />
+  <meta property="og:url" content="http://sigir.jp/post/irreading_2018fall/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="ACM SIGIR 東京支部" />
+
+  <meta name="generator" content="Hugo 0.51" />
+  <link rel="canonical" href="http://sigir.jp/post/irreading_2018fall/" />
+  <link rel="alternate" href="http://sigir.jp/index.xml" type="application/rss+xml" title="ACM SIGIR 東京支部">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="http://sigir.jp/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+  <link rel="stylesheet" href="http://sigir.jp/css/codeblock.css" />
+  <link rel="stylesheet" href="http://sigir.jp/css/highlight.min.css" />
+
+
+
+<link rel="stylesheet" href="http://sigir.jp/css/custom_main.css" />
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
+
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+</head>
+
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">メニューを切り替え</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="http://sigir.jp/">Tokyo ACM SIGIR Chapter</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">About</a>
+              <div class="navlinks-children">
+                
+                  <a href="/page/about/">東京支部について</a>
+                
+                  <a href="/page/en/about/">About Tokyo Chapter</a>
+                
+                  <a href="/page/bylaw/">支部規約</a>
+                
+                  <a href="/page/organization/">役員</a>
+                
+              </div>
+            </li>
+          
+        
+          
+            <li class="navlinks-container">
+              <a class="navlinks-parent" href="javascript:void(0)">お知らせ</a>
+              <div class="navlinks-children">
+                
+                  <a href="/tags/news/">News</a>
+                
+                  <a href="/tags/%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88/">イベント</a>
+                
+              </div>
+            </li>
+          
+        
+          
+            <li>
+              <a title="カレンダー" href="/page/calendar/">カレンダー</a>
+            </li>
+          
+        
+          
+            <li>
+              <a title="会員登録" href="/page/registration/">会員登録</a>
+            </li>
+          
+        
+
+        
+
+        
+      </ul>
+    </div>
+
+    <div class="avatar-container">
+      <div class="avatar-img-border">
+        
+          <a title="ACM SIGIR 東京支部" href="http://sigir.jp/">
+            <img class="avatar-img" src="http://sigir.jp/img/sigir-icon.png" alt="ACM SIGIR 東京支部" />
+          </a>
+        
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+
+
+
+    
+  
+  
+  
+  
+
+
+
+
+  
+
+  <header class="header-section ">
+    
+    <div class="intro-header no-img">
+      
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="post-heading">
+              <h1>IR Reading 2018秋</h1>
+                
+                  
+                    <h2 class="post-eheading">IR Reading 2018Fall</h2>
+                  
+                
+                
+                  
+                    <h2 class="post-subheading">2018年9月1日</h2>
+                  
+                
+
+                
+                  <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;2018年7月20日に投稿
+  
+  
+  
+
+
+  
+  <div class="tags">
+  
+    #<a href="http://sigir.jp/tags/news/">news</a>&nbsp;
+  
+    #<a href="http://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/">イベント</a>&nbsp;
+  
+  </div>
+  
+</span>
+
+
+                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+
+    
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+<h2 id="概要">概要</h2>
+
+<p>情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあって論文を紹介しあうことで，論文への理解を深めたり，分野全体のトレンドを掴んだりする場となれば幸いです．</p>
+
+<p>IR ReadingはACM SIGIR 東京支部が主催し，秋と春の年2回程度開催することを予定しています．
+今回はその第1回目となる論文読み会となります．どなたでも無料で参加いただけますので，興味のある方は是非下記から参加登録ください．</p>
+
+<h2 id="日時">日時</h2>
+
+<ul>
+<li>2018年9月1日（土） 13:00 - 16:30</li>
+</ul>
+
+<h2 id="会場">会場</h2>
+
+<ul>
+<li>関東会場: 早稲田大学西早稲田キャンパス63号館5F会議室（06）
+
+<ul>
+<li>〒169-8555　東京都新宿区大久保3-4-1（<a href="https://www.waseda.jp/top/access/nishiwaseda-campus">西早稲田キャンパスアクセス</a>）</li>
+</ul></li>
+<li>関西会場: 京都大学 総合研究7号館1階 セミナー室1
+
+<ul>
+<li>〒606-8501 京都府京都市左京区吉田本町 （<a href="http://www.kyoto-u.ac.jp/ja/access/campus/yoshida/map6r_y/">地図</a>68番の建物です）</li>
+</ul></li>
+<li>その他:
+
+<ul>
+<li>上記以外で会場を用意してくださる方を募集中です．用意しても良いという方はSlackでご連絡ください．</li>
+</ul></li>
+</ul>
+
+<p>IR Readingでは上記会場をSkypeで繋ぎます．関東および関西からご参加の方は上記いずれかの会場にお越しください．また，遠方よりご参加の方はSkypeでもご参加いただけます．</p>
+
+<h2 id="対象会議">対象会議</h2>
+
+<p>IR Reading 2018秋では2018年1月〜2018年7月頃に開催された，ACM SIGIRが主催・共催している国際会議を主に対象とします．</p>
+
+<ul>
+<li><a href="http://sigir.org/sigir2018/">SIGIR 2018</a></li>
+<li><a href="https://2018.jcdl.org/">JCDL 2018</a></li>
+<li><a href="https://www2018.thewebconf.org/">TheWebConf (WWW) 2018</a></li>
+<li><a href="http://www.ecir2018.org/">ECIR 2018</a></li>
+<li><a href="http://sigir.org/chiir2018/">CHIIR 2018</a></li>
+<li><a href="http://www.wsdm-conference.org/2018/">WSDM 2018</a></li>
+</ul>
+
+<p>その他，上記以外でも情報検索に関連する会議であれば何でも結構です．</p>
+
+<h2 id="発表形式">発表形式</h2>
+
+<p>1人（または1グループ）あたり<strong>15分</strong>の持ち時間を割り当てますので，この時間を自由に使って論文をご紹介ください．標準的な構成は12分発表・3分質疑を想定しております．1セッション中の論文を全部紹介したり，特定の1本をじっくり解説したり，発表者の希望に合わせて自由に選択ください．また，15分の持ち時間を複数の発表者（たとえば，研究室のメンバ3名）で担当していただいても構いません．</p>
+
+<h2 id="参加の流れ">参加の流れ</h2>
+
+<h3 id="1-ir-reading用slackへの参加">1. IR Reading用Slackへの参加</h3>
+
+<p>IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．</p>
+
+<div class="text-center" style="margin-top:20px; margin-bottom:30px">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<button type="button" class="btn btn-success btn-lg">
+IR Reading Slack参加リンク
+</button>
+</a>
+</div>
+
+<h3 id="2-セッションor論文情報の登録-8月18日-土-締切">2. セッションor論文情報の登録 （8月18日（土）締切）</h3>
+
+<p>Slackに参加後，情報を登録するためのGoogle SpreadsheetのURLがSlackに記載されていますので，そちらのURLから氏名，所属，担当したいセッション（または論文）をご登録ください．発表したい論文が被った場合は，該当者と相談して調整ください．基本は早い者勝ちです．また，聴講希望の方もこちらに記入ください．</p>
+
+<h3 id="3-発表資料の登録-8月31日-土-締切">3. 発表資料の登録（8月31日（土）締切）</h3>
+
+<p>会前日までに発表資料を作成いただき，Google Spreadsheetに発表資料のURLをご登録ください．資料のアップロードについては，各自のDropbox，研究室サーバ，SlideShareなど皆様の都合に合わせてご準備ください．また，発表資料はできる限りPDFでご用意いただけると当日のトラブルが少なくすみます．</p>
+
+<h2 id="ir-reading-slack参加リンク">IR Reading Slack参加リンク</h2>
+
+<p>IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．</p>
+
+<div class="text-center" style="margin-top:20px; margin-bottom:20px">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<button type="button" class="btn btn-success btn-lg">
+IR Reading Slack参加リンク
+</button>
+</a>
+</div>
+
+<h2 id="スケジュール">スケジュール</h2>
+
+<ol>
+<li>参加登録締切（SlackにJoinしGoogle Spreadsheetに情報を記入ください）
+
+<ul>
+<li>8月18日（土）</li>
+</ul></li>
+<li>プログラム確定・公開
+
+<ul>
+<li>8月25日（土）頃予定</li>
+</ul></li>
+<li>発表資料登録
+
+<ul>
+<li>8月31日（金）</li>
+</ul></li>
+<li>IR Reading
+
+<ul>
+<li>9月1日（土） 13:00 - 18:00</li>
+</ul></li>
+</ol>
+
+<h2 id="プログラム">プログラム</h2>
+
+<h3 id="セッション1-関西会場-13-00-14-30">セッション1（関西会場） 13:00 - 14:30</h3>
+
+<table class="table table-hover table-striped text-left">
+    <thead class="thead-light">
+        <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>13:00 - 13:15</td><td>オープニング・主旨説明</td><td>&nbsp;</td></tr>
+        <tr><td>13:15 - 13:30</td><td>(SIGIR 2018) Session 3A: Social Good</td><td>山本 岳洋（京大）</td></tr>
+        <tr><td>13:30 - 13:45</td><td>(SIGIR 2018) Session 5B: Entities</td><td>加藤 誠（京大）</td></tr>
+        <tr><td>13:45 - 14:00</td><td>(CHI 2018) Bento Browser: Complex Mobile Search Without Tabs <br>
+(CHIIR 2018) Searching as Learning: Exploring Search Behavior and Learning Outcomes in Learning-related Tasks<br>
+(SIGIR 2018) Predicting User Knowledge Gain in Informational Search Sessions</td><td>齊藤 史明（静大）<br>
+梅田 浩郎（静大）<br>
+山本 祐輔（静大）</td></tr>
+        <tr><td>14:00 - 14:15</td><td> 
+(SIGIR 2018) Ranking Documents by Answer-Passage Quality <br>
+(SIGIR 2018) Understanding and Evaluating User Satisfaction with Music Discovery<br>
+(CHIIR 2018) Personification of the Amazon Alexa: BFF or a Mindless Companion?
+</td> 
+<td> 
+    大島 裕明（兵庫県大）<br>
+Maharjan Rabin（兵庫県大）
+</td></tr>
+        <tr><td>14:15 - 14:30</td><td>(WSDM 2018) Why People Search for Images using Web Search Engines</td><td>Suppanut Pothirattanachaikul（京大）</td></tr>
+    </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<h3 id="休憩-14-30-14-45">休憩 14:30 - 14:45</h3>
+
+<p>&nbsp;</p>
+
+<h3 id="セッション2-関東会場-14-45-16-30">セッション2（関東会場） 14:45 - 16:30</h3>
+
+<table class="table table-hover table-striped text-left">
+    <thead class="thead-light">
+        <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>14:45 - 15:00</td><td>(JCDL 2018) Entity-Aspect Linking: Providing Fine-Grained Semantics of Entities in Context</td><td>澄川 靖信（首都大）</td></tr>
+        <tr><td>15:00 - 15:15</td><td>
+            (SIGIR 2018) Session 2D: Conversational Systems<br>
+            (TheWeb 2018) Conversational Query Understanding Using Sequence to Sequence Modeling<br>
+(CHIIR 2018) Style and alignment in information-seeking conversation<br>
+(WSDM 2018) Identifying Informational vs. Conversational Questions on Community Question Answering Archives</td><td>上保 秀夫（筑波大）</td></tr>
+        <tr><td>15:15 - 15:30</td><td>
+        (TheWeb 2018) "Satisfaction with Failure" or "Unsatisfied Success": Investigating the Relationship between Search Success and User Satisfaction<br>
+        (WSDM 2018) User Intent, Behaviour, and Perceived Satisfaction in Product Search<br>
+(SIGIR 2018) Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading
+</td><td>佃 洸摂（産総研）</td></tr>
+        <tr><td>15:30 - 15:45</td><td>(SIGIR 2018) An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric</td><td>酒井 哲也（早稲田大）</td></tr>
+        <tr><td>15:45 - 16:00</td><td>(SIGIR 2018) The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes</td><td>神門 典子（NII）</td></tr>
+        <tr><td>16:00 - 16:30</td><td>クロージング・今後についての議論</td><td> &nbsp;</td></tr>
+    </tbody>    
+</table>
+
+<h2 id="faq">FAQ</h2>
+
+<ol>
+<li><p><strong><em>Q. 関東会場にも関西会場にも参加できせんが，IR Readingに参加できますか？</em></strong></p>
+
+<ul>
+<li>A. はい，当日はSkypeで各会場および遠方参加者を繋ぎますので，Skype環境さえご用意いただければ参加可能です．また，複数の方が同じ場所から参加される場合は，正式な会場として本ページでアナウンスしますので，その旨Slackでご連絡ください．</li>
+</ul></li>
+
+<li><p><strong><em>Q. 聴講だけの参加は可能でしょうか？</em></strong></p>
+
+<ul>
+<li>A. 関東会場，関西会場，もしくは新たに設置する会場に当日ご参加いただける方については聴講のみのご参加も可能です．聴講希望の方についてもSlackに参加いただき，Google Spreadsheetから登録ください．なお，Skypeのみでの聴講はご遠慮いただいておりますのでご理解いただければと存じます．</li>
+</ul></li>
+
+<li><p><strong><em>Q. 発表資料や発表について言語の指定はありますか？</em></strong></p>
+
+<ul>
+<li>A. 言語の指定はございません．日本語や英語などご自由に選択ください．</li>
+</ul></li>
+
+<li><p><strong><em>Q. IR Readingの配信やアーカイブは行いますか？</em></strong></p>
+
+<ul>
+<li>A. いいえ，配信やアーカイブは予定しておりません．</li>
+</ul></li>
+</ol>
+
+<h2 id="連絡先">連絡先</h2>
+
+<ul>
+<li>ACM SIGIR 東京支部
+
+<ul>
+<li>sigir-tokyo at googlegroups.com</li>
+<li>担当: 大島 裕明（兵庫県立大学） 山本 岳洋（京都大学）
+<br /></li>
+</ul></li>
+</ul>
+
+
+        
+          <div class="blog-tags">
+            
+              <a href="http://sigir.jp//tags/news/">news</a>&nbsp;
+            
+              <a href="http://sigir.jp//tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/">イベント</a>&nbsp;
+            
+          </div>
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="http://sigir.jp/post/2018-03-12-2017-seminar-1/" data-toggle="tooltip" data-placement="top" title="SIGIR 東京支部 2017年度 セミナー 1">&larr; 前ページ</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="http://sigir.jp/post/2018-07-26-annual_meeting/" data-toggle="tooltip" data-placement="top" title="ACM SIGIR 東京支部 総会開催案内">次ページ &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
+
+    </div>
+  </div>
+</div>
+
+    <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          
+              <li>
+                <a href="mailto:sigir-tokyo@googlegroups.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/acmsigirtokyo" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/acmsigirtokyo" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+          
+          <li>
+            
+            <a href="http://sigir.jp/index.xml" title="RSS">
+            
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          
+        </ul>
+        <p class="credits copyright text-muted">
+          
+            
+              ACM SIGIR 東京支部
+            
+          
+
+          &nbsp;&bull;&nbsp;
+          2019
+
+          
+            &nbsp;&bull;&nbsp;
+            <a href="http://sigir.jp/">ACM SIGIR 東京支部</a>
+          
+        </p>
+        
+        <p class="credits theme-by text-muted">
+          <a href="http://gohugo.io">Hugo v0.51</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.js" integrity="sha384-/y1Nn9+QQAipbNQWU65krzJralCnuOasHncUFXGkdwntGeSvQicrYkiUBwsgUqc1" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="http://sigir.jp/js/main.js"></script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="http://sigir.jp/js/load-photoswipe.js"></script>
+
+
+
+
+
+
+  </body>
+</html>
+

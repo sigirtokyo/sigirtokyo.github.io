@@ -23,7 +23,7 @@ IR ReadingはACM SIGIR 東京支部が主催しており，秋と春の年2回�
 ## 会場
 - 関東会場：<strong>株式会社メルカリ</strong>（[地図](https://about.mercari.com/about/#locations)）
   - 〒106-0032　東京都港区六本木6-10-1 六本木ヒルズ森タワー 18F
-- 関西会場: <strong>兵庫県立大学 神戸情報科学キャンパス</strong> 7階中講義室（[地図](http://www.u-hyogo.ac.jp/campuslife/access/campus06.html)）
+- 関西会場: <strong>兵庫県立大学 神戸情報科学キャンパス</strong> 7階（[地図](http://www.u-hyogo.ac.jp/campuslife/access/campus06.html)）
   - 〒650-0047　神戸市中央区港島南町7-1-28 （計算科学センタービル内）
 - その他:
   - 上記以外で会場を用意してくださる方を募集中です．用意しても良いという方はSlackでご連絡ください．
