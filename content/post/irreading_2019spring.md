@@ -128,7 +128,7 @@ Multiperspective Graph-Theoretic Similarity Measure (CIKM 2018)</td><td>大島 �
 	<tbody>
 <tr><td>15:00 - 15:15</td><td>WSDM 2019 基調講演の私的ハイライト</td><td>上保 秀夫（筑波大学）</td></tr>
 <tr><td>15:15 - 15:30</td><td>CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks (CIKM 2018)</td><td>西川 浩平（筑波大学）</td></tr>
-<tr><td>15:30 - 15:45</td><td>未定</td><td>Jordan Trader（筑波大学）</td></tr>
+<tr><td>15:30 - 15:45</td><td>Session 1: Conversation (CHIIR 2019)</td><td>Jordan Trader（筑波大学）</td></tr>
 <tr><td>15:45 - 16:00</td><td>Personalizing Search Results Using Hierarchical RNN with Query-aware Attention (CIKM 2018)<br>
 Query Tracking for E-commerce Conversational Search: A Machine Comprehension Perspective (CIKM 2018)</td><td>渡邉涼太<br>根本美由樹（筑波大学）</td></tr>
 <tr><td>16:00 - 16:15</td><td>Session 4: Special Information Needs (CHIIR 2019)</td><td>高久雅生（筑波大学）</td></tr>
