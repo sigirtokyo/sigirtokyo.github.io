@@ -99,18 +99,18 @@ IR Reading Slack参加リンク
 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
 	</thead>
 	<tbody>
-<tr><td>13:00 - 13:15</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+<tr><td>13:00 - 13:15</td><td>オープニング・趣旨説明</td><td></td></tr>
 <tr><td>13:15 - 13:30</td><td>Session 10: Personalization and Characterizing User Behavior (WSDM 2019)</td><td>山本 岳洋（京都大学）</td></tr>
 <tr><td>13:30 - 13:45</td><td>From Neural Re-Ranking to Neural Ranking: Learning a Sparse Representation for Inverted Indexing (CIKM 2018)</td><td>加藤 誠（京都大学）</td></tr>
-<tr><td>13:45 - 14:00</td><td>Recommendation Through Mixtures of Heterogeneous Item Relationships (CIKM 2018), <br>
-Measuring User Satisfaction on Smart Speaker Intelligent 
-Assistants Using Intent Sensitive Query Embeddings (CIKM 2018)<br>
+<tr><td>13:45 - 14:00</td><td>Are Meta-Paths Necessary?: Revisiting Heterogeneous Graph Embeddings (CIKM 2018)<br>
+Mix 'n Match: Integrating Text Matching and Product Substitutability within Product Search" (CIKM 2018)<br>
+An Attentive Interaction Network for Context-aware Recommendations (CIKM2018)</td><td>高橋 克郎<br>村本 直樹<br>白髪 宙海（兵庫県立大学）</td></tr>
+<tr><td>14:00 - 14:15</td><td>Recommendation Through Mixtures of Heterogeneous Item Relationships" (CIKM 2018), <br>
+Measuring User Satisfaction on Smart Speaker Intelligent Assistants Using Intent Sensitive Query Embeddings (CIKM 2018)<br>
 Multiperspective Graph-Theoretic Similarity Measure (CIKM 2018)</td><td>大島 裕明<br>マハルジャン ラビン<br>楊 澤華（兵庫県立大学）</td></tr>
-<tr><td>14:00 - 14:15</td><td>Are Meta-Paths Necessary?: Revisiting Heterogeneous Graph Embeddings (CIKM 2018)<br>
-未定<br>
-未定</td><td>高橋 克郎<br>村本 直樹<br>白髪 宙海（兵庫県立大学）</td></tr>
+<tr><td>14:30 - 14:45</td><td>Session 3: Search as Learning (CHIIR 2019)</td><td>神門 典子（NII）</td></tr>
 <tr><td>14:15 - 14:30</td><td>未定</td><td>山本 祐輔（静岡大学）</td></tr>
-<tr><td>14:30 - 14:45</td><td>未定（CHIIR 20019から）</td><td>神門 典子（NII）</td></tr>
+
 	</tbody>
 </table>
 
@@ -130,8 +130,8 @@ Multiperspective Graph-Theoretic Similarity Measure (CIKM 2018)</td><td>大島 �
 <tr><td>15:15 - 15:30</td><td>CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks (CIKM 2018)</td><td>西川 浩平（筑波大学）</td></tr>
 <tr><td>15:30 - 15:45</td><td>未定</td><td>Jordan Trader（筑波大学）</td></tr>
 <tr><td>15:45 - 16:00</td><td>Personalizing Search Results Using Hierarchical RNN with Query-aware Attention (CIKM 2018)<br>
-未定</td><td>渡邉涼太<br>根本美由樹（筑波大学）</td></tr>
-<tr><td>16:00 - 16:15</td><td>未定</td><td>高久雅生（筑波大学）</td></tr>
+Query Tracking for E-commerce Conversational Search: A Machine Comprehension Perspective (CIKM 2018)</td><td>渡邉涼太<br>根本美由樹（筑波大学）</td></tr>
+<tr><td>16:00 - 16:15</td><td>Session 4: Special Information Needs (CHIIR 2019)</td><td>高久雅生（筑波大学）</td></tr>
 	</tbody>	
 </table>
 
@@ -148,7 +148,7 @@ Multiperspective Graph-Theoretic Similarity Measure (CIKM 2018)</td><td>大島 �
 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
 	</thead>
 	<tbody>
-<tr><td>16:30 - 16:45</td><td>未定 (CHIIR 2019から）</td><td>江草由佳（NIER）</td></tr>
+<tr><td>16:30 - 16:45</td><td>Session 6: Search in Context (CHIIR2019）</td><td>江草由佳（NIER）</td></tr>
 <tr><td>16:45 - 17:00</td><td>Session 1A: New IR Applications (SIGIR 2018)</td><td>野本昌子（ヤフー株式会社）</td></tr>
 <tr><td>17:00 - 17:15</td><td>Semi-supervised Learning on Graphs with Generative Adversarial Nets (CIKM 2018)<br>
 Multiresolution Graph Attention Networks for Relevance Matching (CIKM 2018)</td><td>藤田 澄男（ヤフー株式会社）</td></tr>
