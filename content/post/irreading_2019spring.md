@@ -93,7 +93,7 @@ IR Reading Slack参加リンク
 
 ## プログラム
 
-### セッション1（関西会場） 13:00 - 14:45
+### セッション1（関西会場） 13:00 - 14:30
 <table class="table table-hover table-striped text-left">
 	<thead class="thead-light">
 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
@@ -108,9 +108,7 @@ An Attentive Interaction Network for Context-aware Recommendations (CIKM2018)</t
 <tr><td>14:00 - 14:15</td><td>Recommendation Through Mixtures of Heterogeneous Item Relationships" (CIKM 2018), <br>
 Measuring User Satisfaction on Smart Speaker Intelligent Assistants Using Intent Sensitive Query Embeddings (CIKM 2018)<br>
 Multiperspective Graph-Theoretic Similarity Measure (CIKM 2018)</td><td>大島 裕明<br>マハルジャン ラビン<br>楊 澤華（兵庫県立大学）</td></tr>
-<tr><td>14:30 - 14:45</td><td>Session 3: Search as Learning (CHIIR 2019)</td><td>神門 典子（NII）</td></tr>
-<tr><td>14:15 - 14:30</td><td>未定</td><td>山本 祐輔（静岡大学）</td></tr>
-
+<tr><td>14:15 - 14:30</td><td>Session 3: Search as Learning (CHIIR 2019)</td><td>神門 典子（NII）</td></tr>
 	</tbody>
 </table>
 
