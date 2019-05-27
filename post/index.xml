@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Thu, 17 Jan 2019 12:19:39 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 22:11:08 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ASSIA 2019 (The 4th Asian Summer School in Information Access) 開催のお知らせ</title>
+      <link>http://sigir.jp/post/2019-05-27-assia2019/</link>
+      <pubDate>Mon, 27 May 2019 22:11:08 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-05-27-assia2019/</guid>
+      <description>日時：2019年7月9日（火）～7月13日（土） 場所：海南大学（中国） 詳細URL: http://assia2019.net/ 概要 ASSIA 2019サマースクール (The 4th Asian Summer School in Information Access) は、2013</description>
+    </item>
     
     <item>
       <title>IR Reading 2019春</title>
