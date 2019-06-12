@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sigir.jp/post/2019-06-12-annual_meeting/</loc>
+    <lastmod>2019-06-12T09:23:50+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sigir.jp/post/2019-05-27-assia2019/</loc>
     <lastmod>2019-05-27T22:11:08+09:00</lastmod>
   </url>
@@ -64,7 +69,7 @@
   
   <url>
     <loc>http://sigir.jp/</loc>
-    <lastmod>2019-05-27T22:11:08+09:00</lastmod>
+    <lastmod>2019-06-12T09:23:50+09:00</lastmod>
   </url>
   
   <url>
@@ -93,7 +98,7 @@
   
   <url>
     <loc>http://sigir.jp/post/</loc>
-    <lastmod>2019-05-27T22:11:08+09:00</lastmod>
+    <lastmod>2019-06-12T09:23:50+09:00</lastmod>
     <priority>0</priority>
   </url>
   
