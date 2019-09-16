@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on ACM SIGIR 東京支部</title>
+    <title>news on ACM SIGIR 東京支部</title>
     <link>http://sigir.jp/tags/news/</link>
-    <description>Recent content in News on ACM SIGIR 東京支部</description>
+    <description>Recent content in news on ACM SIGIR 東京支部</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Mon, 27 May 2019 22:11:08 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 10:54:59 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IR Reading 2019秋 開催案内</title>
+      <link>http://sigir.jp/post/irreading_2019fall/</link>
+      <pubDate>Mon, 16 Sep 2019 10:54:59 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/irreading_2019fall/</guid>
+      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
+    </item>
     
     <item>
       <title>ASSIA 2019 (The 4th Asian Summer School in Information Access) 開催のお知らせ</title>
