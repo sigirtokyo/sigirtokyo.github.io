@@ -49,7 +49,8 @@ IR Reading 2019春では2019年4月〜2019年9月頃に開催された，ACM SIG
 IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:30px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<a href="
+https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
