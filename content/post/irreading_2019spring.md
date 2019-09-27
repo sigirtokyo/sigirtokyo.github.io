@@ -38,7 +38,7 @@ IR Reading 2019春では2018年8月〜2019年2月頃に開催された，ACM SIG
  - [CIKM 2018](http://www.cikm2018.units.it)
  - [ICTIR 2018](http://ictir2018.org/)
  - [AIRS 2018](http://airs2018.org/)
- 
+
 
 ## 発表形式
 1人（または1グループ）あたり**15分**の持ち時間を割り当てますので，この時間を自由に使って論文をご紹介ください．標準的な構成は12分発表・3分質疑を想定しております．1セッション中の論文を全部紹介したり，特定の1本をじっくり解説したり，発表者の希望に合わせて自由に選択ください．また，15分の持ち時間を複数の発表者（たとえば，研究室のメンバ3名）で担当していただいても構いません．また，発表者の数によっては持ち時間が15分より短くなる可能性もございますので，ご了承ください．
@@ -49,7 +49,7 @@ IR Reading 2019春では2018年8月〜2019年2月頃に開催された，ACM SIG
 IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:30px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
@@ -71,7 +71,7 @@ Slackに参加後，本勉強会用チャンネル（#2019spring）に情報を�
 IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:20px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
@@ -130,7 +130,7 @@ Multiperspective Graph-Theoretic Similarity Measure (CIKM 2018)</td><td>大島 �
 <tr><td>15:45 - 16:00</td><td>Personalizing Search Results Using Hierarchical RNN with Query-aware Attention (CIKM 2018)<br>
 Query Tracking for E-commerce Conversational Search: A Machine Comprehension Perspective (CIKM 2018)</td><td>渡邉涼太<br>根本美由樹（筑波大学）</td></tr>
 <tr><td>16:00 - 16:15</td><td>Session 4: Special Information Needs (CHIIR 2019)</td><td>高久雅生（筑波大学）</td></tr>
-	</tbody>	
+	</tbody>
 </table>
 
 &nbsp;
@@ -154,7 +154,7 @@ Multiresolution Graph Attention Networks for Relevance Matching (CIKM 2018)</td>
 <tr><td>17:30 - 17:45</td><td>Relevance Estimation with Multiple Information Sources on Search Engine Result Pages (CIKM 2018)<br>
 Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comprehension (CIKM 2018)</td><td>梅本 和俊（情報通信研究機構／東京大学）</td></tr>
 		<tr><td>17:45 - 18:00</td><td>クロージング・今後についての議論</td><td> &nbsp;</td></tr>
-	</tbody>	
+	</tbody>
 </table>
 
 &nbsp;
@@ -176,6 +176,5 @@ Retrieve-and-Read: Multi-task Learning of Information Retrieval and Reading Comp
 
 ## 連絡先
  - ACM SIGIR 東京支部
-   - sigir-tokyo at googlegroups.com 
+   - sigir-tokyo at googlegroups.com
    - 担当: 大島 裕明（兵庫県立大学） 山本 岳洋（京都大学）
-   

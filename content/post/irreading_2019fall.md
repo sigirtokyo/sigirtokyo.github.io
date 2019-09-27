@@ -71,7 +71,7 @@ Slackに参加後，本勉強会用チャンネル（#2019fall）に情報を登
 IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:20px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>

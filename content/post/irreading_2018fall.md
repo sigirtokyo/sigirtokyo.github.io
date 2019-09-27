@@ -38,7 +38,7 @@ IR Reading 2018秋では2018年1月〜2018年7月頃に開催された，ACM SIG
  - [WSDM 2018](http://www.wsdm-conference.org/2018/)
 
 その他，上記以外でも情報検索に関連する会議であれば何でも結構です．
- 
+
 
 ## 発表形式
 1人（または1グループ）あたり**15分**の持ち時間を割り当てますので，この時間を自由に使って論文をご紹介ください．標準的な構成は12分発表・3分質疑を想定しております．1セッション中の論文を全部紹介したり，特定の1本をじっくり解説したり，発表者の希望に合わせて自由に選択ください．また，15分の持ち時間を複数の発表者（たとえば，研究室のメンバ3名）で担当していただいても構いません．
@@ -49,7 +49,7 @@ IR Reading 2018秋では2018年1月〜2018年7月頃に開催された，ACM SIG
 IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:30px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
@@ -71,7 +71,7 @@ Slackに参加後，情報を登録するためのGoogle SpreadsheetのURLがSla
 IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:20px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLWI1NjJjN2I3NTUyMWRhYTQwZDE1NDY5YzhjMzZiYTVlMmE0NDAwZjMyMDdmNTM4ZjcwNDUwYzk2ODQyMmYwNjg" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
@@ -107,12 +107,12 @@ IR Reading Slack参加リンク
 (SIGIR 2018) Predicting User Knowledge Gain in Informational Search Sessions</td><td>齊藤 史明（静大）<br>
 梅田 浩郎（静大）<br>
 山本 祐輔（静大）</td></tr>
-		<tr><td>14:00 - 14:15</td><td> 
+		<tr><td>14:00 - 14:15</td><td>
 (SIGIR 2018) Ranking Documents by Answer-Passage Quality <br>
 (SIGIR 2018) Understanding and Evaluating User Satisfaction with Music Discovery<br>
 (CHIIR 2018) Personification of the Amazon Alexa: BFF or a Mindless Companion?
-</td> 
-<td> 
+</td>
+<td>
 	大島 裕明（兵庫県大）<br>
 Maharjan Rabin（兵庫県大）
 </td></tr>
@@ -146,7 +146,7 @@ Maharjan Rabin（兵庫県大）
 		<tr><td>15:30 - 15:45</td><td>(SIGIR 2018) An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric</td><td>酒井 哲也（早稲田大）</td></tr>
 		<tr><td>15:45 - 16:00</td><td>(SIGIR 2018) The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes</td><td>神門 典子（NII）</td></tr>
 		<tr><td>16:00 - 16:30</td><td>クロージング・今後についての議論</td><td> &nbsp;</td></tr>
-	</tbody>	
+	</tbody>
 </table>
 
 
@@ -167,6 +167,5 @@ Maharjan Rabin（兵庫県大）
 
 ## 連絡先
  - ACM SIGIR 東京支部
-   - sigir-tokyo at googlegroups.com 
+   - sigir-tokyo at googlegroups.com
    - 担当: 大島 裕明（兵庫県立大学） 山本 岳洋（京都大学）
-   
