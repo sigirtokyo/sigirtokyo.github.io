@@ -21,7 +21,7 @@ IR ReadingはACM SIGIR 東京支部が主催しており，秋と春の年2回�
 
 
 ## 会場
-- 関東会場：<strong>早稲田大学 西早稲田キャンパス</strong> 52号館2F-202 （[アクセス](https://www.waseda.jp/top/access/nishiwaseda-campus)，[キャンパスマップ(52番の建物です)](https://www.waseda.jp/top/assets/uploads/2016/10/20161020nishiwaseda_campus_map.pdf)）
+- 関東会場：<strong>早稲田大学 西早稲田キャンパス</strong> <strong style="color:red;">55号館N棟1階第二会議室</strong>  ~~52号館2F-202~~ （会場が55号館へと変更になりました ）<br>[アクセス](https://www.waseda.jp/top/access/nishiwaseda-campus)，[キャンパスマップ(右下55番の建物です)](https://www.waseda.jp/top/assets/uploads/2016/10/20161020nishiwaseda_campus_map.pdf)
   - 〒169-8555　東京都新宿区大久保3-4-1
 - 関西会場: <strong>兵庫県立大学 神戸情報科学キャンパス</strong> 7階（[アクセス](http://www.u-hyogo.ac.jp/campuslife/access/campus06.html)）
   - 〒650-0047　神戸市中央区港島南町7-1-28 （計算科学センタービル内）
@@ -45,9 +45,10 @@ IR Reading 2019春では2019年4月〜2019年9月頃に開催された，ACM SIG
 
 ## 参加の流れ
 
-### 1. IR Reading用Slackへの参加
+### 1. IR Reading用Slackへの参加（参加募集は締め切りました）
 IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．
 
+<!--
 <div class="text-center" style="margin-top:20px; margin-bottom:30px">
 <a href="
 https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
@@ -56,6 +57,7 @@ IR Reading Slack参加リンク
 </button>
 </a>
 </div>
+-->
 
 ### 2. セッションor論文情報の登録 （勉強会2週間前 締切）
 
@@ -68,8 +70,9 @@ Slackに参加後，本勉強会用チャンネル（#2019fall）に情報を登
 
 ## IR Reading Slack参加リンク
 
-IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．
+IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．（参加募集は締め切りました）
 
+<!--
 <div class="text-center" style="margin-top:20px; margin-bottom:20px">
 <a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
@@ -77,7 +80,7 @@ IR Reading Slack参加リンク
 </button>
 </a>
 </div>
-
+-->
 
 
 ## スケジュール
