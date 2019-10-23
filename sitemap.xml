@@ -3,6 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sigir.jp/</loc>
+    <lastmod>2019-10-17T11:15:06+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/tags/news/</loc>
+    <lastmod>2019-10-17T11:15:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/post/</loc>
+    <lastmod>2019-10-17T11:15:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/post/2019-10-17-powir2020winter/</loc>
+    <lastmod>2019-10-17T11:15:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/tags/</loc>
+    <lastmod>2019-10-17T11:15:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2019-10-17T11:15:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/post/irreading_2019fall/</loc>
+    <lastmod>2019-09-16T10:54:59+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/post/2019-06-12-annual_meeting/</loc>
+    <lastmod>2019-06-12T09:23:50+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/post/2019-05-27-assia2019/</loc>
+    <lastmod>2019-05-27T22:11:08+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sigir.jp/post/irreading_2019spring/</loc>
     <lastmod>2019-01-17T12:19:39+09:00</lastmod>
   </url>
@@ -25,6 +71,11 @@
   <url>
     <loc>http://sigir.jp/post/irreading_2018fall/</loc>
     <lastmod>2018-07-20T12:19:39+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sigir.jp/page/</loc>
+    <lastmod>2018-05-13T14:26:20+09:00</lastmod>
   </url>
   
   <url>
@@ -58,8 +109,7 @@
   </url>
   
   <url>
-    <loc>http://sigir.jp/</loc>
-    <lastmod>2019-01-17T12:19:39+09:00</lastmod>
+    <loc>http://sigir.jp/page/en/about/</loc>
   </url>
   
   <url>
@@ -68,40 +118,6 @@
   
   <url>
     <loc>http://sigir.jp/page/organization/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sigir.jp/page/en/about/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sigir.jp/tags/news/</loc>
-    <lastmod>2019-01-17T12:19:39+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sigir.jp/page/</loc>
-    <lastmod>2018-05-13T14:26:20+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sigir.jp/post/</loc>
-    <lastmod>2019-01-17T12:19:39+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sigir.jp/tags/</loc>
-    <lastmod>2019-01-17T12:19:39+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
-    <lastmod>2019-01-17T12:19:39+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>

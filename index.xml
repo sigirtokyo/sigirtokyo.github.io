@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Thu, 17 Jan 2019 12:19:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 11:15:06 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2020 Winter</title>
+      <link>http://sigir.jp/post/2019-10-17-powir2020winter/</link>
+      <pubDate>Thu, 17 Oct 2019 11:15:06 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-10-17-powir2020winter/</guid>
+      <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、 日本国内における情報検索研究の国際的プレゼンスを向上するために、 情報検索に関する主要国際会議に投稿予定の原稿に対し、 ACM</description>
+    </item>
+    
+    <item>
+      <title>IR Reading 2019秋 開催案内</title>
+      <link>http://sigir.jp/post/irreading_2019fall/</link>
+      <pubDate>Mon, 16 Sep 2019 10:54:59 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/irreading_2019fall/</guid>
+      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
+    </item>
+    
+    <item>
+      <title>ACM SIGIR 東京支部 2019年総会 開催案内</title>
+      <link>http://sigir.jp/post/2019-06-12-annual_meeting/</link>
+      <pubDate>Wed, 12 Jun 2019 09:23:50 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-06-12-annual_meeting/</guid>
+      <description>ACM SIGIR 東京支部 会員の皆様 時下ますますご清祥のこととお慶び申し上げます。 本年のACM SIGIR 東京支部 総会を8月2日(金)に 下記の通り開催致しますので、</description>
+    </item>
+    
+    <item>
+      <title>ASSIA 2019 (The 4th Asian Summer School in Information Access) 開催のお知らせ</title>
+      <link>http://sigir.jp/post/2019-05-27-assia2019/</link>
+      <pubDate>Mon, 27 May 2019 22:11:08 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-05-27-assia2019/</guid>
+      <description>日時：2019年7月9日（火）～7月13日（土） 場所：海南大学（中国） 詳細URL: http://assia2019.net/ 概要 ASSIA 2019サマースクール (The 4th Asian Summer School in Information Access) は、2013</description>
+    </item>
     
     <item>
       <title>IR Reading 2019春</title>
@@ -99,7 +135,7 @@
       <pubDate>Wed, 17 Jan 2018 18:47:41 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/page/registration/</guid>
-      <description>ACM SIGIR 東京支部へ会員登録をご希望の方は、 下記の登録フォームよりご登録をお願いいたします。 ACM SIGIR 東京支部 会員登録フォーム</description>
+      <description>ACM SIGIR 東京支部へ会員登録をご希望の方は、 下記の登録フォームよりご登録をお願いいたします。 ACM SIGIR 東京支部 会員登録フォーム 会員退会フォーム</description>
     </item>
     
     <item>
@@ -109,6 +145,16 @@
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/post/2017-12-27-first-post/</guid>
       <description>2017年12月27にACM SIGIR 東京支部がACMに承認されました。 これをもって、ACM SIGIR 東京支部の公式な活動が開始されました。</description>
+    </item>
+    
+    <item>
+      <title>About Tokyo ACM SIGIR Chapter</title>
+      <link>http://sigir.jp/page/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/page/en/about/</guid>
+      <description>ACM SIGIR* is the largest international research community in the field of information retrieval (IR) and organizes peer-reviewed international conferences such as SIGIR, WSDM, CIKM, CHIIR, and so on. ACM has approved “Tokyo ACM SIGIR Chapter” as the first SIGIR local chapter in Japan since 27th December, 2017.
+In Japan, IR is one of computer science fields where researchers have been energetically working from diverse perspectives such as information access, databases, natural language processing, artificial intelligence, human computer interaction, digital libraries, knowledge management, and so on.</description>
     </item>
     
     <item>
@@ -126,17 +172,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/page/organization/</guid>
-      <description>委員長 上保 秀夫 （筑波大学） 副委員長 酒井 哲也 （早稲田大学） 会計 吉岡真治 （北海道大学） 運営委員 石田 栄美（九州大学） 梅本 和俊（東京大学） 江草 由佳（</description>
-    </item>
-    
-    <item>
-      <title>About Tokyo ACM SIGIR Chapter</title>
-      <link>http://sigir.jp/page/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>http://sigir.jp/page/en/about/</guid>
-      <description>ACM SIGIR* is the largest international research community in the field of information retrieval (IR) and organizes peer-reviewed international conferences such as SIGIR, WSDM, CIKM, CHIIR, and so on. ACM has approved “Tokyo ACM SIGIR Chapter” as the first SIGIR local chapter in Japan since 27th December, 2017.
-In Japan, IR is one of computer science fields where researchers have been energetically working from diverse perspectives such as information access, databases, natural language processing, artificial intelligence, human computer interaction, digital libraries, knowledge management, and so on.</description>
+      <description>委員長 上保 秀夫 （筑波大学） 副委員長 杉山 一成 （京都大学） 会計 吉岡真治 （北海道大学） 運営委員 石田 栄美（九州大学） 梅本 和俊（東京大学） 江草 由佳（国</description>
     </item>
     
   </channel>

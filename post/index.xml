@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Thu, 17 Jan 2019 12:19:39 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 11:15:06 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2020 Winter</title>
+      <link>http://sigir.jp/post/2019-10-17-powir2020winter/</link>
+      <pubDate>Thu, 17 Oct 2019 11:15:06 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-10-17-powir2020winter/</guid>
+      <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、 日本国内における情報検索研究の国際的プレゼンスを向上するために、 情報検索に関する主要国際会議に投稿予定の原稿に対し、 ACM</description>
+    </item>
+    
+    <item>
+      <title>IR Reading 2019秋 開催案内</title>
+      <link>http://sigir.jp/post/irreading_2019fall/</link>
+      <pubDate>Mon, 16 Sep 2019 10:54:59 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/irreading_2019fall/</guid>
+      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
+    </item>
+    
+    <item>
+      <title>ACM SIGIR 東京支部 2019年総会 開催案内</title>
+      <link>http://sigir.jp/post/2019-06-12-annual_meeting/</link>
+      <pubDate>Wed, 12 Jun 2019 09:23:50 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-06-12-annual_meeting/</guid>
+      <description>ACM SIGIR 東京支部 会員の皆様 時下ますますご清祥のこととお慶び申し上げます。 本年のACM SIGIR 東京支部 総会を8月2日(金)に 下記の通り開催致しますので、</description>
+    </item>
+    
+    <item>
+      <title>ASSIA 2019 (The 4th Asian Summer School in Information Access) 開催のお知らせ</title>
+      <link>http://sigir.jp/post/2019-05-27-assia2019/</link>
+      <pubDate>Mon, 27 May 2019 22:11:08 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2019-05-27-assia2019/</guid>
+      <description>日時：2019年7月9日（火）～7月13日（土） 場所：海南大学（中国） 詳細URL: http://assia2019.net/ 概要 ASSIA 2019サマースクール (The 4th Asian Summer School in Information Access) は、2013</description>
+    </item>
     
     <item>
       <title>IR Reading 2019春</title>
