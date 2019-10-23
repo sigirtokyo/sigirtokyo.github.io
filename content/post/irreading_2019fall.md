@@ -129,7 +129,7 @@ IR Reading Slack参加リンク
  		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  	</thead>
  	<tbody>
-  <tr><td>14:40 - 15:10</td><td>1. Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors  (SIGIR 2019)<br>
+  <tr><td>14:40 - 14:55</td><td>1. Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors  (SIGIR 2019)<br>
   2. A New Perspective on Score Standardization  (SIGIR 2019 short)</td><td>酒井 哲也（早稲田大学）</td></tr>
   <tr><td>14:55 - 15:10</td><td>1. Online Multi-modal Hashing with Dynamic Query-adaption  (SIGIR 2019)<br>
   2. Unsupervised Neural Generative Semantic Hashing  (SIGIR 2019)</td><td>富樫陸（早稲田大学, 株式会社メルカリ）</td></tr>
