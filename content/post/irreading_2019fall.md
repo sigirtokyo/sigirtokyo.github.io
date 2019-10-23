@@ -93,6 +93,81 @@ IR Reading Slack参加リンク
 4. IR Reading
  - 勉強会当日: 10月27日（日） 13:00 - 18:00
 
+## プログラム
+
+### セッション1（関西会場） 13:00 - 14:25
+ <table class="table table-hover table-striped text-left">
+ 	<thead class="thead-light">
+ 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ 	</thead>
+ 	<tbody>
+  <tr><td>13:00 - 13:10</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+  <tr><td>13:10 - 13:25</td><td>1. Health Cards for Consumer Health Search  (SIGIR 2019)<br>
+  2. Why do Users Issue Good Queries? Neural Correlates of Term Specificity  (SIGIR 2019)</td><td>山本 岳洋（兵庫県立大学）</td></tr>
+  <tr><td>13:25 - 13:40</td><td>未定</td><td>杉山一成（京都大学）</td></tr>
+  <tr><td>13:40 - 13:55</td><td>1. ENT Rank: Retrieving Entities for Topical Information Needs through Entity-Neighbor-Text Relations  (SIGIR 2019)<br>
+  2. Keyphrases vs. Document Embeddings vs. Terms for Recommender Systems: An Online Evaluation (JCDL 2019)</td><td>寺本優香<br>木村優介（同志社大学）</td></tr>
+  <tr><td>13:55 - 14:10</td><td>1. <br>
+  2. <br>
+  3. Block-distributed Gradient Boosted Tree  (SIGIR2019)<br>
+  4.Graph Intention Network for Click-through Rate Prediction in Sponsored Search  (SIGIR2019)</td><td>大島 裕明<br>堂本 凌祐<br>ファム フーロン<br>楊 澤華（兵庫県立大学）</td></tr>
+  <tr><td>14:10 - 14:25</td><td>1. Item Recommendation by Combining Relative and Absolute Feedback Data  (SIGIR 2019)<br>
+  2. Forecasting U.S. Domestic Migration Using Internet Search Queries  (TheWebConf 2019)<br>
+  3. FAQ Retrieval using Query-Question Similarity and BERT-Based Query-Answer Relevance  (SIGIR 2019)</td><td>村本 直樹<br>中田 祐誠<br>橋口 友哉（兵庫県立大学）</td></tr>
+ 	</tbody>
+ </table>
+
+ &nbsp;
+
+### 休憩 14:25 - 14:40
+
+ &nbsp;
+
+### セッション2（関東会場） 14:40 - 16:10
+ <table class="table table-hover table-striped text-left">
+ 	<thead class="thead-light">
+ 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ 	</thead>
+ 	<tbody>
+  <tr><td>14:40 - 15:10</td><td>1. Statistical Significance Testing in Information Retrieval: An Empirical Analysis of Type I, Type II and Type III Errors  (SIGIR 2019)<br>
+  2. A New Perspective on Score Standardization  (SIGIR 2019 short)</td><td>酒井 哲也（早稲田大学）</td></tr>
+  <tr><td>14:55 - 15:10</td><td>1. Online Multi-modal Hashing with Dynamic Query-adaption  (SIGIR 2019)<br>
+  2. Unsupervised Neural Generative Semantic Hashing  (SIGIR 2019)</td><td>富樫陸（早稲田大学, 株式会社メルカリ）</td></tr>
+  <tr><td>15:10 - 15:25</td><td>1. Teach Machine How to Read: Reading Behavior Inspired Relevance Estimation  (SIGIR 2019)<br>
+  2. Generalists and Specialists: Using Community Embeddings to Quantify Activity Diversity in Online Platforms  (TheWebConf 2019)<br>
+  3.  (もう1本読むかも)</td><td>梅本 和俊（NICT／東大）</td></tr>
+  <tr><td>15:25 - 15:40</td><td>未定</td><td>欅 惇志（デンソーアイティーラボラトリ）</td></tr>
+  <tr><td>15:40 - 15:55</td><td>1. Accelerated Query Processing Via Similarity Score Prediction  (SIGIR 2019)<br>
+  2. Fast Approximate Filtering of Search Results Sorted by Attribute  (SIGIR 2019)</td><td>浅野卓也（株式会社メルカリ）</td></tr>
+  <tr><td>15:55 - 16:10</td><td>1. Personal Knowledge Base Construction from Text-based Lifelogs  (SIGIR 2019) </td><td>村上晴美（大阪市立大学）</td></tr>
+ 	</tbody>
+ </table>
+
+ &nbsp;
+
+### 休憩 16:10 - 16:25
+
+ &nbsp;
+
+
+### セッション3（関東会場） 16:25 - 17:55
+ <table class="table table-hover table-striped text-left">
+ 	<thead class="thead-light">
+ 		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ 	</thead>
+ 	<tbody>
+  <tr><td>16:25 - 16:40</td><td>未定</td><td>江草由佳（国立教育政策研究所）</td></tr>
+ <tr><td>16:40 - 16:55</td><td>
+ 1. <br> 2.To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions  (SIGIR 2019)</td><td>上保 秀夫（筑波大学)<br>藺 彦鵬（筑波大学／株式会社メルカリ）</td></tr>
+ <tr><td>16:55 - 17:10</td><td>1. Towards Self-Adaptive Metric Learning On the Fly  (TheWebConf 2019)<br>
+ 2. An Analysis of the Softmax Cross Entropy Loss for Learning-to-Rank with Binary Relevance  (ICTIR 2019)</td><td>村本尚生<br>稲垣遼（筑波大学）</td></tr>
+ <tr><td>17:10 - 17:25</td><td>未定</td><td>高久雅生（筑波大学）</td></tr>
+ <tr><td>17:25 - 17:40</td><td>Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019)</td><td>加藤 誠（筑波大学）</td></tr>
+ <tr><td>17:40 - 17:55</td><td>クロージング</td><td>&nbsp;</td></tr>
+ 	</tbody>
+ </table>
+
+ &nbsp;
 
 ## FAQ
 
