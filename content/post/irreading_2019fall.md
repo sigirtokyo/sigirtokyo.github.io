@@ -104,7 +104,7 @@ IR Reading Slack参加リンク
   <tr><td>13:00 - 13:10</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
   <tr><td>13:10 - 13:25</td><td>1. Health Cards for Consumer Health Search  (SIGIR 2019)<br>
   2. Why do Users Issue Good Queries? Neural Correlates of Term Specificity  (SIGIR 2019)</td><td>山本 岳洋（兵庫県立大学）</td></tr>
-  <tr><td>13:25 - 13:40</td><td>未定</td><td>杉山一成（京都大学）</td></tr>
+  <tr><td>13:25 - 13:40</td><td>A Neural Influence Diffusion Model for Social Recommendation (SIGIR 2019)</td><td>杉山一成（京都大学）</td></tr>
   <tr><td>13:40 - 13:55</td><td>1. ENT Rank: Retrieving Entities for Topical Information Needs through Entity-Neighbor-Text Relations  (SIGIR 2019)<br>
   2. Keyphrases vs. Document Embeddings vs. Terms for Recommender Systems: An Online Evaluation (JCDL 2019)</td><td>寺本優香<br>木村優介（同志社大学）</td></tr>
   <tr><td>13:55 - 14:10</td><td>1. <br>
