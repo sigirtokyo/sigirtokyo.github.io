@@ -158,7 +158,7 @@ IR Reading Slack参加リンク
  1. To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions  (SIGIR 2019)</td><td>藺 彦鵬（筑波大学／株式会社メルカリ）</td></tr>
  <tr><td>16:40 - 16:55</td><td>1. Towards Self-Adaptive Metric Learning On the Fly  (TheWebConf 2019)<br>
  2. An Analysis of the Softmax Cross Entropy Loss for Learning-to-Rank with Binary Relevance  (ICTIR 2019)</td><td>村本尚生<br>稲垣遼（筑波大学）</td></tr>
- <tr><td>16:55 - 17:10</td><td>未定</td><td>高久雅生（筑波大学）</td></tr>
+ <tr><td>16:55 - 17:10</td><td>One Way or Another I’m Gonna Find Ya: The Influence of Input Mechanism on Scrolling in Complex Digital Collections (JCDL2019)</td><td>高久雅生（筑波大学）</td></tr>
  <tr><td>17:10 - 17:25</td><td>Reinforcement Knowledge Graph Reasoning for Explainable Recommendation (SIGIR 2019)</td><td>加藤 誠（筑波大学）</td></tr>
  <tr><td>17:25 - 17:40</td><td>クロージング</td><td>&nbsp;</td></tr>
  	</tbody>
