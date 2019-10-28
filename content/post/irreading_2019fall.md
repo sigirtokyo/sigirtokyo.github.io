@@ -153,7 +153,7 @@ IR Reading Slack参加リンク
  		<tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  	</thead>
  	<tbody>
-  <tr><td>16:10 - 16:25</td><td>未定</td><td>江草由佳（国立教育政策研究所）</td></tr>
+  <tr><td>16:10 - 16:25</td><td>Exploring Usage Patterns of a Large-scale Digital Library (JCDL 2019)</td><td>江草由佳（国立教育政策研究所）</td></tr>
  <tr><td>16:25 - 16:40</td><td>
  1. To Model or to Intervene: A Comparison of Counterfactual and Online Learning to Rank from User Interactions  (SIGIR 2019)</td><td>藺 彦鵬（筑波大学／株式会社メルカリ）</td></tr>
  <tr><td>16:40 - 16:55</td><td>1. Towards Self-Adaptive Metric Learning On the Fly  (TheWebConf 2019)<br>
