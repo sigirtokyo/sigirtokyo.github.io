@@ -4,23 +4,16 @@
 
 1. `git`，`hugo`をインストール
 2. githubレポジトリをクローン
-3. devブランチをチェックアウト
 
 クローンは下記のコマンドで行うことができます：
 ```
 git clone https://github.com/sigirtokyo/sigirtokyo.github.io.git
 ```
 
-チェックアウトは下記のコマンドで行うことができます：
-```
-git checkout dev
-```
-
-チェックアウト後にthemeをインストールしてください。
-https://github.com/halogenica/beautifulhugo の中身をthemesディレクトリ以下に追加します。
+チェックアウト後にhugoのthemeを以下のコマンドでインストールしてください：
 
 ```
-git clone https://github.com/halogenica/beautifulhugo themes/beautifulhugo
+git submodule update --init --recursive
 ```
 
 ## メニューの更新
@@ -89,21 +82,16 @@ sh deploy_dev.sh
 
 このコマンドを実行すると，`http://mpkato.net/sigirtokyo_preview/`にファイルがアップロードされます（要認証）．
 
-変更したコードは適宜，devブランチにcommit，pushしてください．
-pushは下記のコマンドを使います：
-```
-git push origin dev
-```
+変更したコードは適宜，devブランチにcommitしてください．
 
 ## 本番環境の更新
 
 このレポジトリの`master`ブランチがそのままWebに公開されています．
-そのため，本番環境の更新は`master`ブランチの内容を`push`することで行えます．
-`deploy_pro.sh`は下記のことを自動的に実行してくれます．
+ただし，一貫性を保つために`master`ブランチは直接編集せず，単に`dev`ブランチをプッシュしてください．
+`dev`ブランチがプッシュされると自動的にGithub Actionsによって`master`ブランチが更新されます．
 
-1. `hugo`コマンドを実行し，`public`フォルダに作成済みのHTML等を書き出す
-2. `git checkout master`で`master`ブランチをチェックアウト
-3. `public`フォルダの内容で`master`ブランチを更新
-4. `git add .`，`git commit`および`git push`で`master`ブランチを`push`
-5. `git checkout dev`で`dev`ブランチに戻る
 
+pushは下記のコマンドを使います：
+```
+git push origin dev
+```
