@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Tue, 25 Feb 2020 10:34:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 12:22:55 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[開催中止のお知らせ] IR Reading 2020春</title>
+      <link>http://sigir.jp/post/2020-04-25-irreading_2020spring-cancelled/</link>
+      <pubDate>Tue, 25 Feb 2020 12:22:55 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2020-04-25-irreading_2020spring-cancelled/</guid>
+      <description>新型コロナウイルスの感染が拡大し，関係する学会イベント等の中止が発表されていることなどを踏まえ， 2020年4月25日に開催を予定しておりまし</description>
+    </item>
     
     <item>
       <title>[開催中止のお知らせ] SIGIR 東京支部 2019年度 セミナー 3</title>
@@ -27,7 +36,7 @@
       <pubDate>Tue, 11 Feb 2020 20:00:39 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
       <guid>http://sigir.jp/post/2020-04-25-irreading_2020spring/</guid>
-      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
+      <description>開催中止のお知らせ 新型コロナウイルスの感染が拡大し，関係する学会イベント等の中止が発表されていることなどを踏まえ， 2020年4月25日に開催</description>
     </item>
     
     <item>
