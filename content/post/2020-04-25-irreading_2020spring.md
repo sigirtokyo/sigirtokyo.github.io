@@ -16,6 +16,9 @@ tags: ["news", "イベント"]
 <br>
 ご参加を予定されていた方には大変申し訳ございませんが，
 ご理解くださいますようよろしくお願い申し上げます．
+<br>
+<br>
+<strong>この度，IR Readingを6月21日（日）にオンラインで開催とする運びとなりました．詳しくは<a href="http://sigir.jp/post/2020-06-21-irreading_2020spring_online/">こちら</a>をご覧ください．</strong>
 </div>
 
 ## 概要
