@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Tue, 25 Feb 2020 12:22:55 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2020 15:26:54 +0900</lastBuildDate>
     
 	<atom:link href="http://sigir.jp/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IR Reading 2020春（オンライン） 開催案内</title>
+      <link>http://sigir.jp/post/2020-06-21-irreading_2020spring_online/</link>
+      <pubDate>Mon, 06 Apr 2020 15:26:54 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>http://sigir.jp/post/2020-06-21-irreading_2020spring_online/</guid>
+      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
+    </item>
     
     <item>
       <title>[開催中止のお知らせ] IR Reading 2020春</title>
