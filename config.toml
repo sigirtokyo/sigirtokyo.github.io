@@ -106,3 +106,8 @@ pygmentCodeFences = true
     name = "会員登録"
     url = "page/registration/"
     weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
