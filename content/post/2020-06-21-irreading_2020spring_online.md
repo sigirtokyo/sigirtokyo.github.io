@@ -29,6 +29,7 @@ IR Reading 2020春（オンライン）では2019年10月〜2020年6月頃に開
 - [CIKM 2019 (ACM Digital Libraryのサイト)](https://dl.acm.org/doi/proceedings/10.1145/3357384)
 - [AIRS 2019](http://airs2019.ouhk.edu.hk/)
 - [CHIIR 2020](https://sigir.org/chiir2020/)
+- [ECIR 2020](https://ecir2020.org/program/)
 - [TheWebConf 2020](https://www2020.thewebconf.org/)
 
 ## 発表形式
