@@ -103,7 +103,7 @@ IR Reading Slack参加リンク
  	</thead>
  	<tbody>
   <tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
-  <tr><td>13:05 - 13:10</td><td>未定</td><td>大島 裕明（兵庫県立大学）</td></tr>
+  <tr><td>13:05 - 13:10</td><td>Adversarial Domain Adaptation with Semantic Consistency for Cross-Domain Image Classification (CIKM 2019)</td><td>大島 裕明（兵庫県立大学）</td></tr>
   <tr><td>13:10 - 13:15</td><td>Exploring The Interaction Effects for Temporal Spatial Behavior Prediction (CIKM 2019)</td><td>吉村拓真（兵庫県立大学大島研）</td></tr>
   <tr><td>13:15 - 13:20</td><td>Attributed Multi-Relational Attention Network for Fact-checking URL Recommendation (CIKM 2019)</td><td>濵島聡一郎（兵庫県立大学大島研）</td></tr>
   <tr><td>13:20 - 13:25</td><td>Multi-Target Multi-Camera Tracking with Human Body Part Semantic Features (CIKM 2019)</td><td>顧席銘（兵庫県立大学大島研）</td></tr>
