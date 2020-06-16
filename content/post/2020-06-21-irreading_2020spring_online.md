@@ -158,6 +158,9 @@ IR Reading Slack参加リンク
 
  &nbsp;
 
+ ### 休憩 16:15 - 16:30
+
+  &nbsp;
 
  ### セッション4（TheWebConf） 16:30 - 17:20
  <table class="table table-hover table-striped text-left">
