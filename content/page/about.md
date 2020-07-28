@@ -21,7 +21,7 @@ ACM SIGIR東京支部は、多様な研究背景から情報検索の諸課題�
 
 ACM SIGIR東京支部
 
-上保秀夫（筑波大・Chair）・酒井哲也（早稲田大・Vice-Chair）・吉岡真治（北海道大・Treasurer）
+上保秀夫（筑波大・Chair）・杉山 一成（京都大・Vice-Chair）・吉岡真治（北海道大・Treasurer）
 
 *ACM: Association for Computing Machinery<br>
 *SIGIR: Special Interest Group in Information Retrieval
