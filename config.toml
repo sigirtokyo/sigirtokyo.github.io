@@ -1,4 +1,4 @@
-baseurl = "http://sigir.jp/"
+baseurl = "https://sigir.jp/"
 
 DefaultContentLanguage = "ja"
 hasCJKLanguage = true
