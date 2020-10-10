@@ -8,14 +8,14 @@ ACM SIGIR 東京支部へ会員登録をご希望の方は、
 下記の登録フォームよりご登録をお願いいたします。
 
 <div class="text-center">
-    <a href="https://goo.gl/forms/NOa31vf582Gd8JTs2"
+    <a href="https://forms.gle/4WRFkBxgAMnm4Q7M9"
         target="_blank"
         class="btn btn-primary registration_link">
         ACM SIGIR 東京支部 会員登録フォーム
     </a>
 </div>
 <div class="text-center">
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSctQdKFZSzcrIr3n6WCwd-cqFXT9ue5kwV66JuTayE_Q6dr9w/viewform"
+    <a href="https://forms.gle/3pQH2cxbficGJD3Q7"
         target="_blank"
         class="btn btn-link">
         会員退会フォーム
