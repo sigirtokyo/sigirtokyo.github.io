@@ -126,7 +126,7 @@ IR Reading Slack参加リンク
   <tr><td>12:05 - 12:15</td><td>Conversational Information Retrieval のテーマでいくつか</td><td>広田 航（Megagon Labs California）</td></tr>
   <tr><td>12:15 - 12:30</td><td>Generating Categories for Sets of Entities (CIKM 2020)</td><td>加藤 誠（筑波大学）</td></tr>
   <tr><td>12:30 - 12:35</td><td>Controllable Multi-Character Psychology-Oriented Story Generation（CIKM 2020）</td><td>橋口 友哉（兵庫県立大学）</td></tr>
-  <tr><td>12:35 - 12:45</td><td>Towards Memorable Information Retrieval (ICTIR 2020)</td><td>長瀬 幸翼（筑波大学）</td></tr>
+  <tr><td>12:35 - 12:45</td><td>Towards Memorable Information Retrieval (ICTIR 2020)</td><td>長瀬 幸翼（筑波大学上保研）</td></tr>
   <tr><td>12:45 - 12:50</td><td>A Multistage Ranking Strategy for Personalized Hotel Recommendation with Human Mobility Data (ICTIR 2020)</td><td>ファム フーロン（兵庫県立大学）</td></tr>
  	</tbody>
  </table>
