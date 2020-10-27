@@ -187,7 +187,7 @@ Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation (SIGIR
 Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation (Webconf 2020)</td><td>富樫 陸（早稲田大学酒井研、株式会社サイバーエージェント）</td></tr>
 <tr><td>15:30 - 15:35</td><td>Generative Attribute Manipulation Scheme for Flexible Fashion Search（SIGIR 2020）</td><td>吉岡 朋友（兵庫県立大学）</td></tr>
 <tr><td>15:35 - 15:45</td><td>Conversations with Documents. (CHIIR 2020)</td><td>方 昱博（筑波大学上保研）</td></tr>
-<tr><td>15:45 - 15:55</td><td>Estimate document time with neural network</td><td>張 麗蓉（筑波大学上保研）</td></tr>
+<tr><td>15:45 - 15:55</td><td>Attending to Inter-sentential Features in Neural Text Classification (SIGIR 2020)</td><td>張 麗蓉（筑波大学上保研）</td></tr>
 </tbody>
 </table>
 
