@@ -14,8 +14,10 @@ tags: ["news", "イベント"]
 
 ## 日時
 - 2021年4月24日（土）
-  - 13:00 - 18:00（予定）
+  - 13:00 - 16:25 [プログラム案](#program)
   - 参加者数により，開始時刻，終了時刻など変更する予定があります．
+
+
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2021spring にて連絡いたします．
@@ -88,6 +90,58 @@ IR Reading Slack参加リンク
  - 勉強会前日: 4月23日（金）
 4. IR Reading
  - 勉強会当日: 4月24日（土）
+
+<span id="program"></span>
+## プログラム
+
+ ### セッション1（CIKM, KDD,EMNLP and WSDM） 13:00 - 13:55
+
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr><tr><td>13:05 - 13:20</td><td>An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph (KDD 2020)<br>
+S^{3}-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM 2020)</td><td>杉山一成（京都大学）</td></tr><tr><td>13:20 - 13:30</td><td>Providing Direct Answers in Search Results: A Study of User Behavior (CIKM 2020)</td><td>柳田雄輝（筑波大学加藤研）</td></tr><tr><td>13:30 - 13:35</td><td>CEQE: Contextualized Embeddings for Query Expansion (EMNLP 2020)</td><td>飯田　大貴（東工大岡崎研/レトリバ）</td></tr><tr><td>13:35 - 13:45</td><td>Online Experimentation with Surrogate Metrics: Guidelines and a Case Study (WSDM 2021)</td><td>中江俊博（株式会社ビズリーチ）</td></tr><tr><td>13:45 - 13:55</td><td>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval（WSDM2021）</td><td>打田智子（筑波大学 加藤研/LegalForce）</td></tr>
+         </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 13:55 - 14:10
+&nbsp;
+
+ ### セッション2（WSDM） 14:10 - 15:05
+
+<table class="table table-hover table-striped text-left">
+     <thead class="thead-light">
+       <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+     </thead>
+     <tbody>
+    <tr><td>14:10 - 14:25</td><td>FACE-KEG: FAct Checking Explained using KnowledgE Graphs (WSDM 2021)<br>
+Generative Models are Unsupervised Predictors of Page Quality: A Colossal-Scale Study (WSDM 2021)</td><td>中野優（筑波大学加藤研）</td></tr><tr><td>14:25 - 14:40</td><td>Interpretable Ranking with Generalized Additive Models (WSDM 2021)<br>
+Improving Cloud Storage Search with User Activity (WSDM 2021)</td><td>加藤誠（筑波大学）</td></tr><tr><td>14:40 - 14:50</td><td>Node Similarity Preserving Graph Convolutional Networks (WSDM 2021)</td><td>田中謙次（兵庫県立大学 大島研）</td></tr><tr><td>14:50 - 15:05</td><td>Popularity-Opportunity Bias in Collaborative Filtering (WSDM 2021)<br>
+Denoising Implicit Feedback for Recommendation (WSDM 2021)</td><td>佃洸摂（
+産業技術総合研究所）</td></tr>
+         </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 15:05 - 15:20
+&nbsp;
+
+### セッション3 CIIR, ECIR, TheWebConf 15:20 - 16:25
+
+<table class="table table-hover table-striped text-left">
+     <thead class="thead-light">
+       <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+     </thead>
+     <tbody>
+    <tr><td>15:20 - 15:30</td><td>Cognitive Biases in Search (CHIIR 2021)</td><td>山本岳洋（兵庫県立大学 山本研）</td></tr><tr><td>15:30 - 15:35</td><td>How Do Simple Transformations of Text and Image Features Impact Cosine-based Semantic Match? (CHIIR 2021)</td><td>奥田萌莉（兵庫県立大学 大島研）</td></tr><tr><td>15:35 - 15:45</td><td>Investigating the Influence of Ads on User Search Performance, Behaviour, and Experience during Information Seeking (CHIIR 2021)</td><td>新田洸平（筑波大学加藤研）</td></tr><tr><td>15:45 - 15:55</td><td>My Mouse, My Rules: Privacy Issues of Behavioral User Profiling via Mouse Tracking (CHIIR 2021)</td><td>長瀬幸翼（株式会社HERP）</td></tr><tr><td>15:55 - 16:00</td><td>Transformer-based approach towards music emotion recognition from lyrics (ECIR 2021)</td><td>三林亮太（兵庫県立大学 大島研）</td></tr><tr><td>16:00 - 16:05</td><td>どっちか又は両方<br>
+Simplified TinyBERT: Knowledge Distillation for Document Retrieval (ECIR 2021)<br>
+BiGBERT: Classifying Educational Web Resources for Kindergarten-12thGrades (ECIR 2021)</td><td>大島裕明（兵庫県立大学 大島研）</td></tr><tr><td>16:05 - 16:10</td><td>Diagnosis Ranking with Knowledge Graph Convolutional Networks (ECIR 2021)</td><td>金琢奇（筑波大学上保研）</td></tr><tr><td>16:10 - 16:25</td><td>Density Ratio-based Personalised Recommendation from Implicit Feedback (TheWebConf 2021)</td><td>富樫陸（株式会社サイバーエージェント、早稲田大学 酒井研）</td></tr>
+ </tbody>
+</table>
+
 
 
 ## FAQ
