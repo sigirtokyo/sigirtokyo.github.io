@@ -129,7 +129,7 @@ Denoising Implicit Feedback for Recommendation (WSDM 2021)</td><td>佃洸摂（
  ### 休憩 15:05 - 15:20
 &nbsp;
 
-### セッション3 CIIR, ECIR, TheWebConf 15:20 - 16:25
+### セッション3 CHIIR, ECIR, TheWebConf 15:20 - 16:25
 
 <table class="table table-hover table-striped text-left">
      <thead class="thead-light">
