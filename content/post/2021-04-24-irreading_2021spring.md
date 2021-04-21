@@ -129,15 +129,17 @@ Denoising Implicit Feedback for Recommendation (WSDM 2021)</td><td>佃洸摂（
  ### 休憩 15:05 - 15:20
 &nbsp;
 
-### セッション3 CHIIR, ECIR, TheWebConf 15:20 - 16:30
+### セッション3 CHIIR, ECIR, TheWebConf 15:20 - 16:35
 
 <table class="table table-hover table-striped text-left">
      <thead class="thead-light">
        <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
      </thead>
      <tbody>
-    <tr><td>15:20 - 15:30</td><td>Cognitive Biases in Search (CHIIR 2021)</td><td>山本岳洋（兵庫県立大学 山本研）</td></tr><tr><td>15:30 - 15:35</td><td>How Do Simple Transformations of Text and Image Features Impact Cosine-based Semantic Match? (CHIIR 2021)</td><td>奥田萌莉（兵庫県立大学 大島研）</td></tr><tr><td>15:35 - 15:45</td><td>Investigating the Influence of Ads on User Search Performance, Behaviour, and Experience during Information Seeking (CHIIR 2021)</td><td>新田洸平（筑波大学加藤研）</td></tr><tr><td>15:45 - 15:55</td><td>My Mouse, My Rules: Privacy Issues of Behavioral User Profiling via Mouse Tracking (CHIIR 2021)</td><td>長瀬幸翼（株式会社HERP）</td></tr><tr><td>15:55 - 16:00</td><td>Transformer-based approach towards music emotion recognition from lyrics (ECIR 2021)</td><td>三林亮太（兵庫県立大学 大島研）</td></tr><tr><td>16:00 - 16:05</td><td>Simplified TinyBERT: Knowledge Distillation for Document Retrieval (ECIR 2021)</td><td>大島裕明（兵庫県立大学 大島研）</td></tr><tr><td>16:05 - 16:10</td><td>Diagnosis Ranking with Knowledge Graph Convolutional Networks (ECIR 2021)</td><td>金琢奇（筑波大学上保研）</td></tr><tr><td>16:10 - 16:25</td><td>Density Ratio-based Personalised Recommendation from Implicit Feedback (TheWebConf 2021)</td><td>富樫陸（株式会社サイバーエージェント、早稲田大学 酒井研）</td></tr>
-    <tr><td>16:25 - 16:30</td><td>Question Rewriting for Conversational Question Answering (WSDM 2021)</td><td>方昱博（筑波大学上保研）</td></tr>
+    <tr><td>15:20 - 15:25</td><td>QEvent Detection with Entity Markers (ECIR 2021)</td><td>張麗蓉（筑波大学上保研）</td></tr>
+    <tr><td>15:25 - 15:30</td><td>Question Rewriting for Conversational Question Answering (WSDM 2021)</td><td>方昱博（筑波大学上保研）</td></tr>
+    <tr><td>15:30 - 15:35</td><td>How Do Simple Transformations of Text and Image Features Impact Cosine-based Semantic Match? (CHIIR 2021)</td><td>奥田萌莉（兵庫県立大学 大島研）</td></tr><tr><td>15:35 - 15:45</td><td>Investigating the Influence of Ads on User Search Performance, Behaviour, and Experience during Information Seeking (CHIIR 2021)</td><td>新田洸平（筑波大学加藤研）</td></tr><tr><td>15:45 - 15:55</td><td>My Mouse, My Rules: Privacy Issues of Behavioral User Profiling via Mouse Tracking (CHIIR 2021)</td><td>長瀬幸翼（株式会社HERP）</td></tr><tr><td>15:55 - 16:00</td><td>Transformer-based approach towards music emotion recognition from lyrics (ECIR 2021)</td><td>三林亮太（兵庫県立大学 大島研）</td></tr><tr><td>16:00 - 16:05</td><td>Simplified TinyBERT: Knowledge Distillation for Document Retrieval (ECIR 2021)</td><td>大島裕明（兵庫県立大学 大島研）</td></tr><tr><td>16:05 - 16:10</td><td>Diagnosis Ranking with Knowledge Graph Convolutional Networks (ECIR 2021)</td><td>金琢奇（筑波大学上保研）</td></tr><tr><td>16:10 - 16:25</td><td>Density Ratio-based Personalised Recommendation from Implicit Feedback (TheWebConf 2021)</td><td>富樫陸（株式会社サイバーエージェント、早稲田大学 酒井研）</td></tr>
+<tr><td>16:25 - 16:35</td><td>Cognitive Biases in Search (CHIIR 2021)</td><td>山本岳洋（兵庫県立大学 山本研）</td></tr>
  </tbody>
 </table>
 
