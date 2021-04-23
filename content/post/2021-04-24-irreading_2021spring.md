@@ -94,7 +94,7 @@ IR Reading Slack参加リンク
 <span id="program"></span>
 ## プログラム
 
- ### セッション1（CIKM, KDD,EMNLP and WSDM） 13:00 - 13:55
+ ### セッション1（CIKM, KDD, ECIR and WSDM） 13:00 - 13:55
 
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
@@ -102,7 +102,7 @@ IR Reading Slack参加リンク
  </thead>
  <tbody>
 <tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr><tr><td>13:05 - 13:20</td><td>An Efficient Neighborhood-based Interaction Model for Recommendation on Heterogeneous Graph (KDD 2020)<br>
-S^{3}-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM 2020)</td><td>杉山一成（京都大学）</td></tr><tr><td>13:20 - 13:30</td><td>Providing Direct Answers in Search Results: A Study of User Behavior (CIKM 2020)</td><td>柳田雄輝（筑波大学加藤研）</td></tr><tr><td>13:30 - 13:35</td><td>CEQE: Contextualized Embeddings for Query Expansion (EMNLP 2020)</td><td>飯田　大貴（東工大岡崎研/レトリバ）</td></tr><tr><td>13:35 - 13:45</td><td>Online Experimentation with Surrogate Metrics: Guidelines and a Case Study (WSDM 2021)</td><td>中江俊博（株式会社ビズリーチ）</td></tr><tr><td>13:45 - 13:55</td><td>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval（WSDM2021）</td><td>打田智子（筑波大学 加藤研/LegalForce）</td></tr>
+S^{3}-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization (CIKM 2020)</td><td>杉山一成（京都大学）</td></tr><tr><td>13:20 - 13:30</td><td>Providing Direct Answers in Search Results: A Study of User Behavior (CIKM 2020)</td><td>柳田雄輝（筑波大学加藤研）</td></tr><tr><td>13:30 - 13:35</td><td>CEQE: Contextualized Embeddings for Query Expansion (ECIR 2021)</td><td>飯田　大貴（東工大岡崎研/レトリバ）</td></tr><tr><td>13:35 - 13:45</td><td>Online Experimentation with Surrogate Metrics: Guidelines and a Case Study (WSDM 2021)</td><td>中江俊博（株式会社ビズリーチ）</td></tr><tr><td>13:45 - 13:55</td><td>PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval（WSDM2021）</td><td>打田智子（筑波大学 加藤研/LegalForce）</td></tr>
          </tbody>
 </table>
 
