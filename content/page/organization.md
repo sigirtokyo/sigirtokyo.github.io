@@ -45,4 +45,5 @@ comments: false
 
 ## 過去の役員
 
-- [ACM SIGIR 東京支部役員（第1期 2017年12月〜2021年6月）](/page/organization_1/)
+- [ACM SIGIR 東京支部役員（第2期 2019年7月〜2021年6月）](/page/organization_2/)
+- [ACM SIGIR 東京支部役員（第1期 2017年12月〜2019年6月）](/page/organization_1/)
