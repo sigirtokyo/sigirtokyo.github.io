@@ -4,8 +4,33 @@
   
   <url>
     <loc>https://sigir.jp/</loc>
-    <lastmod>2021-07-11T11:40:00+09:00</lastmod>
+    <lastmod>2021-09-24T21:27:43+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sigir.jp/post/2021-10-30-irreading_2021fall/</loc>
+    <lastmod>2021-09-24T21:27:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sigir.jp/tags/news/</loc>
+    <lastmod>2021-09-24T21:27:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sigir.jp/post/</loc>
+    <lastmod>2021-09-24T21:27:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sigir.jp/tags/</loc>
+    <lastmod>2021-09-24T21:27:43+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
+    <lastmod>2021-09-24T21:27:43+09:00</lastmod>
   </url>
   
   <url>
@@ -14,27 +39,7 @@
   </url>
   
   <url>
-    <loc>https://sigir.jp/post/</loc>
-    <lastmod>2021-07-11T11:40:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sigir.jp/post/2021-04-24-irreading_2021spring/</loc>
-    <lastmod>2021-03-17T20:10:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sigir.jp/tags/news/</loc>
-    <lastmod>2021-03-17T20:10:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sigir.jp/tags/</loc>
-    <lastmod>2021-03-17T20:10:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</loc>
     <lastmod>2021-03-17T20:10:20+09:00</lastmod>
   </url>
   
