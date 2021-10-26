@@ -90,7 +90,84 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
-TBA
+ ### セッション1（ICTIR and SIGIR） 13:00 - 14:00
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+<tr><td>13:05 - 13:10</td><td>Can Language Models Identify Wikipedia Articles with Readability and Style Issues?<br>
+（ICTIR21）</td><td>大島裕明（兵庫県立大学大島研）</td></tr>
+<tr><td>13:10 - 13:15</td><td>Info-flow Enhanced GANs for Recommender（SIGIR21）</td><td>奥田萌莉（兵庫県立大学大島研）</td></tr>
+<tr><td>13:15 - 13:20</td><td>Towards an Online Empathetic Chatbot with Emotion Causes（SIGIR21）</td><td>王丹（兵庫県立大学大島研）</td></tr>
+<tr><td>13:20 - 13:25</td><td>Automatic Form Filling with Form-BERT（SIGIR 2021）</td><td>ファム フーロン（&nbsp;）</td></tr>
+<tr><td>13:25 - 13:35</td><td>Multimodal Activation: Awakening Dialog Robots withoutWake Words (SIGIR2021)</td><td>欅 惇志（デンソーアイティーラボラトリ）</td></tr>
+<tr><td>13:35 - 13:45</td><td>Standing in Your Shoes: External Assessments for Personalized Recommender Systems (SIGIR 2021)</td><td>佃 洸摂（産業技術総合研究所）</td></tr>
+<tr><td>13:45 - 14:00</td><td>New Insights into Metric Optimization for Ranking-based Recommendation<br>
+Scalable Personalised Item Ranking through Parametric Density Estimation</td><td>富樫陸（CyberAgent AILab, 早稲田大学酒井研）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 14:00 - 14:15
+&nbsp;
+
+ ### セッション2（ICTIR and SIGIR） 14:15 - 15:15
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>14:15 - 14:25</td><td>Towards Axiomatic Explanations for Neural Ranking Models (ICTIR 2021)</td><td>加藤 誠（筑波大学）</td></tr>
+<tr><td>14:25 - 14:35</td><td>Fairness among New Items in Cold Start Recommender Systems (SIGIR 2021)</td><td>新田洸平（筑波大学加藤研）</td></tr>
+<tr><td>14:35 - 14:50</td><td>Societal Biases in Retrieved Contents: Measurement Framework and Adversarial Mitigation of BERT Rankers (SIGIR 2021)<br>
+Leveraging Lead Bias for Zero-shot Abstractive News Summarization (SIGIR 2021)</td><td>中野優（筑波大学加藤研）</td></tr>
+<tr><td>14:50 - 15:00</td><td>TILDE: Term Independent Likelihood moDEl for Passage Re-ranking (SIGIR 2021)</td><td>打田智子（筑波大学加藤研）</td></tr>
+<tr><td>15:00 - 15:10</td><td>Intra-Document Cascading: Learning to Select Passages for Neural Document Ranking (SIGIR 2021)</td><td>丸田 敦貴（筑波大学加藤研）</td></tr>
+<tr><td>15:10 - 15:15</td><td>An Image is Worth a Thousand Terms? Analysis of Visual E-Commerce Search</td><td>大野悟（筑波大学加藤研）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 15:15 - 15:30
+&nbsp;
+
+ ### セッション3（SIGIR） 15:30 - 16:15
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>15:30 - 15:45</td><td>Deconfounded Video Moment Retrieval with Causal Intervention (SIGIR 2021) <br>
+Causal Intervention for Leveraging Popularity Bias in Recommendation (SIGIR 2021)<br>
+User Retention: A Causal Approach with Triple Task Modeling (IJCAI 2021)</td><td>佐藤 政寛（Independent Researcher）</td></tr>
+<tr><td>15:45 - 15:55</td><td>Counterfactual Data-Augmented Sequential Recommendation (SIGIR 2021)<br>
+CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation (SIGIR 2021)</td><td>梅本和俊（東京大学）</td></tr>
+<tr><td>15:55 - 16:05</td><td>Enhanced Graph Learning for Collaborative Filtering <br>
+via Mutual Information Maximization（SIGIR 2021）<br>
+（他の論文にする可能性もあり）</td><td>杉山一成（京都大学）</td></tr>
+<tr><td>16:05 - 16:15</td><td>Learning Recommender Systems with Implicit Feedback via Soft Target Enhancement (SIGIR 2021)</td><td>斎藤陽介（京都大学吉川・馬研究室）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 16:15 - 16:20
+&nbsp;
+
+ ### セッション4（SIGIR） 16:20 - 17:05
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>16:20 - 16:30</td><td>未定</td><td>PENG SHAOWEN（京都大学吉川・馬研究室）</td></tr>
+<tr><td>16:30 - 16:40</td><td>未定</td><td>Yi Yu （京都大学吉川・馬研究室）</td></tr>
+<tr><td>16:40 - 16:50</td><td>&nbsp;</td><td>浅野 卓也（株式会社メルカリ）</td></tr>
+<tr><td>16:50 - 17:00</td><td>未定</td><td>山本 岳洋（兵庫県立大学山本研）</td></tr>
+<tr><td>17:00 - 17:05</td><td>クロージング</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
 
 ## FAQ
 
