@@ -160,10 +160,10 @@ via Mutual Information Maximization（SIGIR 2021）</td><td>杉山一成（京�
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>16:20 - 16:30</td><td>未定</td><td>PENG SHAOWEN（京都大学吉川・馬研究室）</td></tr>
+<tr><td>16:20 - 16:30</td><td>Self-supervised Graph Learning for Recommendation (SIGIR 2021)</td><td>PENG SHAOWEN（京都大学吉川・馬研究室）</td></tr>
 <tr><td>16:30 - 16:40</td><td>未定</td><td>Yi Yu （京都大学吉川・馬研究室）</td></tr>
-<tr><td>16:40 - 16:50</td><td>&nbsp;</td><td>浅野 卓也（株式会社メルカリ）</td></tr>
-<tr><td>16:50 - 17:00</td><td>未定</td><td>山本 岳洋（兵庫県立大学山本研）</td></tr>
+<tr><td>16:40 - 16:50</td><td>PTHash: Revisiting FCH Minimal Perfect Hashing (SIGIR 2021)</td><td>浅野 卓也（株式会社メルカリ）</td></tr>
+<tr><td>16:50 - 17:00</td><td>Wizard of Search Engine: Access to Information Through Conversations with Search Engines (SIGIR 2021)</td><td>山本 岳洋（兵庫県立大学山本研）</td></tr>
 <tr><td>17:00 - 17:05</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
