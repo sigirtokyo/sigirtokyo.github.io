@@ -145,8 +145,7 @@ User Retention: A Causal Approach with Triple Task Modeling (IJCAI 2021)</td><td
 <tr><td>15:45 - 15:55</td><td>Counterfactual Data-Augmented Sequential Recommendation (SIGIR 2021)<br>
 CauseRec: Counterfactual User Sequence Synthesis for Sequential Recommendation (SIGIR 2021)</td><td>梅本和俊（東京大学）</td></tr>
 <tr><td>15:55 - 16:05</td><td>Enhanced Graph Learning for Collaborative Filtering <br>
-via Mutual Information Maximization（SIGIR 2021）<br>
-（他の論文にする可能性もあり）</td><td>杉山一成（京都大学）</td></tr>
+via Mutual Information Maximization（SIGIR 2021）</td><td>杉山一成（京都大学）</td></tr>
 <tr><td>16:05 - 16:15</td><td>Learning Recommender Systems with Implicit Feedback via Soft Target Enhancement (SIGIR 2021)</td><td>斎藤陽介（京都大学吉川・馬研究室）</td></tr>
  </tbody>
 </table>
