@@ -58,7 +58,7 @@ hugo new page/page_name.md
 ```
 hugo new post/YYYY-MM-DD-page_name.md
 ```
-というコマンドが利用可能です．
+というコマンドが利用可能です．このコマンドを発行すると，テンプレートファイルができます。このファイルを修正します。
 
 ## 更新方針
 
