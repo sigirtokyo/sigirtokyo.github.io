@@ -7,8 +7,13 @@
 
 クローンは下記のコマンドで行うことができます：
 ```
+git clone git@github.com:sigirtokyo/sigirtokyo.github.io.git
+```
+もしくは
+```
 git clone https://github.com/sigirtokyo/sigirtokyo.github.io.git
 ```
+
 
 チェックアウト後にhugoのthemeを以下のコマンドでインストールしてください：
 
