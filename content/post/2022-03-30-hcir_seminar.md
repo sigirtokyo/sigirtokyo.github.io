@@ -17,7 +17,7 @@ tags: ["news", "イベント", "セミナー"]
     <dt>参加方法</dt>
     <dd>登録いただいたメールアドレスに後日Zoomのアクセス情報をお知らせします。リサーチユニット構成員および指導学生、ACM SIGIR 東京支部会員にはMLやSlackなどでZoomのアクセス情報をお知らせします。</dd>  
     <dt>共催</dt>
-    <dd>本セミナーは、筑波大学人間中心情報検索・推薦システムリサーチユニットとTokyo ACM SIGIR Chapterの共催です。</dd>          
+    <dd>本セミナーは、<a href="https://hcir.slis.tsukuba.ac.jp/">筑波大学人間中心情報検索・推薦システムリサーチユニット</a>とTokyo ACM SIGIR Chapterの共催です。</dd>          
 </dl>
 
 どなたでも無料で参加できます。
