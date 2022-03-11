@@ -18,6 +18,7 @@ git clone https://github.com/sigirtokyo/sigirtokyo.github.io.git
 チェックアウト後にhugoのthemeを以下のコマンドでインストールしてください：
 
 ```
+cd sigirtokyo.github.io.git
 git submodule update --init --recursive
 ```
 
