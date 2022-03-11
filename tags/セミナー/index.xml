@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>セミナー on ACM SIGIR 東京支部</title>
+    <link>https://sigir.jp/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</link>
+    <description>Recent content in セミナー on ACM SIGIR 東京支部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
+    <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
+    <lastBuildDate>Fri, 11 Mar 2022 18:22:35 +0900</lastBuildDate>
+    
+	<atom:link href="https://sigir.jp/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HCIR Seminar 2（共催）</title>
+      <link>https://sigir.jp/post/2022-03-30-hcir_seminar/</link>
+      <pubDate>Fri, 11 Mar 2022 18:22:35 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>https://sigir.jp/post/2022-03-30-hcir_seminar/</guid>
+      <description>日時 2022年3月30日（水）10:00-11:00 場所 オンライン（Zoom） 対象者 リサーチユニット構成員および指導学生、ACM SIGIR 東京支部会</description>
+    </item>
+    
+  </channel>
+</rss>
