@@ -70,6 +70,8 @@ hugo new post/YYYY-MM-DD-page_name.md
 
 ## プレビュー
 
+（md ファイルのヘッダの Draft行を削除して保存します。）
+
 以下のコマンドを実行しておくことで，`http://localhost:1313/`にて変更内容をリアルタイムに確認できます：
 ```
 hugo server
