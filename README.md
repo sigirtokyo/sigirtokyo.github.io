@@ -7,12 +7,18 @@
 
 クローンは下記のコマンドで行うことができます：
 ```
+git clone git@github.com:sigirtokyo/sigirtokyo.github.io.git
+```
+もしくは
+```
 git clone https://github.com/sigirtokyo/sigirtokyo.github.io.git
 ```
+
 
 チェックアウト後にhugoのthemeを以下のコマンドでインストールしてください：
 
 ```
+cd sigirtokyo.github.io.git
 git submodule update --init --recursive
 ```
 
@@ -58,7 +64,7 @@ hugo new page/page_name.md
 ```
 hugo new post/YYYY-MM-DD-page_name.md
 ```
-というコマンドが利用可能です．
+というコマンドが利用可能です．このコマンドを発行すると，テンプレートファイルができます。このファイルを修正します。
 
 ## 更新方針
 
@@ -69,6 +75,8 @@ hugo new post/YYYY-MM-DD-page_name.md
 
 
 ## プレビュー
+
+（md ファイルのヘッダの Draft行を削除して保存します。）
 
 以下のコマンドを実行しておくことで，`http://localhost:1313/`にて変更内容をリアルタイムに確認できます：
 ```
