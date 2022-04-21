@@ -4,23 +4,27 @@ subtitle: ""
 comments: false
 ---
 
-ACM SIGIR<sup>*</sup> is the largest international research community in the field of information retrieval (IR) and organizes peer-reviewed international conferences such as SIGIR, WSDM, CIKM, CHIIR, and so on. ACM has approved “Tokyo ACM SIGIR Chapter” as the first SIGIR local chapter in Japan since 27th December, 2017.
+ACM<sup>*</sup> SIGIR<sup>**</sup> is the largest international research community in the field of information retrieval (IR) and organizes or co-organizes peer-reviewed international conferences such as SIGIR, WSDM, CIKM, JCDL, CHIIR, ICTIR, and so on. ACM has approved “Tokyo ACM SIGIR Chapter” as the first SIGIR local chapter in Japan since 27th December, 2017.
 
-In Japan, IR is one of computer science fields where researchers have been energetically working from diverse perspectives such as information access, databases, natural language processing, artificial intelligence, human computer interaction, digital libraries, knowledge management, and so on.
+In Japan, many researchers have been actively working on IR and tackle various kinds of tasks such as information access, databases, natural language processing, artificial intelligence, human computer interaction, digital libraries, knowledge management, and so on. While user's information search behavior is one of classical IR research topics based on a "human-centric" point of view, it is getting more and more important for IR researchers to promote research topics in terms of fairness and explainability in search results as AI technology has been rapidly developing.  
 
-Tokyo ACM SIGIR Chapter distributes SIGIR updates to IR researchers in Japan working on various IR research topics. In addition, our chapter aims at encouraging interactions between domestic and international IR research communities by holding some events related to SIGIR sponsored conferences. We hope that these activities make the presence of Japan in the international IR research community much better.
+Tokyo ACM SIGIR Chapter aims at achieving the following goals: 
+- Providing SIGIR updates with IR researchers in Japan working on various IR research topics with diverse background, 
+- Holding some events closely related to international conferences organized or co-organized by SIGIR to encourage interactions between domestic and international IR research communities. 
+
+So far, we have held some events such as IR reading where we introduce state-of-the-arts published in major IR international conferences, a mentoring workshop to promote paper submission to competitive international conferences. Actually, some works submitted to the mentoring workshop have been accepted at competitive international conferences. Our activities are in the 3rd term now and we try to keep improving the presence of Japan in the international IR research community.
 
 Last but not least, we are recruiting members who agree with our aim and support our activities. We would appreciate it very much if you would join our chapter.
 
 Thank you very much for your support for Tokyo ACM SIGIR Chapter!
 
-January, 2018
+April, 2022
 
 Tokyo ACM SIGIR Chapter
 
-Hideo Joho (Chair, University of Tsukuba)<br>
-Kazunari Sugiyama (Kyoto University, Vice-Chair)<br>
-Masaharu Yoshioka (Hokkaido University, Treasurer)
+Kazunari Sugiyama (Chair, Kyoto University)<br>
+Emi Ishita (Vice-Chair, Kyushu University)<br>
+Makoto P. Kato (Treasurer, University of Tsukuba) 
 
-*ACM: Association for Computing Machinery<br>
-*SIGIR: Special Interest Group in Information Retrieval
+<sup>*</sup>ACM: Association for Computing Machinery<br>
+<sup>**</sup>SIGIR: Special Interest Group in Information Retrieval
