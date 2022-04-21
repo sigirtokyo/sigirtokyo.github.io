@@ -20,7 +20,9 @@ ACM SIGIR東京支部は、我々の趣旨に賛同し活動を支援してい�
 
 ACM SIGIR東京支部
 
-杉山一成（委員長・京都大学）・石田栄美（副委員長・九州大学）・加藤誠（会計・筑波大学）
+杉山一成（委員長・京都大学）<br>
+石田栄美（副委員長・九州大学）<br>
+加藤誠（会計・筑波大学）
 
 <sup>*</sup>ACM: Association for Computing Machinery<br>
 <sup>**</sup>SIGIR: Special Interest Group in Information Retrieval
