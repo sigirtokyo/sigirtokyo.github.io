@@ -97,7 +97,7 @@ IR Reading Slack参加リンク
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;（&nbsp;）</td></tr>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td></td></tr>
 <tr><td>13:05 - 13:20</td><td>Personalized Transfer of User Preferences for Cross-domain Recommendation (WSDM 2022)</td><td>新田洸平（筑波大学加藤研）</td></tr>
 <tr><td>13:20 - 13:35</td><td>Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance (CIKM 2021)<br>
 Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval (WSDM 2022)</td><td>中野優（筑波大学加藤研）</td></tr>
@@ -149,7 +149,7 @@ Towards Unbiased and Robust Causal Ranking for Recommender Systems (WSDM 2022)</
 <tr><td>16:20 - 16:25</td><td>A Multi-task Learning Framework for Product Ranking with BERT (WWW 2022)</td><td>花谷 翔（兵庫県立大学大島研）</td></tr>
 <tr><td>16:25 - 16:30</td><td>Featured Snippets and their Influence on Users’ Credibility Judgements (CHIIR 2022)</td><td>大島 裕明（兵庫県立大学大島研）</td></tr>
 <tr><td>16:30 - 16:35</td><td>The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior (CHIIR 2022)</td><td>張 雯佳（兵庫県立大学大島研）</td></tr>
-<tr><td>16:35 - 16:40</td><td>クロージング</td><td>&nbsp;（&nbsp;）</td></tr>
+<tr><td>16:35 - 16:40</td><td>クロージング</td><td></td></tr>
  </tbody>
 </table>
 
