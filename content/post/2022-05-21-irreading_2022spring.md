@@ -13,8 +13,7 @@ tags: ["news", "イベント"]
 
 ## 日時
 - 2022年5月21日（土）
-  <!-- - 13:00 - 16:55 [プログラム](#program) -->
-  - 午後 (予定)
+  - 13:00 - 16:40 [プログラム](#program)
   - 参加者数により，開始時刻，終了時刻など変更する予定があります．
 
 ## 会場
@@ -92,7 +91,67 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
-TBD
+ ### セッション1 13:00 - 14:05
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;（&nbsp;）</td></tr>
+<tr><td>13:05 - 13:20</td><td>Personalized Transfer of User Preferences for Cross-domain Recommendation (WSDM 2022)</td><td>新田洸平（筑波大学加藤研）</td></tr>
+<tr><td>13:20 - 13:35</td><td>Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance (CIKM 2021)<br>
+Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval (WSDM 2022)</td><td>中野優（筑波大学加藤研）</td></tr>
+<tr><td>13:35 - 13:45</td><td>未定</td><td>薄羽 皐太（筑波大学加藤研）</td></tr>
+<tr><td>13:45 - 13:55</td><td>Does Search Engine Optimization come along with high-quality content?: A comparison between optimized and non-optimized health-related web pages (CHIIR 2022)</td><td>柳田雄輝（筑波大学加藤研）</td></tr>
+<tr><td>13:55 - 14:05</td><td>未定</td><td>加藤 誠（筑波大学）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 14:05 - 14:20
+&nbsp;
+
+ ### セッション2 14:20 - 15:20
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;（&nbsp;）</td></tr>
+<tr><td>14:20 - 14:30</td><td>The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets? (WSDM 2022)</td><td>佃 洸摂（産業技術総合研究所）</td></tr>
+<tr><td>14:30 - 14:45</td><td>Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model (WSDM2022)<br>
+ </td><td>清原明加（東京工業大学中田研）</td></tr>
+<tr><td>14:45 - 14:50</td><td>Match Your Words! A Study of LexicalMatching in Neural Information Retrieval(ECIR2022)</td><td>飯田　大貴（東京工業大学岡崎研）</td></tr>
+<tr><td>14:50 - 15:00</td><td>Offline Retrieval Evaluation Without Evaluation Metrics (SIGIR 2022), Ranking Interruptus: When Truncated Rankings Are Better and How to Measure That (SIGIR 2022), A Flexible Framework for Offline Effectiveness Metrics (SIGIR 2022) のうち読んでみて面白いと思ったもの1 or 2件</td><td>酒井哲也（早稲田大学）</td></tr>
+<tr><td>15:00 - 15:10</td><td>"Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning" (WWW2022)</td><td>杉山一成（京都大学）</td></tr>
+<tr><td>15:10 - 15:20</td><td>Using Web Data to Reveal 22-Year History of Sneaker Designs (WWW 2022)</td><td>栗本真太郎（LINE株式会社）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 15:20 - 15:35
+&nbsp;
+
+ ### セッション3 15:35 - 16:40
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;（&nbsp;）</td></tr>
+<tr><td>15:35 - 15:45</td><td>1. Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking (WSDM2022)<br>
+2. Query Interpretations from Entity-Linked Segmentations (WDSM2022)</td><td>欅惇志（一橋大学）</td></tr>
+<tr><td>15:45 - 16:00</td><td>CausCF: Causal Collaborative Filtering for Recommendation Effect Estimation (CIKM 2021)<br>
+Towards Unbiased and Robust Causal Ranking for Recommender Systems (WSDM 2022)</td><td>佐藤政寛（富士フイルム株式会社）</td></tr>
+<tr><td>16:00 - 16:10</td><td>Searching the Literature: An Analysis of an Exploratory Search Task (CHIIR2022)</td><td>小竹神（工学院大学北山研）</td></tr>
+<tr><td>16:10 - 16:15</td><td>FairGAN: GANs-based Fairness-aware Learning for Recommendations with Implicit Feedback (WWW 2022)</td><td>三林 亮太（兵庫県立大学大島研）</td></tr>
+<tr><td>16:15 - 16:20</td><td>Attention-Based Vandalism Detection in OpenStreetMap (WWW 2022)</td><td>谷口 明徳（兵庫県立大学大島研）</td></tr>
+<tr><td>16:20 - 16:25</td><td>A Multi-task Learning Framework for Product Ranking with BERT (WWW 2022)</td><td>花谷 翔（兵庫県立大学大島研）</td></tr>
+<tr><td>16:25 - 16:30</td><td>Featured Snippets and their Influence on Users’ Credibility Judgements (CHIIR 2022)</td><td>大島 裕明（兵庫県立大学大島研）</td></tr>
+<tr><td>16:30 - 16:35</td><td>The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior (CHIIR 2022)</td><td>張 雯佳（兵庫県立大学大島研）</td></tr>
+<tr><td>16:35 - 16:40</td><td>クロージング</td><td>&nbsp;（&nbsp;）</td></tr>
+ </tbody>
+</table>
 
 ## FAQ
 
