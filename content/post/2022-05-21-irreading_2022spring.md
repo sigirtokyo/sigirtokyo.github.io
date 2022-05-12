@@ -13,7 +13,7 @@ tags: ["news", "イベント"]
 
 ## 日時
 - 2022年5月21日（土）
-  - 13:00 - 16:40 [プログラム](#program)
+  - 13:00 - 16:45 [プログラム](#program)
   - 参加者数により，開始時刻，終了時刻など変更する予定があります．
 
 ## 会場
@@ -148,9 +148,10 @@ Towards Unbiased and Robust Causal Ranking for Recommender Systems (WSDM 2022)</
 <tr><td>16:10 - 16:15</td><td>A Multi-task Learning Framework for Product Ranking with BERT (WWW 2022)</td><td>花谷 翔（兵庫県立大学大島研）</td></tr>
 <tr><td>16:15 - 16:20</td><td>Featured Snippets and their Influence on Users’ Credibility Judgements (CHIIR 2022)</td><td>大島 裕明（兵庫県立大学大島研）</td></tr>
 <tr><td>16:20 - 16:25</td><td>The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior (CHIIR 2022)</td><td>張 雯佳（兵庫県立大学大島研）</td></tr>
-<tr><td>16:25 - 16:35</td><td>1. Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking (WSDM2022)<br>
+<tr><td>16:25 - 16:30</td><td>Learning Multiple Intent Representations for Search Queries (CIKM 2021)</td><td>宮下天祥（青山学院大学）</td></tr>
+<tr><td>16:30 - 16:40</td><td>1. Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking (WSDM2022)<br>
 2. Query Interpretations from Entity-Linked Segmentations (WDSM2022)</td><td>欅惇志（一橋大学）</td></tr>
-<tr><td>16:35 - 16:40</td><td>クロージング</td><td></td></tr>
+<tr><td>16:40 - 16:45</td><td>クロージング</td><td></td></tr>
  </tbody>
 </table>
 
