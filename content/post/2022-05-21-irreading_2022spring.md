@@ -108,7 +108,8 @@ Learning Discrete Representations via Constrained Clustering for Effective and E
 </table>
 
 &nbsp;
- ### 休憩 14:05 - 14:20
+ ### 告知 14:05 - 14:15
+ ### 休憩 14:15 - 14:25
 &nbsp;
 
  ### セッション2 14:20 - 15:20
@@ -117,18 +118,18 @@ Learning Discrete Representations via Constrained Clustering for Effective and E
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>14:20 - 14:30</td><td>The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets? (WSDM 2022)</td><td>佃 洸摂（産業技術総合研究所）</td></tr>
-<tr><td>14:30 - 14:45</td><td>Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model (WSDM2022)<br>
+<tr><td>14:25 - 14:35</td><td>The Datasets Dilemma: How Much Do We Really Know About Recommendation Datasets? (WSDM 2022)</td><td>佃 洸摂（産業技術総合研究所）</td></tr>
+<tr><td>14:35 - 14:50</td><td>Doubly Robust Off-Policy Evaluation for Ranking Policies under the Cascade Behavior Model (WSDM2022)<br>
  </td><td>清原明加（東京工業大学中田研）</td></tr>
-<tr><td>14:45 - 14:50</td><td>Match Your Words! A Study of LexicalMatching in Neural Information Retrieval(ECIR2022)</td><td>飯田　大貴（東京工業大学岡崎研）</td></tr>
-<tr><td>14:50 - 15:00</td><td>Offline Retrieval Evaluation Without Evaluation Metrics (SIGIR 2022), Ranking Interruptus: When Truncated Rankings Are Better and How to Measure That (SIGIR 2022), A Flexible Framework for Offline Effectiveness Metrics (SIGIR 2022) のうち読んでみて面白いと思ったもの1 or 2件</td><td>酒井哲也（早稲田大学）</td></tr>
-<tr><td>15:00 - 15:10</td><td>"Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning" (WWW2022)</td><td>杉山一成（京都大学）</td></tr>
-<tr><td>15:10 - 15:20</td><td>Using Web Data to Reveal 22-Year History of Sneaker Designs (WWW 2022)</td><td>栗本真太郎（LINE株式会社）</td></tr>
+<tr><td>14:50 - 14:55</td><td>Match Your Words! A Study of LexicalMatching in Neural Information Retrieval(ECIR2022)</td><td>飯田　大貴（東京工業大学岡崎研）</td></tr>
+<tr><td>14:55 - 15:05</td><td>Offline Retrieval Evaluation Without Evaluation Metrics (SIGIR 2022), Ranking Interruptus: When Truncated Rankings Are Better and How to Measure That (SIGIR 2022), A Flexible Framework for Offline Effectiveness Metrics (SIGIR 2022) のうち読んでみて面白いと思ったもの1 or 2件</td><td>酒井哲也（早稲田大学）</td></tr>
+<tr><td>15:05 - 15:15</td><td>"Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning" (WWW2022)</td><td>杉山一成（京都大学）</td></tr>
+<tr><td>15:15 - 15:25</td><td>Using Web Data to Reveal 22-Year History of Sneaker Designs (WWW 2022)</td><td>栗本真太郎（LINE株式会社）</td></tr>
  </tbody>
 </table>
 
 &nbsp;
- ### 休憩 15:20 - 15:35
+ ### 休憩 15:25 - 15:35
 &nbsp;
 
  ### セッション3 15:35 - 16:40
