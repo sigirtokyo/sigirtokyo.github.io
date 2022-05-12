@@ -109,6 +109,7 @@ Learning Discrete Representations via Constrained Clustering for Effective and E
 
 &nbsp;
  ### 告知 14:05 - 14:15
+ ※ 告知される方は最長2分程度を目処に準備をお願いします
  ### 休憩 14:15 - 14:25
 &nbsp;
 
