@@ -101,9 +101,9 @@ IR Reading Slack参加リンク
 <tr><td>13:05 - 13:20</td><td>Personalized Transfer of User Preferences for Cross-domain Recommendation (WSDM 2022)</td><td>新田洸平（筑波大学加藤研）</td></tr>
 <tr><td>13:20 - 13:35</td><td>Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance (CIKM 2021)<br>
 Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval (WSDM 2022)</td><td>中野優（筑波大学加藤研）</td></tr>
-<tr><td>13:35 - 13:45</td><td>未定</td><td>薄羽 皐太（筑波大学加藤研）</td></tr>
+<tr><td>13:35 - 13:45</td><td>Lightweight Composite Re-Ranking for Efficient Keyword Search with BERT（WSDM 2022）</td><td>薄羽 皐太（筑波大学加藤研）</td></tr>
 <tr><td>13:45 - 13:55</td><td>Does Search Engine Optimization come along with high-quality content?: A comparison between optimized and non-optimized health-related web pages (CHIIR 2022)</td><td>柳田雄輝（筑波大学加藤研）</td></tr>
-<tr><td>13:55 - 14:05</td><td>未定</td><td>加藤 誠（筑波大学）</td></tr>
+<tr><td>13:55 - 14:05</td><td>Global or Local: Constructing Personalized Click Models for Web Search (TheWebConf 2022)</td><td>加藤 誠（筑波大学）</td></tr>
  </tbody>
 </table>
 
