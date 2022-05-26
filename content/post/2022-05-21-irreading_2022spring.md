@@ -149,8 +149,7 @@ Towards Unbiased and Robust Causal Ranking for Recommender Systems (WSDM 2022)</
 <tr><td>16:15 - 16:20</td><td>Featured Snippets and their Influence on Users’ Credibility Judgements (CHIIR 2022)</td><td>大島 裕明（兵庫県立大学大島研）</td></tr>
 <tr><td>16:20 - 16:25</td><td>The Dark Side of Relevance: The Effect of Non-Relevant Results on Search Behavior (CHIIR 2022)</td><td>張 雯佳（兵庫県立大学大島研）</td></tr>
 <tr><td>16:25 - 16:30</td><td>Learning Multiple Intent Representations for Search Queries (CIKM 2021)</td><td>宮下天祥（青山学院大学）</td></tr>
-<tr><td>16:30 - 16:40</td><td>1. Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking (WSDM2022)<br>
-2. Query Interpretations from Entity-Linked Segmentations (WDSM2022)</td><td>欅惇志（一橋大学）</td></tr>
+<tr><td>16:30 - 16:40</td><td>Leveraging Multi-view Inter-passage Interactions for Neural Document Ranking (WSDM2022)</td><td>欅惇志（一橋大学）</td></tr>
 <tr><td>16:40 - 16:45</td><td>クロージング</td><td></td></tr>
  </tbody>
 </table>
@@ -168,4 +167,4 @@ Towards Unbiased and Robust Causal Ranking for Recommender Systems (WSDM 2022)</
 
 ## 連絡先 - ACM SIGIR 東京支部
    - sigir-tokyo at googlegroups.com
-   - 担当: 欅 惇志（株式会社デンソーアイティーラボラトリ） 佃 洸摂（産業技術総合研究所）
+   - 担当: 欅 惇志（一橋大学） 佃 洸摂（産業技術総合研究所）
