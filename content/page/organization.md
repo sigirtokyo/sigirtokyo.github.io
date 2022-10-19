@@ -34,12 +34,13 @@ comments: false
 
 ## Advisory Board
 
-- Joemon M. Jose （グラスゴー大学・イギリス）
-- Maarten de Rijke （アムステルダム大学・オランダ）
-- Mark Sanderson（RMIT大学・オーストラリア）
-- 加藤 恒昭（東京大学）
+- Charles L.  A. Clarke（ウォータルー大学・カナダ）
+- Alistair Moffat（メルボルン大学・オーストラリア）
+- Maarten de Rijke（アムステルダム大学・オランダ）
+- Aixin Sun（南洋理工大学、シンガポール）
+- 江口 浩二（広島大学）
 - 神門 典子（国立情報学研究所）
-- 岸田 和明（慶應義塾大学）
+- 関 和広（甲南大学）
 - 難波 英嗣（中央大学）
 
 
