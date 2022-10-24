@@ -38,6 +38,21 @@ IR Reading 2022秋 では2022年6月〜2022年10月頃に開催された，ACM S
 - 持ち時間を複数の発表者（たとえば，研究室のメンバ3名）で担当していただいても構いません．
 - 発表者の数や当日の進行によっては持ち時間が短くなる可能性もございますので，ご了承ください．
 
+## 招待セッション
+
+今回は、国内外の大学の博士課程において活躍されている次の4名の方に、難関国際会議でご発表の論文を紹介していただく招待セッション（IR reading の時間帯のうち、最初と最後の時間を予定）を設けました。
+
+- 安永 迪弘さん（アメリカ・Stanford 大学）  
+"LinkBERT: Pretraining Language Models with Document Links" (ACL 2022)
+- 竹下 颯太郎さん（ドイツ・Univrsity of Mannheim）  
+"X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents"
+(JCDL 2022)
+- 佐藤 竜馬さん（京都大学）  
+"Enumerating Fair Packages for Group Recommendations" (WSDM 2022)
+- Peng Shaowengさん（京都大学）  
+"Less is More: Reweighting Important Spectral Graph Features for
+Recommendation" (SIGIR 2022)
+
 ## IR Reading 参加の流れ
 
 ### 1. IR Reading用Slackへの参加
