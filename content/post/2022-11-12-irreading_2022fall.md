@@ -13,10 +13,9 @@ tags: ["news", "イベント"]
 
 ## 日時
 - 2022年11月12日（土）
-  - TBD
-<!--  - 13:00 - 16:55 [プログラム](#program)
-  - 参加者数により，開始時刻，終了時刻など変更する予定があります．
--->
+- 13:00 - 17:05 [プログラム](#program)
+ - 参加者数により，開始時刻，終了時刻など変更する予定があります．
+
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2022fall にて連絡いたします．
 
@@ -107,7 +106,71 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
-TBD
+ ### 招待セッション1 13:00 - 13:55
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+<tr><td>13:05 - 13:30</td><td>LinkBERT: Pretraining Language Models with Document Links (ACL 2022)</td><td>安永迪弘（アメリカ・Stanford 大学）</td></tr>
+<tr><td>13:30 - 13:55</td><td>Less is More: Reweighting Important Spectral Graph Features for Recommendation (SIGIR 2022)</td><td>Peng Shaoweng（京大）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 13:55 - 14:10
+&nbsp;
+
+ ### 一般セッション1 14:10 - 15:00
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+<tr><td>14:10 - 14:20</td><td>未定</td><td>新田 洸平（筑波大学加藤研）</td></tr>
+<tr><td>14:20 - 14:30</td><td>Transformer Memory as a Differentiable Search Index (NeurIPS 2022)</td><td>中野 優（筑波大学）</td></tr>
+<tr><td>14:30 - 14:45</td><td>Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective (ICTIR 2022)<br>
+It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences Are Dynamic (WSDM 2022)<br>
+Exploring Data Splitting Strategies for the Evaluation of Recommendation Models (RecSys 2020)</td><td>栗本 真太郎（LINE株式会社）</td></tr>
+<tr><td>14:45 - 15:00</td><td>Expressions Causing Differences in Emotion Recognitionin Social Networking Service Documents (CIKM2022)</td><td>北田 俊輔（法政大学 彌冨研）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 告知 15:00 - 15:10
+ ※ 告知される方は最長2分程度を目処に準備をお願いします
+ ### 休憩 15:10 - 15:15
+&nbsp;
+
+ ### 一般セッション2 15:15 - 16:05
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+<tr><td>15:15 - 15:20</td><td>CPFair: Personalized Consumer and Producer FairnessRe-ranking for Recommender Systems (SIGIR2022)</td><td>原 弥麻人（筑波大学）</td></tr>
+<tr><td>15:20 - 15:25</td><td>Visual Descriptor Extraction from Patent Figure Captions: A Case Study of Data Efficiency Between BiLSTM and Transformer(JCDL2022)</td><td>菅原 春香（IPTech弁理士法人）</td></tr>
+<tr><td>15:25 - 15:35</td><td>Optimizing generalized Gini indices for fairness in rankings (SIGIR 2022)</td><td>中江 俊博（株式会社ビズリーチ）</td></tr>
+<tr><td>15:35 - 15:50</td><td>Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps（AACL-IJCNLP2022)</td><td>飯田　大貴（東工大岡崎研/レトリバ）</td></tr>
+<tr><td>15:50 - 16:00</td><td>Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings (SIGIR2022)</td><td>浅野 卓也（株式会社メルカリ）</td></tr>
+<tr><td>16:00 - 16:05</td><td>Webformer: Pre-training with Web Pages for Information<br>
+Retrieval (SIGIR2022)</td><td>欅 惇志（一橋大学）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 16:05 - 16:10
+&nbsp;
+
+ ### 招待セッション2 16:10 - 17:05
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+<tr><td>16:10 - 16:35</td><td>Enumerating Fair Packages for Group Recommendations (WSDM 2022)</td><td>佐藤竜馬（京大）</td></tr>
+<tr><td>16:35 - 17:00</td><td>X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents (JCDL 2022)</td><td>竹下 颯太郎（ドイツ・Univrsity of Mannheim）</td></tr>
+<tr><td>17:00 - 17:05</td><td>クロージング</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
 
 ## FAQ
 
