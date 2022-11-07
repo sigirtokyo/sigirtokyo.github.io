@@ -67,13 +67,17 @@ IR Reading Slack参加リンク
 
 ### 2. セッションor論文情報の登録 （10月29日（土） 締切）
 
-Slackに参加後，本勉強会用チャンネル（#2021fall）に情報を登録するためのGoogle SpreadsheetのURLがSlackに記載されていますので，そちらのURLから氏名，所属，担当したいセッション（または論文）をご登録ください．発表したい論文が被った場合は，該当者と相談して調整ください．基本は早い者勝ちです．また，聴講希望の方もこちらに記入ください．
+Slackに参加後，本勉強会用チャンネル（#2022fall）に情報を登録するためのGoogle SpreadsheetのURLがSlackに記載されていますので，そちらのURLから氏名，所属，担当したいセッション（または論文）をご登録ください．発表したい論文が被った場合は，該当者と相談して調整ください．基本は早い者勝ちです．
 
-### 3. 発表資料の登録（11月11日（金） 締切）
+### 3. 聴講での参加登録（11月11日（金）正午 締切）
 
-勉強会前日までに発表資料を作成いただき，Google Spreadsheetに発表資料のURLをご登録ください．資料のアップロードについては，各自のDropbox，研究室サーバ，SlideShareなど皆様の都合に合わせてご準備ください．
+Slackに参加後，本勉強会用チャンネル（#2022fall）に情報を登録するためのGoogle SpreadsheetのURLがSlackに記載されていますので，そちらのURLから氏名と所属を聴講者の欄に記入してください．
 
-### 4. 勉強会当日
+### 4. 発表資料の登録（11月11日（金） 締切）
+
+発表される方は，勉強会前日までに発表資料を作成いただき，Google Spreadsheetに発表資料のURLをご登録ください．資料のアップロードについては，各自のDropbox，研究室サーバ，SlideShareなど皆様の都合に合わせてご準備ください．
+
+### 5. 勉強会当日
 
 Zoomの接続情報をSlackの#2022fallチャンネルにて通知いたしますので，そちらから参加ください．
 
@@ -113,7 +117,7 @@ IR Reading Slack参加リンク
  </thead>
  <tbody>
 <tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
-<tr><td>13:05 - 13:30</td><td>LinkBERT: Pretraining Language Models with Document Links (ACL 2022)</td><td>安永迪弘（アメリカ・Stanford 大学）</td></tr>
+<tr><td>13:05 - 13:30</td><td>LinkBERT: Pretraining Language Models with Document Links (ACL 2022)</td><td>安永 迪弘（アメリカ・Stanford 大学）</td></tr>
 <tr><td>13:30 - 13:55</td><td>Less is More: Reweighting Important Spectral Graph Features for Recommendation (SIGIR 2022)</td><td>Peng Shaoweng（京大）</td></tr>
  </tbody>
 </table>
@@ -150,7 +154,7 @@ Exploring Data Splitting Strategies for the Evaluation of Recommendation Models 
 <tr><td>15:15 - 15:20</td><td>CPFair: Personalized Consumer and Producer FairnessRe-ranking for Recommender Systems (SIGIR2022)</td><td>原 弥麻人（筑波大学）</td></tr>
 <tr><td>15:20 - 15:25</td><td>Visual Descriptor Extraction from Patent Figure Captions: A Case Study of Data Efficiency Between BiLSTM and Transformer(JCDL2022)</td><td>菅原 春香（IPTech弁理士法人）</td></tr>
 <tr><td>15:25 - 15:35</td><td>Optimizing generalized Gini indices for fairness in rankings (SIGIR 2022)</td><td>中江 俊博（株式会社ビズリーチ）</td></tr>
-<tr><td>15:35 - 15:50</td><td>Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps（AACL-IJCNLP2022)</td><td>飯田　大貴（東工大岡崎研/レトリバ）</td></tr>
+<tr><td>15:35 - 15:50</td><td>Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps（AACL-IJCNLP2022)</td><td>飯田 大貴（東工大岡崎研/レトリバ）</td></tr>
 <tr><td>15:50 - 16:00</td><td>Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings (SIGIR2022)</td><td>浅野 卓也（株式会社メルカリ）</td></tr>
 <tr><td>16:00 - 16:05</td><td>Webformer: Pre-training with Web Pages for Information<br>
 Retrieval (SIGIR2022)</td><td>欅 惇志（一橋大学）</td></tr>
@@ -166,7 +170,7 @@ Retrieval (SIGIR2022)</td><td>欅 惇志（一橋大学）</td></tr>
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
-<tr><td>16:10 - 16:35</td><td>Enumerating Fair Packages for Group Recommendations (WSDM 2022)</td><td>佐藤竜馬（京大）</td></tr>
+<tr><td>16:10 - 16:35</td><td>Enumerating Fair Packages for Group Recommendations (WSDM 2022)</td><td>佐藤 竜馬（京大）</td></tr>
 <tr><td>16:35 - 17:00</td><td>X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents (JCDL 2022)</td><td>竹下 颯太郎（ドイツ・Univrsity of Mannheim）</td></tr>
 <tr><td>17:00 - 17:05</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
