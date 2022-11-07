@@ -133,7 +133,7 @@ IR Reading Slack参加リンク
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
-<tr><td>14:10 - 14:20</td><td>未定</td><td>新田 洸平（筑波大学加藤研）</td></tr>
+<tr><td>14:10 - 14:20</td><td>Price DOES Matter!: Modeling Price and Interest Preferences in Session-based Recommendation (SIGIR 2022)</td><td>新田 洸平（筑波大学加藤研）</td></tr>
 <tr><td>14:20 - 14:30</td><td>Transformer Memory as a Differentiable Search Index (NeurIPS 2022)</td><td>中野 優（筑波大学）</td></tr>
 <tr><td>14:30 - 14:45</td><td>Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective (ICTIR 2022)<br>
 It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences Are Dynamic (WSDM 2022)<br>
