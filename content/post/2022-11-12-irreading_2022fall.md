@@ -105,9 +105,9 @@ IR Reading Slack参加リンク
  - 勉強会1週間前: 11月5日（土）頃予定
 3. 聴講での参加登録締切（SlackにJoinしGoogle Spreadsheetに情報を記入ください）
  - 勉強会前日: 11月11日（金）正午
-3. 発表資料登録
+4. 発表資料登録
  - 勉強会前日: 11月11日（金）
-4. IR Reading
+5. IR Reading
  - 勉強会当日: 11月12日（土）
 
 <span id="program"></span>
