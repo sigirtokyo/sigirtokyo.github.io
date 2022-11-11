@@ -58,7 +58,11 @@ Recommendation" (SIGIR 2022)
 IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:30px">
-（参加登録の締切を過ぎたため参加用リンクは削除しました。）
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
+<button type="button" class="btn btn-success btn-lg">
+IR Reading Slack参加リンク
+</button>
+</a>
 </div>
 
 ### 2. セッションor論文情報の登録 （10月29日（土） 締切）
@@ -76,6 +80,23 @@ Slackに参加後，本勉強会用チャンネル（#2022fall）に情報を登
 ### 5. 勉強会当日
 
 Zoomの接続情報をSlackの#2022fallチャンネルにて通知いたしますので，そちらから参加ください．
+
+---
+
+
+## IR Reading Slack参加リンク
+
+IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．
+
+<div class="text-center" style="margin-top:20px; margin-bottom:20px">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/enQtMzgzOTEwNTIyNjQwLTQ1MTE4NTM3ZmFlZmM5YWIyYjRhMGRiNTNmZTM2ZjVmODEwY2YwMzExNWVjZTc5MDQ2NDA5MWQwNTMyZjUyMTY" target="_blank">
+<button type="button" class="btn btn-success btn-lg">
+IR Reading Slack参加リンク
+</button>
+</a>
+</div>
+
+---
 
 ## スケジュール
 1. 参加登録締切（SlackにJoinしGoogle Spreadsheetに情報を記入ください）
