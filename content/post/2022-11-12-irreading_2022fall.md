@@ -136,7 +136,7 @@ IR Reading Slack参加リンク
 <tr><td>14:10 - 14:20</td><td>Price DOES Matter!: Modeling Price and Interest Preferences in Session-based Recommendation (SIGIR 2022)</td><td>新田 洸平（筑波大学 加藤研）</td></tr>
 <tr><td>14:20 - 14:30</td><td>Transformer Memory as a Differentiable Search Index (NeurIPS 2022)</td><td>中野 優（筑波大学）</td></tr>
 <tr><td>14:30 - 14:45</td><td>Do Loyal Users Enjoy Better Recommendations?: Understanding Recommender Accuracy from a Time Perspective (ICTIR 2022)<br>
-It Is Different When Items Are Older: Debiasing Recommendations When Selection Bias and User Preferences Are Dynamic (WSDM 2022)<br>
+Quality Metrics in Recommender Systems: Do We Calculate Metrics Consistently? (RecSys 2021)<br>
 Exploring Data Splitting Strategies for the Evaluation of Recommendation Models (RecSys 2020)</td><td>栗本 真太郎（LINE株式会社）</td></tr>
 <tr><td>14:45 - 15:00</td><td>Expressions Causing Differences in Emotion Recognitionin Social Networking Service Documents (CIKM2022)</td><td>北田 俊輔（法政大学 彌冨研）</td></tr>
  </tbody>
@@ -154,7 +154,7 @@ Exploring Data Splitting Strategies for the Evaluation of Recommendation Models 
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
 <tr><td>15:15 - 15:20</td><td>CPFair: Personalized Consumer and Producer FairnessRe-ranking for Recommender Systems (SIGIR2022)</td><td>原 弥麻人（筑波大学）</td></tr>
-<tr><td>15:20 - 15:25</td><td>Visual Descriptor Extraction from Patent Figure Captions: A Case Study of Data Efficiency Between BiLSTM and Transformer(JCDL2022)</td><td>菅原 春香（IPTech弁理士法人）</td></tr>
+<tr><td>15:20 - 15:25</td><td>Visual Descriptor Extraction from Patent Figure Captions: A Case Study of Data Efficiency Between BiLSTM and Transformer (JCDL2022)</td><td>菅原 春香（IPTech弁理士法人）</td></tr>
 <tr><td>15:25 - 15:35</td><td>Optimizing generalized Gini indices for fairness in rankings (SIGIR 2022)</td><td>中江 俊博（株式会社ビズリーチ）</td></tr>
 <tr><td>15:35 - 15:50</td><td>Unsupervised Domain Adaptation for Sparse Retrieval by Filling Vocabulary and Word Frequency Gaps（AACL-IJCNLP2022)</td><td>飯田 大貴（東京工業大学 岡崎研/レトリバ）</td></tr>
 <tr><td>15:50 - 16:00</td><td>Distill-VQ: Learning Retrieval Oriented Vector Quantization By Distilling Knowledge from Dense Embeddings (SIGIR2022)</td><td>浅野 卓也（株式会社メルカリ）</td></tr>
