@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Thu, 06 Oct 2022 17:56:51 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 20:33:55 +0900</lastBuildDate>
     
 	<atom:link href="https://sigir.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2022年度第4回セミナー</title>
+      <link>https://sigir.jp/post/2022-12-13-seminar-4/</link>
+      <pubDate>Mon, 28 Nov 2022 20:33:55 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>https://sigir.jp/post/2022-12-13-seminar-4/</guid>
+      <description>日時(Date) 2022年12月13日 17:00-18:00 場所(Venue) オンライン（Online via Zoom） 申込方法 (Registration) 以下の事前登録フォームから、12月1</description>
+    </item>
     
     <item>
       <title>IR Reading 2022秋（オンライン） 開催案内</title>
