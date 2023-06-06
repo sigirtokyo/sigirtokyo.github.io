@@ -98,7 +98,7 @@ IR Reading Slack参加リンク
  </thead>
  <tbody>
 <tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
-<tr><td>13:05 - 13:35</td><td>Multiview Representation Learning from Crowdsourced Triplet Comparisons (WWW 2023)</td><td>Xiaotian Lu（京都大学）</td></tr>
+<tr><td>13:05 - 13:35</td><td>Multiview Representation Learning from Crowdsourced Triplet Comparisons (TheWebConf 2023)</td><td>Xiaotian Lu（京都大学）</td></tr>
  </tbody>
 </table>
 
