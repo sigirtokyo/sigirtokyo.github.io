@@ -91,7 +91,7 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
- ### セッション1 13:00 - 13:35
+ ### 招待セッション1 13:00 - 13:35
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
@@ -106,7 +106,7 @@ IR Reading Slack参加リンク
  ### 休憩 13:35 - 13:45
 &nbsp;
 
- ### セッション2 13:45 - 14:25
+ ### 一般セッション1 13:45 - 14:25
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
@@ -116,7 +116,7 @@ IR Reading Slack参加リンク
 <tr><td>13:55 - 14:05</td><td>未定</td><td>浅野 卓也（株式会社LegalOn Technologies）</td></tr>
 <tr><td>14:05 - 14:15</td><td>SwitchTube: A Proof-of-Concept System Introducing "Adaptable Commitment Interfaces" as a Tool for Digital Wellbeing (CHI 2023)　か<br>
 Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Systems: The Practitioners’ Perspective (TheWebConf 2023)</td><td>栗本 真太郎（LINE株式会社）</td></tr>
-<tr><td>14:15 - 14:25</td><td>Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning (WSDM)</td><td>欅 惇志（一橋大学）</td></tr>
+<tr><td>14:15 - 14:25</td><td>Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning (WSDM 2023)</td><td>欅 惇志（一橋大学）</td></tr>
  </tbody>
 </table>
 
@@ -124,13 +124,13 @@ Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Sys
  ### 休憩 14:25 - 14:35
 &nbsp;
 
- ### セッション3 14:35 - 15:30
+ ### 一般セッション2 14:35 - 15:30
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>14:35 - 14:45</td><td>Online Advertising in Ukraine and Russia During the 2022 Russian Invasion</td><td>鈴木香帆（筑波大学上保研究室）</td></tr>
+<tr><td>14:35 - 14:45</td><td>Online Advertising in Ukraine and Russia During the 2022 Russian Invasion (TheWebConf 2023)</td><td>鈴木 香帆（筑波大学上保研究室）</td></tr>
 <tr><td>14:45 - 14:55</td><td>Improving Cross-lingual Information Retrieval on Low-Resource Languages via Optimal Transport Distillation (WSDM 2023)</td><td>加藤 誠（筑波大学）</td></tr>
 <tr><td>14:55 - 15:05</td><td>未定</td><td>新田 洸平（筑波大学加藤研）</td></tr>
 <tr><td>15:05 - 15:15</td><td>未定</td><td>丸田 敦貴（筑波大学加藤研）</td></tr>
