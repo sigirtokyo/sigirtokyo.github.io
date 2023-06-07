@@ -91,7 +91,7 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
- ### 招待セッション1 13:00 - 13:35
+ ### 招待セッション 13:00 - 13:35
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
