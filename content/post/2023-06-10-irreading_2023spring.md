@@ -114,8 +114,7 @@ IR Reading Slack参加リンク
  <tbody>
 <tr><td>13:45 - 13:55</td><td>Accelerating Learned Sparse Indexes Via Term Impact Decomposition (EMNLP 2022)</td><td>中野 優（株式会社リクルート）</td></tr>
 <tr><td>13:55 - 14:05</td><td>未定</td><td>浅野 卓也（株式会社LegalOn Technologies）</td></tr>
-<tr><td>14:05 - 14:15</td><td>SwitchTube: A Proof-of-Concept System Introducing "Adaptable Commitment Interfaces" as a Tool for Digital Wellbeing (CHI 2023)　か<br>
-Scoping Fairness Objectives and Identifying Fairness Metrics for Recommender Systems: The Practitioners’ Perspective (TheWebConf 2023)</td><td>栗本 真太郎（LINE株式会社）</td></tr>
+<tr><td>14:05 - 14:15</td><td>Measuring the Impact of Explanation Bias: A Study of Natural Language Justifications for Recommender Systems (CHI EA 2023)</td><td>栗本 真太郎（LINE株式会社）</td></tr>
 <tr><td>14:15 - 14:25</td><td>Making Pre-trained Language Models End-to-end Few-shot Learners with Contrastive Prompt Tuning (WSDM 2023)</td><td>欅 惇志（一橋大学）</td></tr>
  </tbody>
 </table>
