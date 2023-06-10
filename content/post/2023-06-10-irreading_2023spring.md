@@ -131,7 +131,7 @@ IR Reading Slack参加リンク
  <tbody>
 <tr><td>14:35 - 14:45</td><td>Online Advertising in Ukraine and Russia During the 2022 Russian Invasion (TheWebConf 2023)</td><td>鈴木 香帆（筑波大学上保研究室）</td></tr>
 <tr><td>14:45 - 14:55</td><td>Improving Cross-lingual Information Retrieval on Low-Resource Languages via Optimal Transport Distillation (WSDM 2023)</td><td>加藤 誠（筑波大学）</td></tr>
-<tr><td>14:55 - 15:05</td><td>未定</td><td>新田 洸平（筑波大学加藤研）</td></tr>
+<tr><td>14:55 - 15:05</td><td>A Unified Framework for Learned Sparse Retrieval (ECIR 2023)</td><td>新田 洸平（筑波大学加藤研）</td></tr>
 <tr><td>15:05 - 15:15</td><td>Driven to Distraction: Examining the Influence of Distractors on Search Behaviours, Performance and Experience (CHIIR 2023)</td><td>丸田 敦貴（筑波大学加藤研）</td></tr>
 <tr><td>15:15 - 15:25</td><td>The Evolution of Web Search User Interfaces - An Archaeological Analysis of Google Search Engine Result Pages (CHIIR 2023)</td><td>佃 洸摂（産業技術総合研究所）</td></tr>
 <tr><td>15:25 - 15:30</td><td>クロージング</td><td>&nbsp;</td></tr>
