@@ -22,7 +22,7 @@ April, 2022
 
 Tokyo ACM SIGIR Chapter
 
-Kazunari Sugiyama (Chair, Kyoto University)<br>
+Kazunari Sugiyama (Chair, Osaka Seikei University)<br>
 Emi Ishita (Vice-Chair, Kyushu University)<br>
 Makoto P. Kato (Treasurer, University of Tsukuba) 
 
