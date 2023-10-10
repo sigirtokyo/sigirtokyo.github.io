@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Tue, 11 Apr 2023 09:50:01 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 10:24:32 +0900</lastBuildDate>
     
 	<atom:link href="https://sigir.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IR Reading 2023秋（オンライン） 開催案内</title>
+      <link>https://sigir.jp/post/2023-11-18-irreading_2023fall/</link>
+      <pubDate>Tue, 10 Oct 2023 10:24:32 +0900</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>https://sigir.jp/post/2023-11-18-irreading_2023fall/</guid>
+      <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
+    </item>
     
     <item>
       <title>IR Reading 2023春（オンライン） 開催案内</title>
