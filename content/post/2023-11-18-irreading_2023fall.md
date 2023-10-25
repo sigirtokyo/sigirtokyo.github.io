@@ -39,22 +39,11 @@ IR Reading 2023秋 では2023年6月〜2023年10月頃に開催された，ACM S
 - 持ち時間を複数の発表者（たとえば，研究室のメンバ3名）で担当していただいても構いません．
 - 発表者の数や当日の進行によっては持ち時間が短くなる可能性もございますので，ご了承ください．
 
-<!--
 ## 招待セッション
-- TBA
-今回は、国内外の大学の博士課程において活躍されている次の4名の方に、難関国際会議でご発表の論文を紹介していただく招待セッション（IR reading の時間帯のうち、最初と最後の時間を予定）を設けました。
+難関国際会議で発表された論文を紹介していただく招待セッションを設けました．今回は，山梨大学のXinfeng Wangさんに以下の論文を紹介していただきます．発表時間は11月18日の13時開始の予定ですので，ぜひご参加ください．なお，今回の招待講演では発表と質疑は英語で行います．
 
-- 安永 迪弘さん（アメリカ・Stanford 大学）  
-"LinkBERT: Pretraining Language Models with Document Links" (ACL 2022)
-- 竹下 颯太郎さん（ドイツ・Univrsity of Mannheim）  
-"X-SCITLDR: Cross-Lingual Extreme Summarization of Scholarly Documents"
-(JCDL 2022)
-- 佐藤 竜馬さん（京都大学）  
-"Enumerating Fair Packages for Group Recommendations" (WSDM 2022)
-- Peng Shaowengさん（京都大学）  
-"Less is More: Reweighting Important Spectral Graph Features for
-Recommendation" (SIGIR 2022)
--->
+- Xinfeng Wangさん（山梨大学）  
+"EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation" (SIGIR 2023)
 
 ## IR Reading 参加の流れ
 
