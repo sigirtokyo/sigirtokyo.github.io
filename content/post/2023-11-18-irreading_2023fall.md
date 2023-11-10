@@ -13,10 +13,8 @@ tags: ["news", "イベント"]
 
 ## 日時
 - 2023年11月18日（土）
-  <!--- 13:00 - 17:05 [プログラム](#program)
+  - 13:00 - 16:10 [プログラム](#program)
   - 参加者数により，開始時刻，終了時刻など変更する予定があります．
-  -->
-  - TBA（午後予定）
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2023fall にて連絡いたします．
@@ -105,7 +103,58 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
-- TBA
+ ### 招待セッション 13:00 - 13:35
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+<tr><td>13:05 - 13:35</td><td>EEDN: Enhanced Encoder-Decoder Network with Local and Global Context Learning for POI Recommendation (SIGIR 2023)</td><td>Xinfeng Wang（山梨大学）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 13:35 - 13:45
+&nbsp;
+
+ ### 一般セッション1 13:45 - 14:50
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:45 - 14:00</td><td>When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? (SIGIR 2023)<br>
+or<br>
+User Needs for Explanations of Recommendations: In-depth Analyses of the Role of Item Domain and Personal Characteristics (UMAP 2023)<br>
+or<br>
+Learning to Suggest Breaks: Sustainable Optimization of Long-Term User Engagement (ICML 2023)</td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
+<tr><td>14:00 - 14:15</td><td>Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem (CIKM2023)</td><td>石原祥太郎（株式会社日本経済新聞社）</td></tr>
+<tr><td>14:15 - 14:25</td><td>Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning (SIGIR 2023)</td><td>丸田敦貴（筑波大学加藤研）</td></tr>
+<tr><td>14:25 - 14:35</td><td>未定</td><td>新田洸平（筑波大学加藤研）</td></tr>
+<tr><td>14:35 - 14:50</td><td>Everyone’s a Winner! On Hyperparameter Tuning of Recommendation Models (RecSys 2023)</td><td>佃 洸摂（産業技術総合研究所）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 14:50 - 15:00
+&nbsp;
+
+ ### 一般セッション2 15:00 - 16:10
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>15:00 - 15:15</td><td>Multivariate Representation Learning for Information Retrieval (SIGIR 2023)</td><td>中野優（&nbsp;）</td></tr>
+<tr><td>15:15 - 15:30</td><td>Personalized Dynamic Recommender System for Investors (SIGIR 2023) <br>
+Personalized Stock Recommendation with Investors' Attention and Contextual Information (SIGIR 2023)</td><td>高柳剛弘（東京大学）</td></tr>
+<tr><td>15:30 - 15:45</td><td>SparseEmbed: Learning sparse lexical representations with contextual embeddings for retrieval (SIGIR 2023)</td><td>加藤誠（筑波大学）</td></tr>
+<tr><td>15:45 - 15:55</td><td>I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval (CIKM 2023)</td><td>薄羽皐太（筑波大学加藤研）</td></tr>
+<tr><td>15:55 - 16:05</td><td>未定</td><td>欅惇志（一橋大学）</td></tr>
+<tr><td>16:05 - 16:10</td><td>クロージング</td><td>&nbsp;（&nbsp;）</td></tr>
+ </tbody>
+</table>
 
 ## FAQ
 
