@@ -151,8 +151,7 @@ Learning to Suggest Breaks: Sustainable Optimization of Long-Term User Engagemen
 Personalized Stock Recommendation with Investors' Attention and Contextual Information (SIGIR 2023)</td><td>高柳剛弘（東京大学）</td></tr>
 <tr><td>15:30 - 15:45</td><td>SparseEmbed: Learning sparse lexical representations with contextual embeddings for retrieval (SIGIR 2023)</td><td>加藤誠（筑波大学）</td></tr>
 <tr><td>15:45 - 15:55</td><td>I3 Retriever: Incorporating Implicit Interaction in Pre-trained Language Models for Passage Retrieval (CIKM 2023)</td><td>薄羽皐太（筑波大学加藤研）</td></tr>
-<tr><td>15:55 - 16:05</td><td>未定</td><td>欅惇志（一橋大学）</td></tr>
-<tr><td>16:05 - 16:10</td><td>クロージング</td><td>&nbsp;</td></tr>
+<tr><td>15:55 - 16:00</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
