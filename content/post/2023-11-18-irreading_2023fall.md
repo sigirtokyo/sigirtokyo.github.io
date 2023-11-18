@@ -124,14 +124,10 @@ IR Reading Slack参加リンク
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>13:45 - 14:00</td><td>When Newer is Not Better: Does Deep Learning Really Benefit Recommendation From Implicit Feedback? (SIGIR 2023)<br>
-or<br>
-User Needs for Explanations of Recommendations: In-depth Analyses of the Role of Item Domain and Personal Characteristics (UMAP 2023)<br>
-or<br>
-Learning to Suggest Breaks: Sustainable Optimization of Long-Term User Engagement (ICML 2023)</td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
+<tr><td>13:45 - 14:00</td><td>User Needs for Explanations of Recommendations: In-depth Analyses of the Role of Item Domain and Personal Characteristics (UMAP 2023)</td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
 <tr><td>14:00 - 14:15</td><td>Generating News-Centric Crossword Puzzles As A Constraint Satisfaction and Optimization Problem (CIKM 2023)</td><td>石原祥太郎（株式会社日本経済新聞社）</td></tr>
 <tr><td>14:15 - 14:25</td><td>Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning (SIGIR 2023)</td><td>丸田敦貴（筑波大学加藤研）</td></tr>
-<tr><td>14:25 - 14:35</td><td>未定</td><td>新田洸平（筑波大学加藤研）</td></tr>
+<tr><td>14:25 - 14:35</td><td>On the Impact of Outlier Bias on User Clicks (SIGIR 2023)</td><td>新田洸平（筑波大学加藤研）</td></tr>
 <tr><td>14:35 - 14:50</td><td>Everyone’s a Winner! On Hyperparameter Tuning of Recommendation Models (RecSys 2023)</td><td>佃洸摂（産業技術総合研究所）</td></tr>
  </tbody>
 </table>
