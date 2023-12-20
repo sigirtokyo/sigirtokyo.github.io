@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Tue, 10 Oct 2023 10:24:32 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 04:23:34 +0000</lastBuildDate>
     
 	<atom:link href="https://sigir.jp/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2024 Winter</title>
+      <link>https://sigir.jp/post/2024-01-19-powir2024winter/</link>
+      <pubDate>Wed, 20 Dec 2023 04:23:34 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>https://sigir.jp/post/2024-01-19-powir2024winter/</guid>
+      <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、日本国内における情報検索研究の国際的プレゼンスを向上するために、情報検索に関する主要国際会議に投稿予定の原稿に対し、A</description>
+    </item>
     
     <item>
       <title>IR Reading 2023秋（オンライン） 開催案内</title>
