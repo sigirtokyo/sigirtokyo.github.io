@@ -1,6 +1,6 @@
 ---
 title: "IR Reading 2024春（オンライン） 開催案内"
-date: 2024-03-08T16:41:03+09:00
+date: 2024-04-01T22:30:00+09:00
 etitle: "IR Reading 2024Spring (Online)"
 subtitle: "2024年6月15日"
 tags: ["news", "イベント"]
