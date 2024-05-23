@@ -45,7 +45,7 @@ IR Reading 2024秋 では2023年11月〜2024年6月頃に開催された，ACM S
 IR ReadingではSlackを使って各種連絡を行う予定です．まず，以下のURLからIR Readingのワークスペースにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:30px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/zt-2fl80t5cm-FgtRPItbtdzCw6rxd_7tkw" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/zt-2j5cla3ea-2vaS0Px6yEQLYzWJvX77ng" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
@@ -76,7 +76,7 @@ Zoomの接続情報をSlackの#2024springチャンネルにて通知いたしま
 IR Readingに参加希望の方は，以下のリンクよりSlackにご参加ください．
 
 <div class="text-center" style="margin-top:20px; margin-bottom:20px">
-<a href="https://join.slack.com/t/ir-reading/shared_invite/zt-2fl80t5cm-FgtRPItbtdzCw6rxd_7tkw" target="_blank">
+<a href="https://join.slack.com/t/ir-reading/shared_invite/zt-2j5cla3ea-2vaS0Px6yEQLYzWJvX77ng" target="_blank">
 <button type="button" class="btn btn-success btn-lg">
 IR Reading Slack参加リンク
 </button>
