@@ -14,7 +14,7 @@ draft: false
 
 ## 日時
 - 2024年06月15日（土）
-  - 13:00 - 17:50 [プログラム](#program)
+  - 13:00 - 17:20 [プログラム](#program)
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2024spring にて連絡いたします．
@@ -98,7 +98,7 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
- ### 一般セッション1 13:00 - 14:35
+ ### 一般セッション1 13:00 - 14:20
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
@@ -106,52 +106,50 @@ IR Reading Slack参加リンク
  <tbody>
 <tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
 <tr><td>13:05 - 13:20</td><td>Table Meets LLM: Can Large Language Models Understand Structured Table Data? A Benchmark and Empirical Study (WSDM 2024)</td><td>丸田敦貴（筑波大学加藤研）</td></tr>
-<tr><td>13:20 - 13:35</td><td>Long-Term Value of Exploration: Measurements, Findings and Algorithms (WSDM 2024) or Diversifying by Intent in Recommender Systems or User Perceptions of Diversity in Recommender Systems (UMAP 2024)</td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
+<tr><td>13:20 - 13:35</td><td>User Perceptions of Diversity in Recommender Systems (UMAP 2024)</td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
 <tr><td>13:35 - 13:50</td><td>PEFA: Parameter-Free Adapters for Large-scale Embedding-based Retrieval Models (WSDM 2024)</td><td>中野優</td></tr>
 <tr><td>13:50 - 14:05</td><td>Asking Multimodal Clarifying Questions in Mixed-Initiative Conversational Search (WWW 2024)</td><td>田貝奈央（筑波大学加藤研）</td></tr>
 <tr><td>14:05 - 14:20</td><td>Shallow Cross-Encoders for Low-Latency Retrieval (ECIR 2024)</td><td>加藤誠（筑波大学）</td></tr>
-<tr><td>14:20 - 14:35</td><td>未定</td><td>新田洸平（合同会社大人検索）</td></tr>
  </tbody>
 </table>
 
 &nbsp;
- ### 休憩 14:35 - 14:50
+ ### 休憩 14:20 - 14:35
 &nbsp;
 
- ### 一般セッション2 14:50 - 16:10
+ ### 一般セッション2 14:35 - 15:50
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>14:50 - 15:05</td><td>The Dark Matter of Serendipity in Recommender Systems (CHIIR 2024)</td><td>佃洸摂（産業技術総合研究所）</td></tr>
-<tr><td>15:05 - 15:15</td><td>CausalMMM: Learning Causal Structure for Marketing Mix Modeling (WSDM 2024)</td><td>町澤大輔、澤畑尚希（拓殖大学澄川研）</td></tr>
-<tr><td>15:15 - 15:25</td><td>Eliminating Contextual Bias in Aspect-Based Sentiment Analysis (ECIR 2024)、未定</td><td>CAO JUN、郷間豊人（山梨大学李研）</td></tr>
-<tr><td>15:25 - 15:40</td><td>未定</td><td>加藤遼</td></tr>
-<tr><td>15:40 - 15:55</td><td>List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation (WWW 2024)</td><td>伊藤拓誠（筑波大学加藤研）</td></tr>
-<tr><td>15:55 - 16:10</td><td>A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval　(WSDM 2024)</td><td>薄羽皐太（クックパッド株式会社）</td></tr>
+<tr><td>14:35 - 14:50</td><td>List-aware Reranking-Truncation Joint Model for Search and Retrieval-augmented Generation (WWW 2024)</td><td>伊藤拓誠（筑波大学加藤研）</td></tr>
+<tr><td>14:50 - 15:00</td><td>ChatGPT Goes Shopping: LLMs Can Predict Relevance in eCommerce Search (ECIR 2024)</td><td>茂手木太一（筑波大学加藤研）</td></tr>
+<tr><td>15:00 - 15:15</td><td>The Dark Matter of Serendipity in Recommender Systems (CHIIR 2024)</td><td>佃洸摂（産業技術総合研究所）</td></tr>
+<tr><td>15:15 - 15:25</td><td>CausalMMM: Learning Causal Structure for Marketing Mix Modeling (WSDM 2024)</td><td>町澤大輔<BR>澤畑尚希（拓殖大学澄川研）</td></tr>
+<tr><td>15:25 - 15:35</td><td>Eliminating Contextual Bias in Aspect-Based Sentiment Analysis (ECIR 2024)<BR>未定</td><td>CAO JUN<BR>郷間豊人（山梨大学李研）</td></tr>
+<tr><td>15:35 - 15:50</td><td>A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval　(WSDM 2024)</td><td>薄羽皐太（クックパッド株式会社）</td></tr>
  </tbody>
 </table>
 
 &nbsp;
- ### 休憩 16:10 - 16:25
+ ### 休憩 15:50 - 16:05
 &nbsp;
 
- ### 一般セッション3 16:25 - 17:50
+ ### 一般セッション3 16:05 - 17:20
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>16:25 - 16:40</td><td>未定、
-An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant (ECIR 2024)、
-RIGHT: Retrieval-Augmented Generation for Mainstream Hashtag Recommendation (ECIR 2024)</td><td>中山裕紀、門垣幸樹、中西勇輝（兵庫県立大学大島研）</td></tr>
-<tr><td>16:40 - 16:55</td><td>未定</td><td>中井香那子、佐々木泰河、黒木 空翔（兵庫県立大学大島研）</td></tr>
-<tr><td>16:55 - 17:05</td><td>Cross-modal Retrieval for Knowledge-based Visual Question Answering （ECIR 2024）、PMG : Personalized Multimodal Generation with Large Language Models (WWW 2024) or Understanding Human Preferences: Towards More Personalized Video to Text Generation (WWW 2024)</td><td>三林 亮太、桑田 若菜（兵庫県立大学大島研）</td></tr>
-<tr><td>17:05 - 17:20</td><td>未定</td><td>木下 真帆、上田 健斗、大島裕明（兵庫県立大学大島研）</td></tr>
-<tr><td>17:20 - 17:30</td><td>ChatGPT Goes Shopping: LLMs Can Predict Relevance in eCommerce Search (ECIR 2024)</td><td>茂手木太一（筑波大学加藤研）</td></tr>
-<tr><td>17:30 - 17:45</td><td>OneSparse: A Unified System for Multi-index Vector Search (WWW 2024)</td><td>浅野卓也（株式会社LegalOn Technologies）</td></tr>
-<tr><td>17:45 - 17:50</td><td>クロージング</td><td>&nbsp;</td></tr>
+<tr><td>16:05 - 16:20</td><td>Uncharted Territory: Understanding Exploratory Search Behaviours in Literature Reviews (CHIIR2024) <BR>
+An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant (ECIR 2024) <BR>
+RIGHT: Retrieval-Augmented Generation for Mainstream Hashtag Recommendation (ECIR 2024)</td><td>中山裕紀<BR>門垣幸樹<BR>中西勇輝（兵庫県立大学大島研）</td></tr>
+<tr><td>16:20 - 16:35</td><td>Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents (ECIR 2024)<BR>Let the LLMs Talk: Simulating Human-to-Human Conversational QA via Zero-Shot LLM-to-LLM Interactions (WSDM2024)<BR>The Effects of Goal-setting on Learning Outcomes and Self-Regulated Learning Processes (CHIIR 2024)</td><td>中井香那子<BR>佐々木泰河<BR>黒木空翔（兵庫県立大学大島研）</td></tr>
+<tr><td>16:35 - 16:45</td><td>Cross-modal Retrieval for Knowledge-based Visual Question Answering (ECIR 2024)<BR>PMG : Personalized Multimodal Generation with Large Language Models (WWW 2024) or Understanding Human Preferences: Towards More Personalized Video to Text Generation (WWW 2024)</td><td>三林亮太<BR>桑田若菜（兵庫県立大学大島研）</td></tr>
+<tr><td>16:45 - 17:00</td><td>On the Effects of Automatically Generated Adjunct Questions for Search as Learning (CHIIR 2024)<BR>Investigating the Usage of Formulae in Mathematical Answer Retrieval (ECIR 2024)<BR>Alleviating Confounding Effects with Contrastive Learning in Recommendation (ECIR 2024)</td><td>木下真帆<BR>上田健斗<BR>大島裕明（兵庫県立大学大島研）</td></tr>
+<tr><td>17:00 - 17:15</td><td>OneSparse: A Unified System for Multi-index Vector Search (WWW 2024)</td><td>浅野卓也（株式会社LegalOn Technologies）</td></tr>
+<tr><td>17:15 - 17:20</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
