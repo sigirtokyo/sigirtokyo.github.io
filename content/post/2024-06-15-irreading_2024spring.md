@@ -14,7 +14,7 @@ draft: false
 
 ## 日時
 - 2024年06月15日（土）
-  - 13:00 - 17:20 [プログラム](#program)
+  - 13:00 - 17:25 [プログラム](#program)
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2024spring にて連絡いたします．
@@ -127,7 +127,7 @@ IR Reading Slack参加リンク
 <tr><td>14:50 - 15:00</td><td>ChatGPT Goes Shopping: LLMs Can Predict Relevance in eCommerce Search (ECIR 2024)</td><td>茂手木太一（筑波大学加藤研）</td></tr>
 <tr><td>15:00 - 15:15</td><td>The Dark Matter of Serendipity in Recommender Systems (CHIIR 2024)</td><td>佃洸摂（産業技術総合研究所）</td></tr>
 <tr><td>15:15 - 15:25</td><td>CausalMMM: Learning Causal Structure for Marketing Mix Modeling (WSDM 2024)</td><td>町澤大輔<BR>澤畑尚希（拓殖大学澄川研）</td></tr>
-<tr><td>15:25 - 15:35</td><td>Eliminating Contextual Bias in Aspect-Based Sentiment Analysis (ECIR 2024)<BR>未定</td><td>CAO JUN<BR>郷間豊人（山梨大学李研）</td></tr>
+<tr><td>15:25 - 15:35</td><td>Span-Pair Interaction and Tagging for Dialogue-Level Aspect-Based Sentiment Quadruple Analysis (WWW 2024)</td><td>郷間豊人（山梨大学李研）</td></tr>
 <tr><td>15:35 - 15:50</td><td>A Multi-Granularity-Aware Aspect Learning Model for Multi-Aspect Dense Retrieval　(WSDM 2024)</td><td>薄羽皐太（クックパッド株式会社）</td></tr>
  </tbody>
 </table>
@@ -136,7 +136,7 @@ IR Reading Slack参加リンク
  ### 休憩 15:50 - 16:05
 &nbsp;
 
- ### 一般セッション3 16:05 - 17:20
+ ### 一般セッション3 16:05 - 17:25
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
@@ -149,7 +149,8 @@ RIGHT: Retrieval-Augmented Generation for Mainstream Hashtag Recommendation (ECI
 <tr><td>16:35 - 16:45</td><td>Cross-modal Retrieval for Knowledge-based Visual Question Answering (ECIR 2024)<BR>PMG : Personalized Multimodal Generation with Large Language Models (WWW 2024) or Understanding Human Preferences: Towards More Personalized Video to Text Generation (WWW 2024)</td><td>三林亮太<BR>桑田若菜（兵庫県立大学大島研）</td></tr>
 <tr><td>16:45 - 17:00</td><td>On the Effects of Automatically Generated Adjunct Questions for Search as Learning (CHIIR 2024)<BR>Investigating the Usage of Formulae in Mathematical Answer Retrieval (ECIR 2024)<BR>Alleviating Confounding Effects with Contrastive Learning in Recommendation (ECIR 2024)</td><td>木下真帆<BR>上田健斗<BR>大島裕明（兵庫県立大学大島研）</td></tr>
 <tr><td>17:00 - 17:15</td><td>OneSparse: A Unified System for Multi-index Vector Search (WWW 2024)</td><td>浅野卓也（株式会社LegalOn Technologies）</td></tr>
-<tr><td>17:15 - 17:20</td><td>クロージング</td><td>&nbsp;</td></tr>
+<tr><td>17:15 - 17:20</td><td>Eliminating Contextual Bias in Aspect-Based Sentiment Analysis (ECIR 2024)</td><td>CAO JUN（山梨大学李研）</td></tr>
+<tr><td>17:20 - 17:25</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
