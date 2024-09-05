@@ -1,4 +1,4 @@
-baseurl = "https://sigir.jp/"
+baseurl = "https://sigirtokyo.github.io/"
 
 DefaultContentLanguage = "ja"
 hasCJKLanguage = true
