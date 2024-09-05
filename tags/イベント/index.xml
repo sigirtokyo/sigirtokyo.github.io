@@ -2,256 +2,256 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>イベント on ACM SIGIR 東京支部</title>
-    <link>https://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
+    <link>https://sigirtokyo.github.io/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/</link>
     <description>Recent content in イベント on ACM SIGIR 東京支部</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
     <lastBuildDate>Mon, 01 Apr 2024 22:30:00 +0900</lastBuildDate>
     
-	<atom:link href="https://sigir.jp/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sigirtokyo.github.io/tags/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IR Reading 2024春（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2024-06-15-irreading_2024spring/</link>
+      <link>https://sigirtokyo.github.io/post/2024-06-15-irreading_2024spring/</link>
       <pubDate>Mon, 01 Apr 2024 22:30:00 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2024-06-15-irreading_2024spring/</guid>
+      <guid>https://sigirtokyo.github.io/post/2024-06-15-irreading_2024spring/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2024 Winter</title>
-      <link>https://sigir.jp/post/2024-01-19-powir2024winter/</link>
+      <link>https://sigirtokyo.github.io/post/2024-01-19-powir2024winter/</link>
       <pubDate>Wed, 20 Dec 2023 04:23:34 +0000</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2024-01-19-powir2024winter/</guid>
+      <guid>https://sigirtokyo.github.io/post/2024-01-19-powir2024winter/</guid>
       <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、日本国内における情報検索研究の国際的プレゼンスを向上するために、情報検索に関する主要国際会議に投稿予定の原稿に対し、A</description>
     </item>
     
     <item>
       <title>IR Reading 2023秋（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2023-11-18-irreading_2023fall/</link>
+      <link>https://sigirtokyo.github.io/post/2023-11-18-irreading_2023fall/</link>
       <pubDate>Tue, 10 Oct 2023 10:24:32 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2023-11-18-irreading_2023fall/</guid>
+      <guid>https://sigirtokyo.github.io/post/2023-11-18-irreading_2023fall/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>IR Reading 2023春（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2023-06-10-irreading_2023spring/</link>
+      <link>https://sigirtokyo.github.io/post/2023-06-10-irreading_2023spring/</link>
       <pubDate>Tue, 11 Apr 2023 09:50:01 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2023-06-10-irreading_2023spring/</guid>
+      <guid>https://sigirtokyo.github.io/post/2023-06-10-irreading_2023spring/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2023 Winter</title>
-      <link>https://sigir.jp/post/2023-01-21-powir2023winter/</link>
+      <link>https://sigirtokyo.github.io/post/2023-01-21-powir2023winter/</link>
       <pubDate>Tue, 27 Dec 2022 12:38:31 +0000</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2023-01-21-powir2023winter/</guid>
+      <guid>https://sigirtokyo.github.io/post/2023-01-21-powir2023winter/</guid>
       <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、日本国内における情報検索研究の国際的プレゼンスを向上するために、情報検索に関する主要国際会議に投稿予定の原稿に対し、A</description>
     </item>
     
     <item>
       <title>SIGIR 東京支部 2022年度第4回セミナー</title>
-      <link>https://sigir.jp/post/2022-12-13-seminar-4/</link>
+      <link>https://sigirtokyo.github.io/post/2022-12-13-seminar-4/</link>
       <pubDate>Mon, 28 Nov 2022 20:33:55 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2022-12-13-seminar-4/</guid>
+      <guid>https://sigirtokyo.github.io/post/2022-12-13-seminar-4/</guid>
       <description>日時(Date) 2022年12月13日 17:00-18:00 場所(Venue) オンライン（Online via Zoom） 申込方法 (Registration) 以下の事前登録フォームから、12月1</description>
     </item>
     
     <item>
       <title>IR Reading 2022秋（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2022-11-12-irreading_2022fall/</link>
+      <link>https://sigirtokyo.github.io/post/2022-11-12-irreading_2022fall/</link>
       <pubDate>Thu, 06 Oct 2022 17:56:51 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2022-11-12-irreading_2022fall/</guid>
+      <guid>https://sigirtokyo.github.io/post/2022-11-12-irreading_2022fall/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>IR Reading 2022春（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2022-05-21-irreading_2022spring/</link>
+      <link>https://sigirtokyo.github.io/post/2022-05-21-irreading_2022spring/</link>
       <pubDate>Fri, 18 Mar 2022 12:12:54 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2022-05-21-irreading_2022spring/</guid>
+      <guid>https://sigirtokyo.github.io/post/2022-05-21-irreading_2022spring/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>HCIR Seminar 2（共催）</title>
-      <link>https://sigir.jp/post/2022-03-30-hcir_seminar/</link>
+      <link>https://sigirtokyo.github.io/post/2022-03-30-hcir_seminar/</link>
       <pubDate>Fri, 11 Mar 2022 18:22:35 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2022-03-30-hcir_seminar/</guid>
+      <guid>https://sigirtokyo.github.io/post/2022-03-30-hcir_seminar/</guid>
       <description>日時 2022年3月30日（水）10:00-11:00 場所 オンライン（Zoom） 対象者 リサーチユニット構成員および指導学生、ACM SIGIR 東京支部会</description>
     </item>
     
     <item>
       <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2022 Winter</title>
-      <link>https://sigir.jp/post/2022-01-17-powir2022winter/</link>
+      <link>https://sigirtokyo.github.io/post/2022-01-17-powir2022winter/</link>
       <pubDate>Fri, 10 Dec 2021 06:07:38 +0000</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2022-01-17-powir2022winter/</guid>
+      <guid>https://sigirtokyo.github.io/post/2022-01-17-powir2022winter/</guid>
       <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、 日本国内における情報検索研究の国際的プレゼンスを向上するために、 情報検索に関する主要国際会議に投稿予定の原稿に対し、 ACM</description>
     </item>
     
     <item>
       <title>IR Reading 2021秋（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2021-10-30-irreading_2021fall/</link>
+      <link>https://sigirtokyo.github.io/post/2021-10-30-irreading_2021fall/</link>
       <pubDate>Fri, 24 Sep 2021 21:27:43 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2021-10-30-irreading_2021fall/</guid>
+      <guid>https://sigirtokyo.github.io/post/2021-10-30-irreading_2021fall/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>IR Reading 2021春（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2021-04-24-irreading_2021spring/</link>
+      <link>https://sigirtokyo.github.io/post/2021-04-24-irreading_2021spring/</link>
       <pubDate>Wed, 17 Mar 2021 20:10:20 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2021-04-24-irreading_2021spring/</guid>
+      <guid>https://sigirtokyo.github.io/post/2021-04-24-irreading_2021spring/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2021 Winter</title>
-      <link>https://sigir.jp/post/2020-12-14-powir2021winter/</link>
+      <link>https://sigirtokyo.github.io/post/2020-12-14-powir2021winter/</link>
       <pubDate>Mon, 14 Dec 2020 19:50:06 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-12-14-powir2021winter/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-12-14-powir2021winter/</guid>
       <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、 日本国内における情報検索研究の国際的プレゼンスを向上するために、 情報検索に関する主要国際会議に投稿予定の原稿に対し、 ACM</description>
     </item>
     
     <item>
       <title>IR Reading 2020秋（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2020-10-31-irreading_2020fall/</link>
+      <link>https://sigirtokyo.github.io/post/2020-10-31-irreading_2020fall/</link>
       <pubDate>Fri, 14 Aug 2020 20:10:20 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-10-31-irreading_2020fall/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-10-31-irreading_2020fall/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingをオンラインにて開催します．多人</description>
     </item>
     
     <item>
       <title>IR Reading 2020春（オンライン） 開催案内</title>
-      <link>https://sigir.jp/post/2020-06-21-irreading_2020spring_online/</link>
+      <link>https://sigirtokyo.github.io/post/2020-06-21-irreading_2020spring_online/</link>
       <pubDate>Mon, 06 Apr 2020 15:26:54 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-06-21-irreading_2020spring_online/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-06-21-irreading_2020spring_online/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
     </item>
     
     <item>
       <title>[開催中止のお知らせ] IR Reading 2020春</title>
-      <link>https://sigir.jp/post/2020-04-25-irreading_2020spring-cancelled/</link>
+      <link>https://sigirtokyo.github.io/post/2020-04-25-irreading_2020spring-cancelled/</link>
       <pubDate>Tue, 25 Feb 2020 12:22:55 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-04-25-irreading_2020spring-cancelled/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-04-25-irreading_2020spring-cancelled/</guid>
       <description>新型コロナウイルスの感染が拡大し，関係する学会イベント等の中止が発表されていることなどを踏まえ， 2020年4月25日に開催を予定しておりまし</description>
     </item>
     
     <item>
       <title>[開催中止のお知らせ] SIGIR 東京支部 2019年度 セミナー 3</title>
-      <link>https://sigir.jp/post/2020-03-24-seminar-3-cancelled/</link>
+      <link>https://sigirtokyo.github.io/post/2020-03-24-seminar-3-cancelled/</link>
       <pubDate>Tue, 25 Feb 2020 10:34:16 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-03-24-seminar-3-cancelled/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-03-24-seminar-3-cancelled/</guid>
       <description>新型コロナウイルスの感染が拡大し，関係する学会イベント等の中止が発表されていることなどを踏まえ， 2020年3月24日に開催を予定しておりまし</description>
     </item>
     
     <item>
       <title>IR Reading 2020春 開催案内</title>
-      <link>https://sigir.jp/post/2020-04-25-irreading_2020spring/</link>
+      <link>https://sigirtokyo.github.io/post/2020-04-25-irreading_2020spring/</link>
       <pubDate>Tue, 11 Feb 2020 20:00:39 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-04-25-irreading_2020spring/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-04-25-irreading_2020spring/</guid>
       <description>開催中止のお知らせ 新型コロナウイルスの感染が拡大し，関係する学会イベント等の中止が発表されていることなどを踏まえ， 2020年4月25日に開催</description>
     </item>
     
     <item>
       <title>SIGIR 東京支部 2019年度 セミナー 3</title>
-      <link>https://sigir.jp/post/2020-03-24-seminar-3/</link>
+      <link>https://sigirtokyo.github.io/post/2020-03-24-seminar-3/</link>
       <pubDate>Mon, 10 Feb 2020 17:27:18 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2020-03-24-seminar-3/</guid>
+      <guid>https://sigirtokyo.github.io/post/2020-03-24-seminar-3/</guid>
       <description>開催中止のお知らせ 新型コロナウイルスの感染が拡大し，関係する学会イベント等の中止が発表されていることなどを踏まえ， 2020年3月24日に開催</description>
     </item>
     
     <item>
       <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2020 Winter</title>
-      <link>https://sigir.jp/post/2019-10-17-powir2020winter/</link>
+      <link>https://sigirtokyo.github.io/post/2019-10-17-powir2020winter/</link>
       <pubDate>Thu, 17 Oct 2019 11:15:06 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2019-10-17-powir2020winter/</guid>
+      <guid>https://sigirtokyo.github.io/post/2019-10-17-powir2020winter/</guid>
       <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、 日本国内における情報検索研究の国際的プレゼンスを向上するために、 情報検索に関する主要国際会議に投稿予定の原稿に対し、 ACM</description>
     </item>
     
     <item>
       <title>IR Reading 2019秋 開催案内</title>
-      <link>https://sigir.jp/post/irreading_2019fall/</link>
+      <link>https://sigirtokyo.github.io/post/irreading_2019fall/</link>
       <pubDate>Mon, 16 Sep 2019 10:54:59 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/irreading_2019fall/</guid>
+      <guid>https://sigirtokyo.github.io/post/irreading_2019fall/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
     </item>
     
     <item>
       <title>ASSIA 2019 (The 4th Asian Summer School in Information Access) 開催のお知らせ</title>
-      <link>https://sigir.jp/post/2019-05-27-assia2019/</link>
+      <link>https://sigirtokyo.github.io/post/2019-05-27-assia2019/</link>
       <pubDate>Mon, 27 May 2019 22:11:08 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2019-05-27-assia2019/</guid>
+      <guid>https://sigirtokyo.github.io/post/2019-05-27-assia2019/</guid>
       <description>日時：2019年7月9日（火）～7月13日（土） 場所：海南大学（中国） 詳細URL: http://assia2019.net/ 概要 ASSIA 2019サマースクール (The 4th Asian Summer School in Information Access) は、2013</description>
     </item>
     
     <item>
       <title>IR Reading 2019春</title>
-      <link>https://sigir.jp/post/irreading_2019spring/</link>
+      <link>https://sigirtokyo.github.io/post/irreading_2019spring/</link>
       <pubDate>Thu, 17 Jan 2019 12:19:39 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/irreading_2019spring/</guid>
+      <guid>https://sigirtokyo.github.io/post/irreading_2019spring/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
     </item>
     
     <item>
       <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2018 Winter</title>
-      <link>https://sigir.jp/post/2018-11-15-powir2018winter/</link>
+      <link>https://sigirtokyo.github.io/post/2018-11-15-powir2018winter/</link>
       <pubDate>Thu, 15 Nov 2018 11:15:06 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2018-11-15-powir2018winter/</guid>
+      <guid>https://sigirtokyo.github.io/post/2018-11-15-powir2018winter/</guid>
       <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、 日本国内における情報検索研究の国際的プレゼンスを向上するために、 情報検索に関する主要国際会議に投稿予定の原稿に対し、 ACM</description>
     </item>
     
     <item>
       <title>SIGIR 東京支部 2018年度 セミナー 2</title>
-      <link>https://sigir.jp/post/2018-08-20-seminar-2/</link>
+      <link>https://sigirtokyo.github.io/post/2018-08-20-seminar-2/</link>
       <pubDate>Wed, 22 Aug 2018 09:26:47 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2018-08-20-seminar-2/</guid>
+      <guid>https://sigirtokyo.github.io/post/2018-08-20-seminar-2/</guid>
       <description>日時 / Date 2018年10月5日 13:30 - 14:30 / October 5, 2018 13:30 - 14:30 場所 / Venue 早稲田大学 西早稲田キャンパス 63号館 5階 0506室 / Room 0506, Building No.63, Nishiwaseda Campus, Waseda University Same floor as the Sakai Lab 63-0504 事</description>
     </item>
     
     <item>
       <title>IR Reading 2018秋</title>
-      <link>https://sigir.jp/post/irreading_2018fall/</link>
+      <link>https://sigirtokyo.github.io/post/irreading_2018fall/</link>
       <pubDate>Fri, 20 Jul 2018 12:19:39 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/irreading_2018fall/</guid>
+      <guid>https://sigirtokyo.github.io/post/irreading_2018fall/</guid>
       <description>概要 情報アクセス分野に関する主要国際会議（SIGIRやWSDMなど）の論文読み合わせを行うIR Readingを開催します．多人数で協力しあっ</description>
     </item>
     
     <item>
       <title>SIGIR 東京支部 2017年度 セミナー 1</title>
-      <link>https://sigir.jp/post/2018-03-12-2017-seminar-1/</link>
+      <link>https://sigirtokyo.github.io/post/2018-03-12-2017-seminar-1/</link>
       <pubDate>Mon, 12 Mar 2018 09:26:47 +0900</pubDate>
       <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
-      <guid>https://sigir.jp/post/2018-03-12-2017-seminar-1/</guid>
+      <guid>https://sigirtokyo.github.io/post/2018-03-12-2017-seminar-1/</guid>
       <description>日時 / Date 2018年3月30日 15:10 - 16:10 / March 30, 2018 15:10 - 16:10 場所 / Venue 早稲田大学 西早稲田キャンパス 63-05-06 / Nishiwaseda Campus 63-05-06, Waseda University Getting rid of the ten blue links 講演者 / Speaker Professor Mark Sanderson (RMIT University) 概要 / Abstract</description>
     </item>
     
