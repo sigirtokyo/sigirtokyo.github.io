@@ -24,6 +24,7 @@ IR Reading 2024秋 では2024年4月〜2024年11月頃に開催された，ACM S
 下記以外でも，情報検索に関連する会議・論文であれば何でも結構です．
 
 - [SIGIR 2024](https://sigir-2024.github.io/)
+- [ICTIR 2024](https://www.ictir2024.org/)
 - [CIKM 2024](https://cikm2024.org/)
 - [TheWebConf 2024](https://www2024.thewebconf.org/)
 
