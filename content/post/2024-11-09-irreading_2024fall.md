@@ -97,7 +97,7 @@ IR Reading Slack参加リンク
  - 勉強会当日: 11月9日（土）
 
 <span id="program"></span>
-## プログラム(2024/10/29版)
+## プログラム(2024/11/08 17時更新)
  ### 一般セッション1 13:00 - 14:20
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
@@ -105,24 +105,17 @@ IR Reading Slack参加リンク
  </thead>
  <tbody>
 <tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
-<tr><td>13:05 - 13:20</td><td>候補
-On (Normalised) Discounted Cumulative Gain as an Off-Policy Evaluation Metric for Top-n Recommendation (KDD 2024)
-Revisiting BPR: A Replicability Study of a Common Recommender System Baseline (RecSys 2024)
-Can We Trust Recommender System Fairness Evaluation? The Role of Fairness and Relevance (SIGIR 2024)
-Configurable Fairness for New Item Recommendation Considering Entry Time of Items (SIGIR 2024)
-Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other? (RecSys 2024)
-Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn) (RecSys 2024) </td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
+<tr><td>13:05 - 13:20</td><td>On Evaluation Metrics for Diversity-enhanced Recommendations (CIKM 2024)</td><td>栗本真太郎（LINEヤフー株式会社）</td></tr>
 <tr><td>13:20 - 13:35</td><td>Enhancing Dataset Search with Compact Data Snippets (SIGIR 2024)</td><td>加藤誠（筑波大学）</td></tr>
 <tr><td>13:35 - 13:50</td><td>Dynamic Demonstration Retrieval and Cognitive Understanding for Emotional Support Conversation (SIGIR 2024)</td><td>田貝奈央（筑波大学）</td></tr>
-<tr><td>13:50 - 14:05</td><td>候補
-The Power of Noise: Redefining Retrieval for RAG Systems (SIGIR 2024)
-Axiomatic Causal Interventions for Reverse Engineering Relevance Computation in Neural Retrieval Models (SIGIR 2024)</td><td>上保秀夫（筑波大学）</td></tr>
-<tr><td>14:05 - 14:20</td><td>Unsupervised Large Language Model Alignment for Information Retrieval via Contrastive Feedback (SIGIR2024)</td><td>伊藤拓誠（筑波大学）</td></tr>
+<tr><td>13:50 - 14:05</td><td>Unsupervised Large Language Model Alignment for Information Retrieval via Contrastive Feedback (SIGIR 2024)</td><td>伊藤拓誠（筑波大学）</td></tr>
+<tr><td>14:05 - 14:15</td><td>Human-LLM Hybrid Text Answer Aggregation for Crowd Annotations
+ (EMNLP 2024)</td><td>李吉屹（山梨大学）</td></tr>
  </tbody>
 </table>
 
 &nbsp;
- ### 休憩 14:20 - 14:30
+ ### 休憩 14:15 - 14:30
 &nbsp;
 
  ### 一般セッション2 14:30 - 15:50
@@ -131,19 +124,15 @@ Axiomatic Causal Interventions for Reverse Engineering Relevance Computation in 
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>14:3 - 14:45</td><td>候補
-Fine-Tuning LLaMA for Multi-Stage Text Retrieval(SIGIR 2024)
-Which Neurons Matter in IR? Applying Integrated Gradients-based Methods to Understand Cross-Encoders(ICTIR2024)</td><td>加藤遼</td></tr>
-<tr><td>14:45 - 15:00</td><td>候補
-An E-Commerce Dataset Revealing Variations during Sales(SIGIR 2024)</td><td>田代真生（合同会社DMM.com）</td></tr>
-<tr><td>15:00 - 15:15</td><td>Leveraging LLMs for Unsupervised Dense Retriever Ranking (SIGIR 2024)</td><td>神田峻介（シェルパ・アンド・カンパニー株式会社）</td></tr>
-<tr><td>15:15 - 15:30</td><td>候補
-Deep Bag-of-Words Model: An Efficient and Interpretable Relevance Architecture for Chinese E-Commerce (KDD 2024)
-Scaling Laws For Dense Retrieval (SIGIR 2024)</td><td>中野優</td></tr>
-<tr><td>15:30 - 15:35</td><td>Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph (SIGIR 2024)</td><td>町澤大輔（拓殖大学）</td></tr>
-<tr><td>15:35 - 15:40</td><td>Improving In-Context Learning via Sequentially Retrieval and Preference Alignment for Few-Shot Aspect-Based Sentiment Analysis (SIGIR2024)</td><td>LAN LEYANG（山梨大学）</td></tr>
-<tr><td>15:40 - 15:50</td><td>Extended Japanese Commonsense Morality Dataset with Masked Token and Label Enhancement (CIKM2024)</td><td>大橋巧（法政大学彌冨研）</td></tr>
+<tr><td>14:30 - 14:45</td><td>候補
+An E-Commerce Dataset Revealing Variations during Sales (SIGIR 2024)</td><td>田代真生（合同会社DMM.com）</td></tr>
+<tr><td>14:45 - 15:00</td><td>Leveraging LLMs for Unsupervised Dense Retriever Ranking (SIGIR 2024)</td><td>神田峻介（シェルパ・アンド・カンパニー株式会社）</td></tr>
+<tr><td>15:00 - 15:15</td><td>COSMO: A Large-Scale E-commerce Common Sense Knowledge Generation and Serving System at Amazon (SIGMOD 2024)</td><td>中野優</td></tr>
+<tr><td>15:15 - 15:20</td><td>Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph (SIGIR 2024)</td><td>町澤大輔（拓殖大学）</td></tr>
+<tr><td>15:20 - 15:25</td><td>Improving In-Context Learning via Sequentially Retrieval and Preference Alignment for Few-Shot Aspect-Based Sentiment Analysis (SIGIR 2024)</td><td>LAN LEYANG（山梨大学）</td></tr>
+<tr><td>15:25 - 15:35</td><td>Extended Japanese Commonsense Morality Dataset with Masked Token and Label Enhancement (CIKM 2024)</td><td>大橋巧（法政大学彌冨研）</td></tr>
  </tbody>
+<tr><td>15:35 - 15:50</td><td>City Foundation Models for Learning General Purpose Representations from OpenStreetMap （CIKM 2024）<BR>The Art of Asking: Prompting Large Language Models for Serendipity Recommendations (ICTIR 2024)<BR>Cognitively Biased Users Interacting with Algorithmically Biased Results in Whole-Session Search on Debated Topics (ICTIR 2024)</td><td>中西勇輝<BR>門垣幸樹<BR>中山裕紀（兵庫県立大学）</td></tr>
 </table>
 
 &nbsp;
@@ -166,10 +155,12 @@ Scaling Laws For Dense Retrieval (SIGIR 2024)</td><td>中野優</td></tr>
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>16:30 - 16:45</td><td>LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval (SIGR2024)<BR>MeMemo: On-device Retrieval Augmentation for Private and Personalized Text Generation (SIGR2024)</td><td>大島裕明（兵庫県立大学）<BR>村本直樹（電通総研）</td></tr>
-<tr><td>16:45 - 16:55</td><td>LLaVA-Chef: A Multi-modal Generative Model for Food Recipes（CIKM 2024）<BR>Design Element Aware Poster Layout Generation (CIKM 2024)</td><td>三林亮太<BR>桑田若菜（兵庫県立大学）</td></tr>
-<tr><td>16:55 - 17:05</td><td>A Reproducibility Study of PLAID (SIGIR 2024)</td><td>ファムフーロン（兵庫県立大学）</td></tr>
-<tr><td>17:05 - 17:20</td><td>候補：City Foundation Models for Learning General Purpose Representations from OpenStreetMap（CIKM 2024）<BR>The Art of Asking: Prompting Large Language Models for Serendipity Recommendations (ICTIR2024)<BR>未定</td><td>中西勇輝<BR>門垣幸樹<BR>中山裕紀（兵庫県立大学）</td></tr>
+<tr><td>16:30 - 16:45</td><td>候補
+The Power of Noise: Redefining Retrieval for RAG Systems (SIGIR 2024)
+Axiomatic Causal Interventions for Reverse Engineering Relevance Computation in Neural Retrieval Models (SIGIR 2024)</td><td>上保秀夫（筑波大学）</td></tr>
+<tr><td>16:45 - 17:00</td><td>LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval (SIGR 2024)<BR>MeMemo: On-device Retrieval Augmentation for Private and Personalized Text Generation (SIGR 2024)</td><td>大島裕明（兵庫県立大学）<BR>村本直樹（電通総研）</td></tr>
+<tr><td>17:00 - 17:10</td><td>LLaVA-Chef: A Multi-modal Generative Model for Food Recipes （CIKM 2024）<BR>Design Element Aware Poster Layout Generation (CIKM 2024)</td><td>三林亮太<BR>桑田若菜（兵庫県立大学）</td></tr>
+<tr><td>17:10 - 17:20</td><td>A Reproducibility Study of PLAID (SIGIR 2024)</td><td>ファムフーロン（兵庫県立大学）</td></tr>
  </tbody>
 </table>
 
@@ -177,18 +168,16 @@ Scaling Laws For Dense Retrieval (SIGIR 2024)</td><td>中野優</td></tr>
  ### 休憩 17:20 - 17:30
 &nbsp;
 
- ### 一般セッション3 17:30 - 18:20
+ ### 一般セッション4 17:30 - 18:20
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
 <tr><td>17:30 - 17:45</td><td>Diffusion Models for Generative Outfit Recommendation (SIGIR 2024)</td><td>大江優真（静岡大学莊司研）</td></tr>
-<tr><td>17:45 - 18:00</td><td>Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers? (SIGIR2024)</td><td>吉原哉偉翔（静岡大学莊司研）</td></tr>
-<tr><td>18:00 - 18:15</td><td>未定</td><td>金田悠路（静岡大学莊司研、持ち時間未定）</td></tr>
-<tr><td>18:15 - 18:25</td><td>Human-LLM Hybrid Text Answer Aggregation for Crowd Annotations
- (EMNLP 2024)</td><td>李吉屹（山梨大学）</td></tr>
-<tr><td>18:25 - 18:30</td><td>クロージング</td><td>&nbsp;</td></tr>
+<tr><td>17:45 - 18:00</td><td>Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers? (SIGIR 2024)</td><td>吉原哉偉翔（静岡大学莊司研）</td></tr>
+<tr><td>18:00 - 18:15</td><td>Dimension Importance Estimation for Dense Information Retrieval (SIGIR 2024)</td><td>金田悠路（静岡大学莊司研）</td></tr>
+<tr><td>18:15 - 18:20</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
@@ -205,4 +194,4 @@ Scaling Laws For Dense Retrieval (SIGIR 2024)</td><td>中野優</td></tr>
 
 ## 連絡先 - ACM SIGIR 東京支部
    - sigir-tokyo at googlegroups.com
-   - 担当: 澄川 靖信（拓殖大学） 李 吉屹（山梨大学）
+   - 担当: 李 吉屹（山梨大学） 澄川 靖信（拓殖大学）
