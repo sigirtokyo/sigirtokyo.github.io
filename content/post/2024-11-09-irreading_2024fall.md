@@ -97,7 +97,7 @@ IR Reading Slack参加リンク
  - 勉強会当日: 11月9日（土）
 
 <span id="program"></span>
-## プログラム(2024/11/08 17時更新)
+## プログラム
  ### 一般セッション1 13:00 - 14:20
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
@@ -124,8 +124,7 @@ IR Reading Slack参加リンク
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>14:30 - 14:45</td><td>候補
-An E-Commerce Dataset Revealing Variations during Sales (SIGIR 2024)</td><td>田代真生（合同会社DMM.com）</td></tr>
+<tr><td>14:30 - 14:45</td><td>An E-Commerce Dataset Revealing Variations during Sales (SIGIR 2024)</td><td>田代真生（合同会社DMM.com）</td></tr>
 <tr><td>14:45 - 15:00</td><td>Leveraging LLMs for Unsupervised Dense Retriever Ranking (SIGIR 2024)</td><td>神田峻介（シェルパ・アンド・カンパニー株式会社）</td></tr>
 <tr><td>15:00 - 15:15</td><td>COSMO: A Large-Scale E-commerce Common Sense Knowledge Generation and Serving System at Amazon (SIGMOD 2024)</td><td>中野優</td></tr>
 <tr><td>15:15 - 15:20</td><td>Transformer-based Reasoning for Learning Evolutionary Chain of Events on Temporal Knowledge Graph (SIGIR 2024)</td><td>町澤大輔（拓殖大学）</td></tr>
@@ -139,25 +138,23 @@ An E-Commerce Dataset Revealing Variations during Sales (SIGIR 2024)</td><td>田
  ### 休憩 15:50 - 16:00
 &nbsp;
 
- ### 招待セッション 16:00 - 16:30
+ ### 招待セッション 16:00 - 16:40
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>16:00 - 16:30</td><td>Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search (SIGIR2024)</td><td>城光英彰（Radboud University）</td></tr>
+<tr><td>16:00 - 16:40</td><td>Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search (SIGIR 2024)</td><td>城光英彰（Radboud University）</td></tr>
  </tbody>
 </table>
 
- ### 一般セッション3 16:30 - 17:20
+ ### 一般セッション3 16:40 - 17:30
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>16:30 - 16:45</td><td>候補
-The Power of Noise: Redefining Retrieval for RAG Systems (SIGIR 2024)
-Axiomatic Causal Interventions for Reverse Engineering Relevance Computation in Neural Retrieval Models (SIGIR 2024)</td><td>上保秀夫（筑波大学）</td></tr>
+<tr><td>16:30 - 16:45</td><td>The Power of Noise: Redefining Retrieval for RAG Systems (SIGIR 2024)<BR>Axiomatic Causal Interventions for Reverse Engineering Relevance Computation in Neural Retrieval Models (SIGIR 2024)</td><td>上保秀夫（筑波大学）</td></tr>
 <tr><td>16:45 - 17:00</td><td>LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval (SIGR 2024)<BR>MeMemo: On-device Retrieval Augmentation for Private and Personalized Text Generation (SIGR 2024)</td><td>大島裕明（兵庫県立大学）<BR>村本直樹（電通総研）</td></tr>
 <tr><td>17:00 - 17:10</td><td>LLaVA-Chef: A Multi-modal Generative Model for Food Recipes （CIKM 2024）<BR>Design Element Aware Poster Layout Generation (CIKM 2024)</td><td>三林亮太<BR>桑田若菜（兵庫県立大学）</td></tr>
 <tr><td>17:10 - 17:20</td><td>A Reproducibility Study of PLAID (SIGIR 2024)</td><td>ファムフーロン（兵庫県立大学）</td></tr>
@@ -165,19 +162,19 @@ Axiomatic Causal Interventions for Reverse Engineering Relevance Computation in 
 </table>
 
 &nbsp;
- ### 休憩 17:20 - 17:30
+ ### 休憩 17:30 - 17:40
 &nbsp;
 
- ### 一般セッション4 17:30 - 18:20
+ ### 一般セッション4 17:40 - 18:30
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>17:30 - 17:45</td><td>Diffusion Models for Generative Outfit Recommendation (SIGIR 2024)</td><td>大江優真（静岡大学莊司研）</td></tr>
-<tr><td>17:45 - 18:00</td><td>Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers? (SIGIR 2024)</td><td>吉原哉偉翔（静岡大学莊司研）</td></tr>
-<tr><td>18:00 - 18:15</td><td>Dimension Importance Estimation for Dense Information Retrieval (SIGIR 2024)</td><td>金田悠路（静岡大学莊司研）</td></tr>
-<tr><td>18:15 - 18:20</td><td>クロージング</td><td>&nbsp;</td></tr>
+<tr><td>17:40 - 17:55</td><td>Diffusion Models for Generative Outfit Recommendation (SIGIR 2024)</td><td>大江優真（静岡大学莊司研）</td></tr>
+<tr><td>17:55 - 18:10</td><td>Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers? (SIGIR 2024)</td><td>吉原哉偉翔（静岡大学莊司研）</td></tr>
+<tr><td>18:10 - 18:25</td><td>Dimension Importance Estimation for Dense Information Retrieval (SIGIR 2024)</td><td>金田悠路（静岡大学莊司研）</td></tr>
+<tr><td>18:25 - 18:30</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
