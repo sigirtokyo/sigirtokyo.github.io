@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</managingEditor>
     <webMaster>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</webMaster>
-    <lastBuildDate>Fri, 25 Oct 2024 03:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 15:56:19 +0000</lastBuildDate>
     
 	<atom:link href="https://sigirtokyo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>POWIR (Pre-submission One-day Workshop on Information Retrieval) 2025 Winter</title>
+      <link>https://sigirtokyo.github.io/post/2025-01-31-powir2025winter/</link>
+      <pubDate>Sat, 11 Jan 2025 15:56:19 +0000</pubDate>
+      <author>sigir-tokyo@googlegroups.com (ACM SIGIR 東京支部)</author>
+      <guid>https://sigirtokyo.github.io/post/2025-01-31-powir2025winter/</guid>
+      <description>概要 POWIR (Pre-submission One-day Workshop on Information Retrieval) は、日本国内における情報検索研究の国際的プレゼンスを向上するために、情報検索に関する主要国際会議に投稿予定の原稿に対し、A</description>
+    </item>
     
     <item>
       <title>ACM SIGIR-AP 2024 参加募集案内</title>
