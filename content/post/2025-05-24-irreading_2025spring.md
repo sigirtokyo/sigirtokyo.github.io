@@ -133,9 +133,8 @@ IR Reading Slack参加リンク
 <tr><td>13:50 - 14:00</td><td>Personalised Outfit Recommendation via History-aware Transformers (WSDM 2025)</td><td>大江　優真（静岡大学莊司研）</td></tr>
 <tr><td>14:00 - 14:10</td><td>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning (EMNLP 2024)</td><td>山口　俊（静岡大学莊司研）</td></tr>
 <tr><td>14:10 - 14:20</td><td>Improving Scientific Document Retrievalwith Concept Coverage-based Query Set Generation (WSDM2025)</td><td>吉原　哉偉翔（静岡大学莊司研）</td></tr>
-<tr><td>14:20 - 14:30</td><td>未定</td><td>杉田　大知（静岡大学莊司研）</td></tr>
-<tr><td>14:30 - 14:40</td><td>（仮）Using Instruction-Tuned LMs for Scalable Use Case-Based Shopping - Where Customers Meet Their Needs (KDD 2025) and Contextualizing Spotify’s Audiobook List Recommendations with Descriptive Shelves (ECIR 2025) 
-or How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Spectral Perspective (WSDM 2025)</td><td>栗本　真太郎（LINEヤフー株式会社）</td></tr>
+<tr><td>14:20 - 14:30</td><td>DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic,Lightweight Plugin for Large Language Models</td><td>杉田　大知（静岡大学莊司研）</td></tr>
+<tr><td>14:30 - 14:40</td><td>Using Instruction-Tuned LMs for Scalable Use Case-Based Shopping - Where Customers Meet Their Needs (KDD 2025)<BR> Contextualizing Spotify’s Audiobook List Recommendations with Descriptive Shelves (ECIR 2025)</td><td>栗本　真太郎（LINEヤフー株式会社）</td></tr>
  </tbody>
 </table>
 
@@ -149,11 +148,11 @@ or How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Sp
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>14:50 - 15:00</td><td>未定</td><td>加藤　誠（筑波大学/NII）</td></tr>
+<tr><td>14:50 - 15:00</td><td>Set-Encoder: Permutation-Invariant Inter-Passage Attention for Listwise Passage Re-Ranking with Cross-Encoders (ECIR 2025)</td><td>加藤　誠（筑波大学/NII）</td></tr>
 <tr><td>15:00 - 15:10</td><td>Investigating the Performance of Dense Retrievers for Queries with Numerical Conditions (ECIR 2025)</td><td>藤巻　晴葵（筑波大学加藤研）</td></tr>
 <tr><td>15:10 - 15:20</td><td>Retrieve, Annotate, Evaluate, Repeat: Leveraging Multimodal LLMs for Large-Scale Product Retrieval Evaluation (ECIR 2025)</td><td>茂手木　太一（筑波大学加藤研）</td></tr>
-<tr><td>15:20 - 15:30</td><td>未定</td><td>本藤　祐大（筑波大学加藤研）</td></tr>
-<tr><td>15:30 - 15:40</td><td>未定</td><td>仲地　優登（筑波大学加藤研）</td></tr>
+<tr><td>15:20 - 15:30</td><td>Persona-SQ: A Personalized Suggested Question Generation Framework For Real-world Documents (ACL2025)</td><td>本藤　祐大（筑波大学加藤研）</td></tr>
+<tr><td>15:30 - 15:40</td><td>Search+Chat: Integrating Search and GenAI to Support Users with Learning-oriented Search Tasks (CHIIR2025)</td><td>仲地　優登（筑波大学加藤研）</td></tr>
 <tr><td>15:40 - 15:50</td><td>Corpus Subsampling: Estimating the Effectiveness of Neural Retrieval Models on Large Corpora (ECIR 2025)</td><td>Zou Guoxuan（筑波大学加藤研）</td></tr>
 <tr><td>15:50 - 16:00</td><td>Quam: Adaptive Retrieval through Query Affinity Modelling (WSDM 2025)</td><td>伊藤　拓誠（筑波大学加藤研）</td></tr>
  </tbody>
@@ -170,11 +169,11 @@ or How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Sp
  </thead>
  <tbody>
 <tr><td>16:10 - 16:20</td><td>Disentangling Instructive Information from Ranked Multiple Candidates for Multi-Document Scientific Summarization (SIGIR 2024)</td><td>田貝　奈央（筑波大学加藤研）</td></tr>
-<tr><td>16:20 - 16:30</td><td>未定<BR>Personalized Image Generation with Large Multimodal Models (WWW 2025)</td><td>大島　裕明<BR>桑田　若菜（兵庫県立大学）</td></tr>
-<tr><td>16:30 - 16:40</td><td>未定<BR>Fitting to the body: The role of embodiment in beauty information seeking (CHIIR 2025)</td><td>木下　真帆<BR>松本　美風（兵庫県立大学大島研）</td></tr>
-<tr><td>16:40 - 16:50</td><td>未定</td><td>中西　勇輝<BR>黒木　空翔（兵庫県立大学大島研）</td></tr>
-<tr><td>16:50 - 17:00</td><td>未定<BR>Do Images Clarify? A Study on the Effect of Images on Clarifying Questions in Conversational Search (CHIIR 2025)</td><td>ファムフーロン（兵庫県立大学大島研）<BR>村本直樹（株式会社電通総研）</td></tr>
-<tr><td>17:00 - 17:10</td><td>未定</td><td>中山　裕紀<BR>村上　耀紀（兵庫県立大学大島研）</td></tr>
+<tr><td>16:20 - 16:30</td><td>Two Heads Are Better Than One: Improving Search Effectiveness Through LLM-Generated Query Variants (CHIIR 2025)<BR>Personalized Image Generation with Large Multimodal Models (WWW 2025)</td><td>大島　裕明<BR>桑田　若菜（兵庫県立大学）</td></tr>
+<tr><td>16:30 - 16:40</td><td>PerSRV: Personalized Sticker Retrieval with Vision-Language Model (WWW 2025)<BR>Fitting to the body: The role of embodiment in beauty information seeking (CHIIR 2025)</td><td>木下　真帆<BR>松本　美風（兵庫県立大学大島研）</td></tr>
+<tr><td>16:40 - 16:50</td><td>HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems (WWW 2025)<BR>Search+Chat: Integrating Search and GenAI to Support Users with Learning-oriented Search Tasks (CHIIR 2025)</td><td>中西　勇輝<BR>黒木　空翔（兵庫県立大学大島研）</td></tr>
+<tr><td>16:50 - 17:00</td><td>“I'm Looking for a Book with a Big Watermelon and Many Small Ants”: An Exploratory Study on a Visualized Search System for Preschoolers' Picture Book Search (CHIIR 2025)<BR>Do Images Clarify? A Study on the Effect of Images on Clarifying Questions in Conversational Search (CHIIR 2025)</td><td>ファムフーロン（兵庫県立大学大島研）<BR>村本直樹（株式会社電通総研）</td></tr>
+<tr><td>17:00 - 17:10</td><td>ExIM: Exploring Intent of Music Listening for Retrieving User-generated Playlists (CHIIR 2025)<BR>IRCHIVER: An Information-Centric Personal Web Archive for Revisiting Past Online Sensemaking Tasks (CHIIR 2025)</td><td>中山　裕紀<BR>村上　耀紀（兵庫県立大学大島研）</td></tr>
  </tbody>
 </table>
 
@@ -190,7 +189,7 @@ or How Do Recommendation Models Amplify Popularity Bias? An Analysis from the Sp
  </thead>
  <tbody>
 <tr><td>17:20 - 17:25</td><td>Personalized Knowledge Gain Estimation Through Query-Driven Learning Goal Inference in Search As Learning　(CHIIR2025)</td><td>森　高楓　（千葉大学人文公共学府）</td></tr>
-<tr><td>17:25 - 17:35</td><td>未定</td><td>中野　優</td></tr>
+<tr><td>17:25 - 17:35</td><td>GEO: Generative Engine Optimization (KDD 2024)<BR>Ranking Manipulation for Conversational Search Engines (EMNLP 2024)</td><td>中野　優</td></tr>
 <tr><td>17:35 - 17:45</td><td>Counterfactual Query Rewriting to Use Historical Relevance Feedback　(ECIR 2025)</td><td>野坂 優斗（エン・ジャパン株式会社）</td></tr>
 <tr><td>17:45 - 17:55</td><td>Relevance Filtering for Embedding-based Retrieval (CIKM 2024)</td><td>飯田 大貴（UZABASE）</td></tr>
 <tr><td>17:55 - 18:05</td><td>E2Rank: Efficient and Effective Layer-wise Reranking (ECIR 2025)</td><td>加藤　遼（株式会社ビズリーチ）</td></tr>
