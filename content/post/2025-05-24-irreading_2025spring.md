@@ -133,7 +133,7 @@ IR Reading Slack参加リンク
 <tr><td>13:50 - 14:00</td><td>Personalised Outfit Recommendation via History-aware Transformers (WSDM 2025)</td><td>大江　優真（静岡大学莊司研）</td></tr>
 <tr><td>14:00 - 14:10</td><td>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning (EMNLP 2024)</td><td>山口　俊（静岡大学莊司研）</td></tr>
 <tr><td>14:10 - 14:20</td><td>Improving Scientific Document Retrievalwith Concept Coverage-based Query Set Generation (WSDM 2025)</td><td>吉原　哉偉翔（静岡大学莊司研）</td></tr>
-<tr><td>14:20 - 14:30</td><td>DLP-LoRA: Efficient Task-Specific LoRA Fusion with a Dynamic,Lightweight Plugin for Large Language Models</td><td>杉田　大知（静岡大学莊司研）</td></tr>
+<tr><td>14:20 - 14:30</td><td>Distilling Multi-Scale Knowledge for Event Temporal Relation Extraction (CIKM 2024)</td><td>町澤　大輔（拓殖大学）</td></tr>
 <tr><td>14:30 - 14:40</td><td>Using Instruction-Tuned LMs for Scalable Use Case-Based Shopping - Where Customers Meet Their Needs (KDD 2025)<BR> Contextualizing Spotify’s Audiobook List Recommendations with Descriptive Shelves (ECIR 2025)</td><td>栗本　真太郎（LINEヤフー株式会社）</td></tr>
  </tbody>
 </table>
@@ -193,8 +193,7 @@ IR Reading Slack参加リンク
 <tr><td>17:35 - 17:45</td><td>Counterfactual Query Rewriting to Use Historical Relevance Feedback　(ECIR 2025)</td><td>野坂 優斗（エン・ジャパン株式会社）</td></tr>
 <tr><td>17:45 - 17:55</td><td>Relevance Filtering for Embedding-based Retrieval (CIKM 2024)</td><td>飯田 大貴（UZABASE）</td></tr>
 <tr><td>17:55 - 18:05</td><td>E2Rank: Efficient and Effective Layer-wise Reranking (ECIR 2025)</td><td>加藤　遼（株式会社ビズリーチ）</td></tr>
-<tr><td>18:05 - 18:15</td><td>Distilling Multi-Scale Knowledge for Event Temporal Relation Extraction (CIKM 2024)</td><td>町澤　大輔（拓殖大学）</td></tr>
-<tr><td>18:15 - 18:20</td><td>クロージング</td><td>&nbsp;</td></tr>
+<tr><td>18:05 - 18:10</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
