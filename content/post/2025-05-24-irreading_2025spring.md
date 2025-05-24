@@ -182,7 +182,7 @@ IR Reading Slack参加リンク
  ### 休憩 17:10 - 17:20
 &nbsp;
 
-### 一般セッション3 17:20 - 18:20
+### 一般セッション3 17:20 - 18:10
 <table class="table table-hover table-striped text-left">
  <thead class="thead-light">
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
