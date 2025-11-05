@@ -14,7 +14,7 @@ draft: false
 
 ## 日時
 - 2025年11月15日（土）
-  - 13:00 - [プログラム](#program)
+  - 13:00 - 15:35 [プログラム](#program)
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2025fall にて連絡いたします．
@@ -103,7 +103,58 @@ IR Reading Slack参加リンク
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-TBD
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
+
+ ### 招待セッション 13:05 - 13:35
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:05 - 13:35</td><td>An Off-Policy Learning Approach for Steering Sentence Generation towards Personalization (RecSys 2025)</td><td>清原 明加（コーネル大学）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 13:35 - 13:40
+&nbsp;
+
+
+ ### 一般セッション1 13:40 - 14:30
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:40 - 13:50</td><td>Bridging Personalization and Control in Scientific Personalized Search (SIGIR 2025)</td><td>加藤 誠（筑波大学/NII）</td></tr>
+<tr><td>13:50 - 14:00</td><td>Efficiency and Effectiveness of LLM-Based Summarization of Evidence in Crowdsourced Fact-Checking (SIGIR 2025)</td><td>田貝 奈央（筑波大学加藤研）</td></tr>
+<tr><td>14:00 - 14:10</td><td>Demographically-Inspired Query Variants Using an LLM (ICTIR 2025)</td><td>本藤 祐大（筑波大学加藤研）</td></tr>
+<tr><td>14:10 - 14:20</td><td>Breaking the Lens of the Telescope: Online Relevance Estimation over Large Retrieval Sets (SIGIR 2025)</td><td>藤巻 晴葵（筑波大学加藤研）</td></tr>
+<tr><td>14:20 - 14:30</td><td>（仮）How Do Users Perceive Recommender Systems' Objectives? (RecSys 2025)
+<BR> The differential effects of algorithmic recommendations on user experience: 
+Enjoyment and serendipity in everyday music streaming (CHIGreece 2025) </td><td>栗本 真太郎（LINEヤフー株式会社）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 14:30 - 14:40
+&nbsp;
+
+### 一般セッション2 14:40 - 15:35
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>14:40 - 14:50</td><td>ReasonIR: Training Retrievers for Reasoning Tasks (COLM 2025) <BR>
+Rank1: Test-Time Compute for Reranking in Information Retrieval (COLM 2025)</td><td>中野 優</td></tr>
+<tr><td>14:50 - 15:00</td><td>Harnessing Large Language Models for Group POI Recommendations (CIKM 2025)</td><td>山口 俊（静岡大学莊司研）</td></tr>
+<tr><td>15:00 - 15:10</td><td>FashionDPO:Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization (SIGIR 2025)</td><td>大江 優真（静岡大学莊司研）</td></tr>
+<tr><td>15:10 - 15:20</td><td>未定</td><td>本藤 祐大（静岡大学莊司研）</td></tr>
+<tr><td>15:20 - 15:30</td><td>未定</td><td>仲地 優登（静岡大学莊司研）</td></tr>
+<tr><td>15:30 - 15:35</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
 
