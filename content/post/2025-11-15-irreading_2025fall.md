@@ -152,8 +152,8 @@ Enjoyment and serendipity in everyday music streaming (CHIGreece 2025) </td><td>
 Rank1: Test-Time Compute for Reranking in Information Retrieval (COLM 2025)</td><td>中野 優</td></tr>
 <tr><td>14:50 - 15:00</td><td>Harnessing Large Language Models for Group POI Recommendations (CIKM 2025)</td><td>山口 俊（静岡大学莊司研）</td></tr>
 <tr><td>15:00 - 15:10</td><td>FashionDPO:Fine-tune Fashion Outfit Generation Model using Direct Preference Optimization (SIGIR 2025)</td><td>大江 優真（静岡大学莊司研）</td></tr>
-<tr><td>15:10 - 15:20</td><td>未定</td><td>本藤 祐大（静岡大学莊司研）</td></tr>
-<tr><td>15:20 - 15:30</td><td>未定</td><td>仲地 優登（静岡大学莊司研）</td></tr>
+<tr><td>15:10 - 15:20</td><td>Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation (SIGIR 2025)</td><td>中野 暁登（静岡大学莊司研）</td></tr>
+<tr><td>15:20 - 15:30</td><td>未定</td><td>吉原 哉偉翔（静岡大学莊司研）</td></tr>
 <tr><td>15:30 - 15:35</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
