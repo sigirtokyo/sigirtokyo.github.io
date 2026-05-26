@@ -153,7 +153,7 @@ Dual-Diffusional Generative Fashion Recommendation (SIGIR 2026)<BR>
 Beyond Patches: Superpixel Token-based Transformers forAttribute-Specific Fashion Retrieval (TheWebConf 2026)</td><td>大江 優真（静岡大学 莊司研）</td></tr>
 <tr><td>15:10 - 15:20</td><td>Same Image, Different Meanings: Toward Retrieval of Context-Dependent Meanings (SIGIR 2026)</td><td>大倉 子龍（静岡大学莊司研）</td></tr>
 <tr><td>15:20 - 15:30</td><td>CSyMR: Benchmarking Compositional Music Information Retrieval in Symbolic Music Reasoning (SIGIR 2026)</td><td>三林 亮太（神戸大学三林研）</td></tr>
-<tr><td>15:30 - 15:40</td><td>未定</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
+<tr><td>15:30 - 15:40</td><td>LLM-based Listwise Reranking under the Effect of Positional Bias (ECIR 2026)</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
  </tbody>
 </table>
 
