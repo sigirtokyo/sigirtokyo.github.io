@@ -14,7 +14,7 @@ draft: false
 
 ## 日時
 - 2026年05月30日（土）
-  - 13:00 - 17:00（予定）
+  - 13:00 - 16:45
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2026spring にて連絡いたします．
@@ -99,9 +99,85 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
 
-5月25日（月）頃予定
+ ### 招待セッション 13:05 - 13:35
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:05 - 13:35</td><td>Diversification as Risk Minimization (WSDM 2026)</td><td>武樋 力哉（早稲田大学/MIT）</td></tr>
+ </tbody>
+</table>
 
+&nbsp;
+ ### 休憩 13:35 - 13:40
+&nbsp;
+
+ ### 一般セッション1 13:40 - 14:40
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:40 - 13:50</td><td>Understanding the Effects of Conversational Agent Personality on the Credibility of LLM-Based Conversational Search (CHIIR 2026)</td><td>田貝 奈央（筑波大学加藤研）</td></tr>
+<tr><td>13:50 - 14:00</td><td>Mixture of Sequence: Theme-Aware Mixture-of-Experts for Long-Sequence Recommendation (TheWebConf 2026)</td><td>中野 暁登（筑波大学加藤研）</td></tr>
+<tr><td>14:00 - 14:10</td><td>Asking Questions with Thoughts: An Efficient Difficulty-Controllable Question Generation Method with Posterior Knowledge Distillation (CIKM 2025)</td><td>高橋 空希（筑波大学加藤研）</td></tr>
+<tr><td>14:10 - 14:20</td><td>Revisiting Text Ranking in Deep Research (SIGIR 2026)</td><td>藤巻 晴葵（筑波大学加藤研）</td></tr>
+<tr><td>14:20 - 14:30</td><td>How Do LLM-Generated Texts Impact Term-Based Retrieval Models? (WSDM 2026)</td><td>黒川 悠馬（筑波大学加藤研）</td></tr>
+<tr><td>14:30 - 14:40</td><td>PairSem: LLM-Guided Pairwise Semantic Matching for Scientific Document Retrieval (TheWebConf 2026)</td><td>加藤 誠（筑波大学/国立情報学研究所）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 14:40 - 14:50
+&nbsp;
+
+### 一般セッション2 14:50 - 15:40
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>14:50 - 15:00</td><td>IACLR: Intention Alignment via Contrastive Learning for Bipartite Graph Recommendation (TheWebConf 2026)</td><td>左野 寛之（筑波大学吉田研）</td></tr>
+<tr><td>15:00 - 15:10</td><td>Asymmetric Pipeline for Dataset Construction and Situation-aware Generative Outfit Retrieval Leveraging Differences in Task Difficulty (ICMR 2026)<BR>
+Dual-Diffusional Generative Fashion Recommendation (SIGIR 2026)<BR>
+Beyond Patches: Superpixel Token-based Transformers forAttribute-Specific Fashion Retrieval (TheWebConf 2026)</td><td>大江 優真（静岡大学 莊司研）</td></tr>
+<tr><td>15:10 - 15:20</td><td>Same Image, Different Meanings: Toward Retrieval of Context-Dependent Meanings (SIGIR 2026)</td><td>大倉 子龍（静岡大学莊司研）</td></tr>
+<tr><td>15:20 - 15:30</td><td>CSyMR: Benchmarking Compositional Music Information Retrieval in Symbolic Music Reasoning (SIGIR 2026)</td><td>三林 亮太（神戸大学三林研）</td></tr>
+<tr><td>15:30 - 15:40</td><td>未定</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 15:40 - 15:50
+&nbsp;
+
+### 一般セッション3 15:50 - 16:45
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>15:50 - 16:00</td><td>未定</td><td>中野 優</td></tr>
+<tr><td>16:00 - 16:10</td><td>Query–Document Dense Vectors for LLM Relevance Judgment Bias Analysis (ECIR 2026)</td><td>茂手木 太一（株式会社マイベスト）</td></tr>
+<tr><td>16:10 - 16:20</td><td>Preliminary Study of an Evaluation Benchmark for Vision–Language Models in Fashion E-Commerce (SIGIR 2026)<BR>
+ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation (SIGIR 2026)</td><td>清水 良太郎（ZOZO Research）</td></tr>
+<tr><td>16:20 - 16:25</td><td>PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading (TheWebConf 2026)</td><td>大島 裕明（兵庫県立大学大島研）</td></tr>
+<tr><td>16:25 - 16:30</td><td>VL-KGE: Vision–Language Models Meet Knowledge Graph Embeddings (TheWebConf 2026)</td><td>木下 真帆（兵庫県立大学大島研）</td></tr>
+<tr><td>16:30 - 16:35</td><td>Digital Skin, Digital Bias: Uncovering Tone-Based Biases in LLMs and Emoji Embeddings (TheWebConf 2026)</td><td>桑田 若菜（兵庫県立大学大島研）</td></tr>
+<tr><td>16:35 - 16:40</td><td>An LLM-Powered Cooperative Framework for Large-Scale Multi-Vehicle Navigation (TheWebConf 2026)</td><td>松本 美風（兵庫県立大学大島研）</td></tr>
+<tr><td>16:40 - 16:45</td><td>クロージング</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
 
 ## FAQ
 
