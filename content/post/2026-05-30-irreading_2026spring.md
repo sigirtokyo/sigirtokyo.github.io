@@ -167,7 +167,7 @@ Beyond Patches: Superpixel Token-based Transformers forAttribute-Specific Fashio
    <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
  </thead>
  <tbody>
-<tr><td>15:50 - 16:00</td><td>未定</td><td>中野 優</td></tr>
+<tr><td>15:50 - 16:00</td><td>A Comparative Analysis of Linguistic and Retrieval Diversity in LLM-Generated Search Queries (CIKM 2025)</td><td>中野 優</td></tr>
 <tr><td>16:00 - 16:10</td><td>Query–Document Dense Vectors for LLM Relevance Judgment Bias Analysis (ECIR 2026)</td><td>茂手木 太一（株式会社マイベスト）</td></tr>
 <tr><td>16:10 - 16:20</td><td>Preliminary Study of an Evaluation Benchmark for Vision–Language Models in Fashion E-Commerce (SIGIR 2026)<BR>
 ZoRRO: A Zero-Weight Personalized Recommender System for Scalable News Recommendation (SIGIR 2026)</td><td>清水 良太郎（ZOZO Research）</td></tr>
