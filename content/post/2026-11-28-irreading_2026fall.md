@@ -14,7 +14,7 @@ draft: false
 
 ## 日時
 - 2026年11月28日（土）
-  - 13:00 - 17:00（予定）
+  - 13:00 - 15:30
 
 ## 会場
 - Zoomを利用します．接続URLは当日が近づきましたらSlackのチャンネル #2026fall にて連絡いたします．
@@ -98,10 +98,63 @@ IR Reading Slack参加リンク
 
 <span id="program"></span>
 ## プログラム
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:00 - 13:05</td><td>オープニング・趣旨説明</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
 
-TBD
+ ### 招待セッション 13:05 - 13:35
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:05 - 13:35</td><td>Assessing Attack Surfaces in Generative Search Engines through Publisher Attributes: A Case Study in Political Domains (CIKM 2026)</td><td>望月 理来（慶應義塾大学）</td></tr>
+ </tbody>
+</table>
 
+&nbsp;
+ ### 休憩 13:35 - 13:40
+&nbsp;
 
+ ### 一般セッション1 13:40 - 14:20
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>13:40 - 13:50</td><td>Model Merging as an Alternative to Fine-Tuning on Combined Data for a Multi-Domain Dense Retriever (ICTIR2026)</td><td>佐々木 泰河（株式会社マイナビ）</td></tr>
+<tr><td>13:50 - 14:00</td><td>未定</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
+<tr><td>14:00 - 14:10</td><td>未定</td><td>市岡 奨平（一橋大学 欅研）</td></tr>
+<tr><td>14:10 - 14:20</td><td>未定</td><td>中野 優</td></tr>
+ </tbody>
+</table>
+
+&nbsp;
+ ### 休憩 14:20 - 14:30
+&nbsp;
+
+### 一般セッション2 14:30 - 15:30
+<table class="table table-hover table-striped text-left">
+ <thead class="thead-light">
+   <tr><th scope="col" class="col-md-3">時間</th><th scope="col" class="col-md-6">論文</th><th scope="col" class="col-md-3">発表者</th></tr>
+ </thead>
+ <tbody>
+<tr><td>14:30 - 14:35</td><td>A Comparative Study of Users' Information-Seeking Practices Across Search Engines and Generative AI Chatbots (SIGIR 2026)</td><td>大島 裕明（兵庫県立大学）</td></tr>
+<tr><td>14:35 - 14:40</td><td>Eval4Sim: An Evaluation Framework for Persona Simulation (CIKM 2026)</td><td>木下 真帆（兵庫県立大学）</td></tr>
+<tr><td>14:40 - 14:45</td><td>When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation (SIGIR 2026)</td><td>Xu Guangcheng（兵庫県立大学）</td></tr>
+<tr><td>14:45 - 14:50</td><td>Layer-wise Token Compression for Efficient Document Reranking (SIGIR 2026)</td><td>粕谷 俊介（兵庫県立大学）</td></tr>
+<tr><td>14:50 - 14:55</td><td>ReCaRe: A Bilingual Benchmark for Revision Candidate Retrieval in Evolving Legal Corpora? (CIKM 2026)</td><td>加藤 誠（筑波大学）</td></tr>
+<tr><td>14:55 - 15:05</td><td>When Deep Research Agents Stagnate: Enhancing Reasoning with Retrieval-Aware Agent Control (EMNLP2026)</td><td>藤巻 晴葵（筑波大学）</td></tr>
+<tr><td>15:05 - 15:15</td><td>未定</td><td>本藤 祐大（筑波大学）</td></tr>
+<tr><td>15:15 - 15:25</td><td>iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification (SIGIR 2026)</td><td>大江 優真（静岡大学）</td></tr>
+<tr><td>15:25 - 15:30</td><td>クロージング</td><td>&nbsp;</td></tr>
+ </tbody>
+</table>
 
 ## FAQ
 
