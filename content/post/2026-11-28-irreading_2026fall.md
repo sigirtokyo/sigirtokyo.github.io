@@ -129,7 +129,7 @@ IR Reading Slack参加リンク
  <tbody>
 <tr><td>13:40 - 13:50</td><td>Model Merging as an Alternative to Fine-Tuning on Combined Data for a Multi-Domain Dense Retriever (ICTIR2026)</td><td>佐々木 泰河（株式会社マイナビ）</td></tr>
 <tr><td>13:50 - 14:00</td><td>未定</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
-<tr><td>14:00 - 14:10</td><td>未定</td><td>市岡 奨平（一橋大学 欅研）</td></tr>
+<tr><td>14:00 - 14:10</td><td>Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing (SIGIR 2026)</td><td>市岡 奨平（一橋大学 欅研）</td></tr>
 <tr><td>14:10 - 14:20</td><td>未定</td><td>中野 優</td></tr>
 <tr><td>14:20 - 14:30</td><td>iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification (SIGIR 2026)</td><td>大江 優真（静岡大学）</td></tr>
  </tbody>
