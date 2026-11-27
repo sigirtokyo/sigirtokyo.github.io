@@ -128,7 +128,7 @@ IR Reading Slack参加リンク
  </thead>
  <tbody>
 <tr><td>13:40 - 13:50</td><td>Model Merging as an Alternative to Fine-Tuning on Combined Data for a Multi-Domain Dense Retriever (ICTIR2026)</td><td>佐々木 泰河（株式会社マイナビ）</td></tr>
-<tr><td>13:50 - 14:00</td><td>未定</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
+<tr><td>13:50 - 14:00</td><td>Are LLM-Based Retrievers Worth Their Cost? An Empirical Study of Efficiency, Robustness, and Reasoning Overhead (SIGIR 2026)</td><td>新田 洸平（SB Intuitions株式会社）</td></tr>
 <tr><td>14:00 - 14:10</td><td>Efficient Multivector Retrieval with Token-Aware Clustering and Hierarchical Indexing (SIGIR 2026)</td><td>市岡 奨平（一橋大学 欅研）</td></tr>
 <tr><td>14:10 - 14:20</td><td>未定</td><td>中野 優</td></tr>
 <tr><td>14:20 - 14:30</td><td>iTIMO: An LLM-empowered Synthesis Dataset for Travel Itinerary Modification (SIGIR 2026)</td><td>大江 優真（静岡大学）</td></tr>
@@ -151,7 +151,7 @@ IR Reading Slack参加リンク
 <tr><td>14:55 - 15:00</td><td>Layer-wise Token Compression for Efficient Document Reranking (SIGIR 2026)</td><td>粕谷 俊介（兵庫県立大学）</td></tr>
 <tr><td>15:00 - 15:05</td><td>ReCaRe: A Bilingual Benchmark for Revision Candidate Retrieval in Evolving Legal Corpora? (CIKM 2026)</td><td>加藤 誠（筑波大学）</td></tr>
 <tr><td>15:05 - 15:15</td><td>When Deep Research Agents Stagnate: Enhancing Reasoning with Retrieval-Aware Agent Control (EMNLP2026)</td><td>藤巻 晴葵（筑波大学）</td></tr>
-<tr><td>15:15 - 15:25</td><td>未定</td><td>本藤 祐大（筑波大学）</td></tr>
+<tr><td>15:15 - 15:25</td><td>The “Curse of Knowledge” in LLM Query Simulation: Concept Provenance for Tracing Answer-Side Intrusion (CIKM 2026)</td><td>本藤 祐大（筑波大学）</td></tr>
 <tr><td>15:25 - 15:30</td><td>クロージング</td><td>&nbsp;</td></tr>
  </tbody>
 </table>
